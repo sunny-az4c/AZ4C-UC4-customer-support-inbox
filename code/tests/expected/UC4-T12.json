@@ -1,0 +1,14 @@
+{
+  "case_id": "UC4-T12",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-302498",
+    "HA-03"
+  ],
+  "needs_human": false,
+  "note": "cancel while shipment pending (RP 3.1)"
+}

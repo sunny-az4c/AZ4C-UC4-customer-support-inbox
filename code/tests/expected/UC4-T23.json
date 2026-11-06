@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T23",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301651"
+  ],
+  "needs_human": false,
+  "note": "courier complaint, no refund asked"
+}

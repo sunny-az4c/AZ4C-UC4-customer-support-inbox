@@ -1,0 +1,16 @@
+{
+  "case_id": "UC4-T18",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "HA-15"
+  ],
+  "needs_human": false,
+  "key_numbers": [
+    10000
+  ],
+  "note": "COD limit from HA-15"
+}

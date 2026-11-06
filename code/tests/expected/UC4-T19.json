@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T19",
+  "decision": "reply",
+  "reason_code": [
+    "NO_SOURCE_AVAILABLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301514"
+  ],
+  "needs_human": false,
+  "note": "warranty on a non-appliance: no article covers it"
+}

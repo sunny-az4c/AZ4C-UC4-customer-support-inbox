@@ -1,0 +1,121 @@
+sku,name,category,price,returnable,is_synthetic
+LH-1001,Tri-ply Kadai 26cm,kitchen,519.0,1,1
+LH-1002,Tri-ply Kadai 26cm (Grey),kitchen,2479.0,1,1
+LH-1003,Tri-ply Kadai 26cm (Blue),kitchen,1379.0,1,1
+LH-1004,Non-stick Tawa 28cm,kitchen,1759.0,1,1
+LH-1005,Non-stick Tawa 28cm (Grey),kitchen,779.0,1,1
+LH-1006,Non-stick Tawa 28cm (Blue),kitchen,709.0,1,1
+LH-1007,Pressure Cooker 5L,kitchen,919.0,1,1
+LH-1008,Pressure Cooker 5L (Grey),kitchen,1769.0,1,1
+LH-1009,Pressure Cooker 5L (Blue),kitchen,809.0,1,1
+LH-1010,Steel Tiffin Set,kitchen,2399.0,1,1
+LH-1011,Steel Tiffin Set (Grey),kitchen,1159.0,1,1
+LH-1012,Steel Tiffin Set (Blue),kitchen,2119.0,1,1
+LH-1013,Glass Storage Jars (set of 6),kitchen,329.0,1,1
+LH-1014,Glass Storage Jars (set of 6) (Grey),kitchen,2089.0,1,1
+LH-1015,Glass Storage Jars (set of 6) (Blue),kitchen,969.0,1,1
+LH-1016,Cast Iron Skillet 25cm,kitchen,1169.0,1,1
+LH-1017,Cast Iron Skillet 25cm (Grey),kitchen,1529.0,1,1
+LH-1018,Cast Iron Skillet 25cm (Blue),kitchen,499.0,1,1
+LH-1019,Spice Box Masala Dabba,kitchen,2119.0,1,1
+LH-1020,Spice Box Masala Dabba (Grey),kitchen,2099.0,1,1
+LH-1021,Spice Box Masala Dabba (Blue),kitchen,819.0,1,1
+LH-1022,Chopping Board Bamboo,kitchen,519.0,1,1
+LH-1023,Chopping Board Bamboo (Grey),kitchen,1479.0,1,1
+LH-1024,Chopping Board Bamboo (Blue),kitchen,2289.0,1,1
+LH-1025,Knife Set 5pc,kitchen,999.0,1,1
+LH-1026,Knife Set 5pc (Grey),kitchen,319.0,1,1
+LH-1027,Knife Set 5pc (Blue),kitchen,1939.0,1,1
+LH-1028,Water Bottle Copper 1L,kitchen,1709.0,1,1
+LH-1029,Water Bottle Copper 1L (Grey),kitchen,1569.0,1,1
+LH-1030,Water Bottle Copper 1L (Blue),kitchen,1119.0,1,1
+LH-1031,Dinner Set 24pc,kitchen,699.0,1,1
+LH-1032,Dinner Set 24pc (Grey),kitchen,1209.0,1,1
+LH-1033,Dinner Set 24pc (Blue),kitchen,1409.0,1,1
+LH-1034,Coffee Mugs (set of 4),kitchen,349.0,1,1
+LH-1035,Coffee Mugs (set of 4) (Grey),kitchen,1399.0,1,1
+LH-1036,Coffee Mugs (set of 4) (Blue),kitchen,1959.0,1,1
+LH-1037,Silicone Spatula Set,kitchen,879.0,1,1
+LH-1038,Silicone Spatula Set (Grey),kitchen,2389.0,1,1
+LH-1039,Silicone Spatula Set (Blue),kitchen,739.0,1,1
+LH-1040,Idli Steamer 4-plate,kitchen,2089.0,1,1
+LH-1041,Idli Steamer 4-plate (Grey),kitchen,1919.0,1,1
+LH-1042,Idli Steamer 4-plate (Blue),kitchen,1299.0,1,1
+LH-1043,Oil Dispenser 750ml,kitchen,1219.0,1,1
+LH-1044,Oil Dispenser 750ml (Grey),kitchen,1349.0,1,1
+LH-1045,Oil Dispenser 750ml (Blue),kitchen,499.0,1,1
+LH-1046,Curtain Rod Extendable,home,709.0,1,1
+LH-1047,Curtain Rod Extendable (Grey),home,1979.0,1,1
+LH-1048,Curtain Rod Extendable (Blue),home,1389.0,1,1
+LH-1049,Wall Shelf Floating,home,649.0,1,1
+LH-1050,Wall Shelf Floating (Grey),home,1069.0,1,1
+LH-1051,Wall Shelf Floating (Blue),home,1009.0,1,1
+LH-1052,Shoe Rack 4-tier,home,2449.0,1,1
+LH-1053,Shoe Rack 4-tier (Grey),home,1239.0,1,1
+LH-1054,Shoe Rack 4-tier (Blue),home,539.0,1,1
+LH-1055,Laundry Basket,home,979.0,1,1
+LH-1056,Laundry Basket (Grey),home,1399.0,1,1
+LH-1057,Laundry Basket (Blue),home,1899.0,1,1
+LH-1058,Doormat Coir,home,2139.0,1,1
+LH-1059,Doormat Coir (Grey),home,409.0,1,1
+LH-1060,Doormat Coir (Blue),home,489.0,1,1
+LH-1061,Photo Frame Set,home,429.0,1,1
+LH-1062,Photo Frame Set (Grey),home,2099.0,1,1
+LH-1063,Photo Frame Set (Blue),home,1149.0,1,1
+LH-1064,Table Lamp Ceramic,home,2389.0,1,1
+LH-1065,Table Lamp Ceramic (Grey),home,1269.0,1,1
+LH-1066,Table Lamp Ceramic (Blue),home,1319.0,1,1
+LH-1067,Wall Clock Wooden,home,1219.0,1,1
+LH-1068,Wall Clock Wooden (Grey),home,1739.0,1,1
+LH-1069,Wall Clock Wooden (Blue),home,1159.0,1,1
+LH-1070,Storage Ottoman,home,1239.0,1,1
+LH-1071,Storage Ottoman (Grey),home,1359.0,1,1
+LH-1072,Storage Ottoman (Blue),home,2379.0,1,1
+LH-1073,Mirror Round 60cm,home,1599.0,1,1
+LH-1074,Mirror Round 60cm (Grey),home,1359.0,1,1
+LH-1075,Mirror Round 60cm (Blue),home,729.0,1,1
+LH-1076,Plant Stand Metal,home,1239.0,1,1
+LH-1077,Plant Stand Metal (Grey),home,1499.0,1,1
+LH-1078,Plant Stand Metal (Blue),home,2039.0,1,1
+LH-1079,Bathroom Organiser,home,1549.0,1,1
+LH-1080,Bathroom Organiser (Grey),home,1779.0,1,1
+LH-1081,Bathroom Organiser (Blue),home,2479.0,1,1
+LH-1082,Cotton Bedsheet Queen,textiles,369.0,1,1
+LH-1083,Cotton Bedsheet Queen (Grey),textiles,2149.0,1,1
+LH-1084,Cotton Bedsheet Queen (Blue),textiles,759.0,1,1
+LH-1085,Cotton Bedsheet King,textiles,1939.0,1,1
+LH-1086,Cotton Bedsheet King (Grey),textiles,2009.0,1,1
+LH-1087,Cotton Bedsheet King (Blue),textiles,1539.0,1,1
+LH-1088,Bath Towel Set,textiles,2379.0,1,1
+LH-1089,Bath Towel Set (Grey),textiles,2119.0,1,1
+LH-1090,Bath Towel Set (Blue),textiles,939.0,1,1
+LH-1091,Cushion Covers (set of 5),textiles,1119.0,1,1
+LH-1092,Cushion Covers (set of 5) (Grey),textiles,649.0,1,1
+LH-1093,Cushion Covers (set of 5) (Blue),textiles,969.0,1,1
+LH-1094,Blackout Curtains 7ft,textiles,1909.0,1,1
+LH-1095,Blackout Curtains 7ft (Grey),textiles,1669.0,1,1
+LH-1096,Blackout Curtains 7ft (Blue),textiles,399.0,1,1
+LH-1097,Bed Pillow Microfibre,textiles,1279.0,0,1
+LH-1098,Bed Pillow Microfibre (Grey),textiles,2419.0,0,1
+LH-1099,Bed Pillow Microfibre (Blue),textiles,1509.0,0,1
+LH-1100,Quilt Reversible,textiles,1719.0,1,1
+LH-1101,Quilt Reversible (Grey),textiles,1929.0,1,1
+LH-1102,Quilt Reversible (Blue),textiles,1509.0,1,1
+LH-1103,Table Runner,textiles,1389.0,1,1
+LH-1104,Table Runner (Grey),textiles,1509.0,1,1
+LH-1105,Table Runner (Blue),textiles,1199.0,1,1
+LH-1106,Kitchen Towels (set of 6),textiles,2449.0,1,1
+LH-1107,Kitchen Towels (set of 6) (Grey),textiles,1059.0,1,1
+LH-1108,Kitchen Towels (set of 6) (Blue),textiles,1089.0,1,1
+LH-1109,Mattress Protector Queen,textiles,379.0,0,1
+LH-1110,Mattress Protector Queen (Grey),textiles,769.0,0,1
+LH-1111,Mattress Protector Queen (Blue),textiles,2009.0,0,1
+LH-1112,Electric Kettle 1.5L,electronics,3919.0,1,1
+LH-1113,Electric Kettle 1.5L (Grey),electronics,6319.0,1,1
+LH-1114,Electric Kettle 1.5L (Blue),electronics,2439.0,1,1
+LH-1115,Mixer Grinder 750W,electronics,989.0,1,1
+LH-1116,Mixer Grinder 750W (Grey),electronics,1809.0,1,1
+LH-1117,Mixer Grinder 750W (Blue),electronics,1919.0,1,1
+LH-1118,Air Fryer 4.2L,electronics,4369.0,1,1
+LH-1119,Air Fryer 4.2L (Grey),electronics,1179.0,1,1
+LH-1120,Air Fryer 4.2L (Blue),electronics,3559.0,1,1

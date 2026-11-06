@@ -1,0 +1,16 @@
+{
+  "case_id": "UC4-T08",
+  "decision": "reply",
+  "reason_code": [
+    "REFUND_NOT_ELIGIBLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301353"
+  ],
+  "needs_human": false,
+  "key_numbers": [
+    45
+  ],
+  "note": "change of mind 45 days after delivery"
+}

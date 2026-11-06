@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T16",
+  "decision": "reply",
+  "reason_code": [
+    "REFUND_NOT_ELIGIBLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301454"
+  ],
+  "needs_human": false,
+  "note": "damage reported 50 days after delivery (RP 2.3)"
+}

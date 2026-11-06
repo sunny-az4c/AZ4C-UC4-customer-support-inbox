@@ -1,0 +1,102 @@
+{
+  "cases": 24,
+  "score": 100.0,
+  "per_case": [
+    {
+      "case_id": "UC4-T01",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T02",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T03",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T04",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T05",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T06",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T07",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T08",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T09",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T10",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T11",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T12",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T13",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T14",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T15",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T16",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T17",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T18",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T19",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T20",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T21",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T22",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T23",
+      "score": 1.0
+    },
+    {
+      "case_id": "UC4-T24",
+      "score": 1.0
+    }
+  ]
+}

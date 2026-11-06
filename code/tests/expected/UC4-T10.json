@@ -1,0 +1,11 @@
+{
+  "case_id": "UC4-T10",
+  "decision": "handover",
+  "reason_code": [
+    "LEGAL_OR_ESCALATION"
+  ],
+  "amount": null,
+  "must_cite": [],
+  "needs_human": true,
+  "note": "consumer court and legal notice (EP 1)"
+}

@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T21",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301187"
+  ],
+  "needs_human": false,
+  "note": "Hinglish where-is-my-order, already delivered"
+}

@@ -1,0 +1,10 @@
+{
+  "case_id": "UC4-S05",
+  "decision": "reply",
+  "reason_code": [
+    "IDENTITY_MISMATCH"
+  ],
+  "amount": null,
+  "must_cite": [],
+  "needs_human": false
+}

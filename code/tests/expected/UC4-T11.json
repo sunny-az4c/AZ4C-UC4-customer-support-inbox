@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T11",
+  "decision": "reply",
+  "reason_code": [
+    "REFUND_NOT_ELIGIBLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301976"
+  ],
+  "needs_human": false,
+  "note": "item already refunded"
+}

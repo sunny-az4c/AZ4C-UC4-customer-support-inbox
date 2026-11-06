@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Result for use case 4: Customer support inbox",
+  "type": "object",
+  "required": [
+    "case_id",
+    "decision",
+    "reason_code",
+    "amount",
+    "citations",
+    "needs_human",
+    "trace_id"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "reply",
+        "reply_with_refund",
+        "handover"
+      ]
+    },
+    "reason_code": {
+      "type": "string",
+      "enum": [
+        "RESOLVED",
+        "REFUND_ELIGIBLE",
+        "REFUND_NOT_ELIGIBLE",
+        "IDENTITY_MISMATCH",
+        "LEGAL_OR_ESCALATION",
+        "NO_SOURCE_AVAILABLE"
+      ]
+    },
+    "amount": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "needs_human": {
+      "type": "boolean"
+    },
+    "trace_id": {
+      "type": "string"
+    },
+    "requests": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "refund": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "draft_reply": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "P1",
+        "P2",
+        "P3"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

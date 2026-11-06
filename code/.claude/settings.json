@@ -1,0 +1,60 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 10,
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || python \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || py -3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 10,
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || python \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || py -3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit|NotebookEdit|Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 10,
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || python \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || py -3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 10,
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || python \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || py -3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude"
+          }
+        ]
+      }
+    ],
+    "StopFailure": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 10,
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || python \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude || py -3 \"$CLAUDE_PROJECT_DIR/.az4c/log_event.py\" claude"
+          }
+        ]
+      }
+    ]
+  }
+}

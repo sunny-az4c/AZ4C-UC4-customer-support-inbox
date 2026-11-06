@@ -1,0 +1,12 @@
+{
+  "case_id": "UC4-S01",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "HA-07"
+  ],
+  "needs_human": false
+}

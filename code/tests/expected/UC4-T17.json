@@ -1,0 +1,14 @@
+{
+  "case_id": "UC4-T17",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-302391",
+    "HA-06"
+  ],
+  "needs_human": false,
+  "note": "damage within 7 days but no photo yet: ask for the photo"
+}

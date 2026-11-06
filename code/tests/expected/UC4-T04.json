@@ -1,0 +1,16 @@
+{
+  "case_id": "UC4-T04",
+  "decision": "reply",
+  "reason_code": [
+    "REFUND_NOT_ELIGIBLE"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-301687"
+  ],
+  "needs_human": false,
+  "key_numbers": [
+    20
+  ],
+  "note": "electronics, 20 days > 14-day window; offer warranty (RP 2.5)"
+}

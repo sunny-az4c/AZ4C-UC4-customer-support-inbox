@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ],
+    "beforeSubmitPrompt": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ],
+    "afterFileEdit": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ],
+    "afterTabFileEdit": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ],
+    "afterShellExecution": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ],
+    "afterAgentResponse": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ],
+    "stop": [
+      {
+        "command": "python3 .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "python .az4c/log_event.py cursor",
+        "timeout": 10
+      },
+      {
+        "command": "py -3 .az4c/log_event.py cursor",
+        "timeout": 10
+      }
+    ]
+  }
+}

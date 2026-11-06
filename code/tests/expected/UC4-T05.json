@@ -1,0 +1,14 @@
+{
+  "case_id": "UC4-T05",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "LH-302464",
+    "HA-02"
+  ],
+  "needs_human": false,
+  "note": "address change after dispatch: refuse, point to HA-02 (RP 3.1)"
+}

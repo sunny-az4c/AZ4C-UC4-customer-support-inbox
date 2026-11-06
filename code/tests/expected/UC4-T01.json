@@ -1,0 +1,11 @@
+{
+  "case_id": "UC4-T01",
+  "decision": "reply",
+  "reason_code": [
+    "NO_SOURCE_AVAILABLE"
+  ],
+  "amount": null,
+  "must_cite": [],
+  "needs_human": false,
+  "note": "question no help article covers: specialist in 2 working days (RP 4.1)"
+}

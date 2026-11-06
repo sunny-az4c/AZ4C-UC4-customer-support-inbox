@@ -1,0 +1,2499 @@
+order_id,customer_id,order_date,status,payment_method,is_synthetic
+LH-300001,CU-10159,2026-06-01,delivered,Card,1
+LH-300002,CU-10527,2026-06-01,delivered,Card,1
+LH-300003,CU-10779,2026-06-01,delivered,Cash on delivery,1
+LH-300004,CU-10292,2026-06-01,delivered,Cash on delivery,1
+LH-300005,CU-10162,2026-06-01,delivered,Cash on delivery,1
+LH-300006,CU-10721,2026-06-01,delivered,Cash on delivery,1
+LH-300007,CU-10753,2026-06-01,delivered,Card,1
+LH-300008,CU-10745,2026-06-01,delivered,Net banking,1
+LH-300009,CU-10068,2026-06-01,delivered,UPI,1
+LH-300010,CU-10349,2026-06-01,delivered,Net banking,1
+LH-300011,CU-10246,2026-06-01,delivered,Card,1
+LH-300012,CU-10336,2026-06-01,delivered,Cash on delivery,1
+LH-300013,CU-10731,2026-06-01,delivered,Net banking,1
+LH-300014,CU-10607,2026-06-01,delivered,UPI,1
+LH-300015,CU-10395,2026-06-01,delivered,Net banking,1
+LH-300016,CU-10532,2026-06-01,delivered,UPI,1
+LH-300017,CU-10270,2026-06-01,delivered,Cash on delivery,1
+LH-300018,CU-10312,2026-06-01,delivered,Card,1
+LH-300019,CU-10042,2026-06-01,delivered,Net banking,1
+LH-300020,CU-10004,2026-06-01,delivered,UPI,1
+LH-300021,CU-10458,2026-06-01,delivered,UPI,1
+LH-300022,CU-10232,2026-06-01,delivered,UPI,1
+LH-300023,CU-10280,2026-06-02,delivered,Net banking,1
+LH-300024,CU-10065,2026-06-02,delivered,Net banking,1
+LH-300025,CU-10317,2026-06-02,delivered,Card,1
+LH-300026,CU-10012,2026-06-02,delivered,Card,1
+LH-300027,CU-10200,2026-06-02,delivered,Cash on delivery,1
+LH-300028,CU-10375,2026-06-02,delivered,Card,1
+LH-300029,CU-10657,2026-06-02,delivered,Card,1
+LH-300030,CU-10360,2026-06-02,delivered,Card,1
+LH-300031,CU-10293,2026-06-02,delivered,UPI,1
+LH-300032,CU-10444,2026-06-02,delivered,Cash on delivery,1
+LH-300033,CU-10514,2026-06-02,delivered,Net banking,1
+LH-300034,CU-10335,2026-06-02,delivered,Card,1
+LH-300035,CU-10244,2026-06-02,delivered,Net banking,1
+LH-300036,CU-10367,2026-06-02,delivered,Net banking,1
+LH-300037,CU-10682,2026-06-02,delivered,Card,1
+LH-300038,CU-10091,2026-06-03,delivered,Net banking,1
+LH-300039,CU-10313,2026-06-03,delivered,Cash on delivery,1
+LH-300040,CU-10373,2026-06-03,delivered,Card,1
+LH-300041,CU-10418,2026-06-03,delivered,Cash on delivery,1
+LH-300042,CU-10152,2026-06-03,delivered,Card,1
+LH-300043,CU-10379,2026-06-03,delivered,UPI,1
+LH-300044,CU-10288,2026-06-03,delivered,Net banking,1
+LH-300045,CU-10262,2026-06-03,delivered,Card,1
+LH-300046,CU-10775,2026-06-03,delivered,UPI,1
+LH-300047,CU-10057,2026-06-03,delivered,UPI,1
+LH-300048,CU-10582,2026-06-04,delivered,UPI,1
+LH-300049,CU-10226,2026-06-04,delivered,Cash on delivery,1
+LH-300050,CU-10414,2026-06-04,delivered,Net banking,1
+LH-300051,CU-10746,2026-06-04,delivered,Net banking,1
+LH-300052,CU-10463,2026-06-04,delivered,Net banking,1
+LH-300053,CU-10335,2026-06-04,delivered,Net banking,1
+LH-300054,CU-10588,2026-06-04,delivered,UPI,1
+LH-300055,CU-10236,2026-06-04,delivered,Net banking,1
+LH-300056,CU-10022,2026-06-04,delivered,Net banking,1
+LH-300057,CU-10685,2026-06-04,delivered,Cash on delivery,1
+LH-300058,CU-10493,2026-06-04,delivered,Net banking,1
+LH-300059,CU-10257,2026-06-05,delivered,Cash on delivery,1
+LH-300060,CU-10670,2026-06-05,delivered,Net banking,1
+LH-300061,CU-10730,2026-06-05,delivered,Cash on delivery,1
+LH-300062,CU-10037,2026-06-05,delivered,Card,1
+LH-300063,CU-10047,2026-06-05,delivered,Card,1
+LH-300064,CU-10320,2026-06-05,delivered,Card,1
+LH-300065,CU-10749,2026-06-05,delivered,Cash on delivery,1
+LH-300066,CU-10038,2026-06-05,delivered,Net banking,1
+LH-300067,CU-10361,2026-06-05,delivered,Card,1
+LH-300068,CU-10646,2026-06-05,delivered,Net banking,1
+LH-300069,CU-10178,2026-06-05,delivered,Card,1
+LH-300070,CU-10360,2026-06-05,delivered,Cash on delivery,1
+LH-300071,CU-10143,2026-06-05,delivered,Cash on delivery,1
+LH-300072,CU-10543,2026-06-05,delivered,UPI,1
+LH-300073,CU-10065,2026-06-05,delivered,Net banking,1
+LH-300074,CU-10699,2026-06-05,delivered,Card,1
+LH-300075,CU-10273,2026-06-05,delivered,Cash on delivery,1
+LH-300076,CU-10784,2026-06-05,delivered,Card,1
+LH-300077,CU-10784,2026-06-05,delivered,Card,1
+LH-300078,CU-10042,2026-06-06,delivered,Net banking,1
+LH-300079,CU-10710,2026-06-06,delivered,Cash on delivery,1
+LH-300080,CU-10423,2026-06-06,delivered,Net banking,1
+LH-300081,CU-10125,2026-06-06,delivered,Net banking,1
+LH-300082,CU-10774,2026-06-06,delivered,Net banking,1
+LH-300083,CU-10731,2026-06-06,delivered,Cash on delivery,1
+LH-300084,CU-10569,2026-06-06,delivered,UPI,1
+LH-300085,CU-10338,2026-06-06,delivered,Cash on delivery,1
+LH-300086,CU-10555,2026-06-06,delivered,Net banking,1
+LH-300087,CU-10035,2026-06-06,delivered,Card,1
+LH-300088,CU-10355,2026-06-06,delivered,UPI,1
+LH-300089,CU-10234,2026-06-06,delivered,Cash on delivery,1
+LH-300090,CU-10246,2026-06-06,delivered,Cash on delivery,1
+LH-300091,CU-10532,2026-06-06,delivered,Cash on delivery,1
+LH-300092,CU-10074,2026-06-06,delivered,UPI,1
+LH-300093,CU-10027,2026-06-06,delivered,Card,1
+LH-300094,CU-10608,2026-06-06,delivered,UPI,1
+LH-300095,CU-10543,2026-06-06,delivered,Net banking,1
+LH-300096,CU-10188,2026-06-06,delivered,Net banking,1
+LH-300097,CU-10480,2026-06-06,delivered,Net banking,1
+LH-300098,CU-10090,2026-06-07,delivered,Card,1
+LH-300099,CU-10474,2026-06-07,delivered,Cash on delivery,1
+LH-300100,CU-10313,2026-06-07,delivered,Cash on delivery,1
+LH-300101,CU-10566,2026-06-07,delivered,UPI,1
+LH-300102,CU-10567,2026-06-07,delivered,Card,1
+LH-300103,CU-10481,2026-06-07,delivered,Net banking,1
+LH-300104,CU-10336,2026-06-07,delivered,UPI,1
+LH-300105,CU-10542,2026-06-07,delivered,Card,1
+LH-300106,CU-10188,2026-06-07,returned,UPI,1
+LH-300107,CU-10618,2026-06-07,delivered,Net banking,1
+LH-300108,CU-10289,2026-06-07,delivered,UPI,1
+LH-300109,CU-10088,2026-06-07,delivered,Card,1
+LH-300110,CU-10488,2026-06-07,delivered,Cash on delivery,1
+LH-300111,CU-10634,2026-06-07,delivered,Card,1
+LH-300112,CU-10447,2026-06-07,delivered,Cash on delivery,1
+LH-300113,CU-10674,2026-06-07,delivered,Card,1
+LH-300114,CU-10287,2026-06-08,delivered,Cash on delivery,1
+LH-300115,CU-10340,2026-06-08,delivered,Cash on delivery,1
+LH-300116,CU-10473,2026-06-08,delivered,Net banking,1
+LH-300117,CU-10361,2026-06-08,delivered,Cash on delivery,1
+LH-300118,CU-10338,2026-06-08,delivered,Card,1
+LH-300119,CU-10378,2026-06-08,delivered,Cash on delivery,1
+LH-300120,CU-10226,2026-06-08,returned,Net banking,1
+LH-300121,CU-10513,2026-06-08,delivered,Cash on delivery,1
+LH-300122,CU-10314,2026-06-08,delivered,Card,1
+LH-300123,CU-10053,2026-06-08,delivered,Cash on delivery,1
+LH-300124,CU-10776,2026-06-08,delivered,UPI,1
+LH-300125,CU-10081,2026-06-08,delivered,Cash on delivery,1
+LH-300126,CU-10599,2026-06-08,delivered,UPI,1
+LH-300127,CU-10580,2026-06-08,delivered,Net banking,1
+LH-300128,CU-10558,2026-06-08,delivered,Cash on delivery,1
+LH-300129,CU-10134,2026-06-08,delivered,Card,1
+LH-300130,CU-10561,2026-06-08,delivered,Card,1
+LH-300131,CU-10118,2026-06-09,delivered,Card,1
+LH-300132,CU-10062,2026-06-09,delivered,Card,1
+LH-300133,CU-10266,2026-06-09,delivered,Card,1
+LH-300134,CU-10624,2026-06-09,delivered,Card,1
+LH-300135,CU-10230,2026-06-09,delivered,Card,1
+LH-300136,CU-10056,2026-06-09,delivered,UPI,1
+LH-300137,CU-10550,2026-06-09,delivered,Card,1
+LH-300138,CU-10346,2026-06-09,delivered,Card,1
+LH-300139,CU-10756,2026-06-09,delivered,Cash on delivery,1
+LH-300140,CU-10600,2026-06-09,delivered,Net banking,1
+LH-300141,CU-10690,2026-06-09,delivered,Cash on delivery,1
+LH-300142,CU-10603,2026-06-09,delivered,Card,1
+LH-300143,CU-10627,2026-06-09,delivered,Net banking,1
+LH-300144,CU-10598,2026-06-09,delivered,Net banking,1
+LH-300145,CU-10254,2026-06-09,delivered,UPI,1
+LH-300146,CU-10085,2026-06-09,delivered,Net banking,1
+LH-300147,CU-10138,2026-06-09,delivered,Card,1
+LH-300148,CU-10330,2026-06-09,delivered,Card,1
+LH-300149,CU-10696,2026-06-09,delivered,Cash on delivery,1
+LH-300150,CU-10139,2026-06-09,delivered,Cash on delivery,1
+LH-300151,CU-10207,2026-06-10,delivered,UPI,1
+LH-300152,CU-10174,2026-06-10,delivered,Net banking,1
+LH-300153,CU-10343,2026-06-10,delivered,UPI,1
+LH-300154,CU-10745,2026-06-10,delivered,Cash on delivery,1
+LH-300155,CU-10672,2026-06-10,delivered,Cash on delivery,1
+LH-300156,CU-10244,2026-06-10,delivered,Card,1
+LH-300157,CU-10339,2026-06-10,delivered,Net banking,1
+LH-300158,CU-10744,2026-06-10,delivered,Card,1
+LH-300159,CU-10653,2026-06-10,delivered,Net banking,1
+LH-300160,CU-10077,2026-06-10,delivered,Net banking,1
+LH-300161,CU-10714,2026-06-10,delivered,Card,1
+LH-300162,CU-10177,2026-06-10,delivered,UPI,1
+LH-300163,CU-10364,2026-06-10,delivered,UPI,1
+LH-300164,CU-10636,2026-06-10,delivered,UPI,1
+LH-300165,CU-10581,2026-06-10,delivered,Cash on delivery,1
+LH-300166,CU-10481,2026-06-10,delivered,Cash on delivery,1
+LH-300167,CU-10297,2026-06-10,delivered,Card,1
+LH-300168,CU-10510,2026-06-10,delivered,UPI,1
+LH-300169,CU-10725,2026-06-10,delivered,Net banking,1
+LH-300170,CU-10214,2026-06-10,returned,Card,1
+LH-300171,CU-10595,2026-06-11,delivered,Card,1
+LH-300172,CU-10043,2026-06-11,delivered,Card,1
+LH-300173,CU-10232,2026-06-11,delivered,Card,1
+LH-300174,CU-10204,2026-06-11,delivered,Card,1
+LH-300175,CU-10454,2026-06-11,delivered,Net banking,1
+LH-300176,CU-10455,2026-06-11,delivered,Cash on delivery,1
+LH-300177,CU-10257,2026-06-11,delivered,Net banking,1
+LH-300178,CU-10481,2026-06-11,delivered,Card,1
+LH-300179,CU-10517,2026-06-11,delivered,Card,1
+LH-300180,CU-10510,2026-06-11,delivered,UPI,1
+LH-300181,CU-10625,2026-06-11,delivered,Net banking,1
+LH-300182,CU-10052,2026-06-11,delivered,Card,1
+LH-300183,CU-10134,2026-06-11,delivered,Cash on delivery,1
+LH-300184,CU-10629,2026-06-11,delivered,Cash on delivery,1
+LH-300185,CU-10144,2026-06-11,delivered,UPI,1
+LH-300186,CU-10758,2026-06-11,delivered,UPI,1
+LH-300187,CU-10547,2026-06-11,delivered,UPI,1
+LH-300188,CU-10409,2026-06-11,delivered,Cash on delivery,1
+LH-300189,CU-10591,2026-06-11,delivered,Card,1
+LH-300190,CU-10519,2026-06-11,delivered,Cash on delivery,1
+LH-300191,CU-10561,2026-06-11,delivered,Cash on delivery,1
+LH-300192,CU-10426,2026-06-11,delivered,Cash on delivery,1
+LH-300193,CU-10607,2026-06-11,delivered,UPI,1
+LH-300194,CU-10617,2026-06-11,delivered,Net banking,1
+LH-300195,CU-10504,2026-06-12,delivered,Card,1
+LH-300196,CU-10546,2026-06-12,delivered,Cash on delivery,1
+LH-300197,CU-10443,2026-06-12,delivered,Net banking,1
+LH-300198,CU-10427,2026-06-12,delivered,UPI,1
+LH-300199,CU-10428,2026-06-12,delivered,Cash on delivery,1
+LH-300200,CU-10161,2026-06-12,delivered,Cash on delivery,1
+LH-300201,CU-10467,2026-06-12,delivered,Cash on delivery,1
+LH-300202,CU-10485,2026-06-12,delivered,Net banking,1
+LH-300203,CU-10417,2026-06-12,delivered,Net banking,1
+LH-300204,CU-10506,2026-06-12,delivered,Card,1
+LH-300205,CU-10439,2026-06-12,delivered,Card,1
+LH-300206,CU-10693,2026-06-12,delivered,UPI,1
+LH-300207,CU-10385,2026-06-12,delivered,Cash on delivery,1
+LH-300208,CU-10678,2026-06-12,delivered,UPI,1
+LH-300209,CU-10364,2026-06-12,delivered,Net banking,1
+LH-300210,CU-10263,2026-06-12,delivered,UPI,1
+LH-300211,CU-10235,2026-06-12,delivered,Card,1
+LH-300212,CU-10657,2026-06-12,delivered,Cash on delivery,1
+LH-300213,CU-10132,2026-06-12,delivered,Cash on delivery,1
+LH-300214,CU-10188,2026-06-13,delivered,Cash on delivery,1
+LH-300215,CU-10039,2026-06-13,delivered,Card,1
+LH-300216,CU-10521,2026-06-13,delivered,Card,1
+LH-300217,CU-10281,2026-06-13,delivered,Card,1
+LH-300218,CU-10256,2026-06-13,delivered,UPI,1
+LH-300219,CU-10647,2026-06-13,delivered,UPI,1
+LH-300220,CU-10539,2026-06-13,delivered,Cash on delivery,1
+LH-300221,CU-10584,2026-06-13,delivered,Card,1
+LH-300222,CU-10359,2026-06-13,delivered,UPI,1
+LH-300223,CU-10447,2026-06-13,delivered,Net banking,1
+LH-300224,CU-10284,2026-06-13,delivered,Net banking,1
+LH-300225,CU-10098,2026-06-13,delivered,Cash on delivery,1
+LH-300226,CU-10214,2026-06-14,delivered,Net banking,1
+LH-300227,CU-10387,2026-06-14,delivered,Net banking,1
+LH-300228,CU-10038,2026-06-14,delivered,Card,1
+LH-300229,CU-10496,2026-06-14,delivered,UPI,1
+LH-300230,CU-10145,2026-06-14,delivered,Card,1
+LH-300231,CU-10772,2026-06-14,delivered,Net banking,1
+LH-300232,CU-10006,2026-06-14,delivered,UPI,1
+LH-300233,CU-10431,2026-06-14,delivered,Cash on delivery,1
+LH-300234,CU-10005,2026-06-14,delivered,Cash on delivery,1
+LH-300235,CU-10265,2026-06-14,delivered,Card,1
+LH-300236,CU-10179,2026-06-14,delivered,UPI,1
+LH-300237,CU-10757,2026-06-14,delivered,Cash on delivery,1
+LH-300238,CU-10082,2026-06-14,delivered,Net banking,1
+LH-300239,CU-10252,2026-06-14,delivered,UPI,1
+LH-300240,CU-10408,2026-06-14,delivered,Cash on delivery,1
+LH-300241,CU-10442,2026-06-14,delivered,Card,1
+LH-300242,CU-10301,2026-06-14,delivered,Card,1
+LH-300243,CU-10239,2026-06-14,delivered,UPI,1
+LH-300244,CU-10640,2026-06-15,delivered,UPI,1
+LH-300245,CU-10507,2026-06-15,delivered,Card,1
+LH-300246,CU-10375,2026-06-15,delivered,UPI,1
+LH-300247,CU-10023,2026-06-15,delivered,Net banking,1
+LH-300248,CU-10318,2026-06-15,delivered,UPI,1
+LH-300249,CU-10260,2026-06-15,delivered,Card,1
+LH-300250,CU-10187,2026-06-15,delivered,Cash on delivery,1
+LH-300251,CU-10633,2026-06-15,delivered,Card,1
+LH-300252,CU-10510,2026-06-15,delivered,Card,1
+LH-300253,CU-10626,2026-06-15,delivered,Cash on delivery,1
+LH-300254,CU-10358,2026-06-15,delivered,Card,1
+LH-300255,CU-10253,2026-06-15,delivered,Cash on delivery,1
+LH-300256,CU-10134,2026-06-15,delivered,UPI,1
+LH-300257,CU-10279,2026-06-15,delivered,Cash on delivery,1
+LH-300258,CU-10117,2026-06-15,delivered,Net banking,1
+LH-300259,CU-10026,2026-06-15,delivered,Card,1
+LH-300260,CU-10324,2026-06-15,delivered,UPI,1
+LH-300261,CU-10448,2026-06-15,delivered,Card,1
+LH-300262,CU-10193,2026-06-15,delivered,Net banking,1
+LH-300263,CU-10584,2026-06-15,delivered,Cash on delivery,1
+LH-300264,CU-10784,2026-06-15,delivered,UPI,1
+LH-300265,CU-10278,2026-06-16,delivered,UPI,1
+LH-300266,CU-10578,2026-06-16,delivered,Net banking,1
+LH-300267,CU-10397,2026-06-16,delivered,Cash on delivery,1
+LH-300268,CU-10338,2026-06-16,delivered,Cash on delivery,1
+LH-300269,CU-10325,2026-06-16,delivered,Card,1
+LH-300270,CU-10343,2026-06-16,delivered,UPI,1
+LH-300271,CU-10071,2026-06-16,delivered,UPI,1
+LH-300272,CU-10468,2026-06-16,delivered,Cash on delivery,1
+LH-300273,CU-10553,2026-06-16,delivered,Net banking,1
+LH-300274,CU-10333,2026-06-16,delivered,Net banking,1
+LH-300275,CU-10557,2026-06-16,delivered,Cash on delivery,1
+LH-300276,CU-10481,2026-06-16,delivered,Card,1
+LH-300277,CU-10639,2026-06-17,delivered,UPI,1
+LH-300278,CU-10739,2026-06-17,delivered,UPI,1
+LH-300279,CU-10725,2026-06-17,delivered,Cash on delivery,1
+LH-300280,CU-10798,2026-06-17,delivered,Cash on delivery,1
+LH-300281,CU-10474,2026-06-17,delivered,UPI,1
+LH-300282,CU-10121,2026-06-17,delivered,Net banking,1
+LH-300283,CU-10438,2026-06-17,delivered,Cash on delivery,1
+LH-300284,CU-10562,2026-06-17,delivered,Cash on delivery,1
+LH-300285,CU-10263,2026-06-17,delivered,Cash on delivery,1
+LH-300286,CU-10437,2026-06-17,delivered,UPI,1
+LH-300287,CU-10432,2026-06-17,delivered,Net banking,1
+LH-300288,CU-10713,2026-06-17,delivered,Cash on delivery,1
+LH-300289,CU-10656,2026-06-17,delivered,Net banking,1
+LH-300290,CU-10588,2026-06-17,delivered,Cash on delivery,1
+LH-300291,CU-10163,2026-06-17,delivered,UPI,1
+LH-300292,CU-10149,2026-06-17,delivered,Card,1
+LH-300293,CU-10112,2026-06-18,delivered,Card,1
+LH-300294,CU-10282,2026-06-18,delivered,Card,1
+LH-300295,CU-10324,2026-06-18,delivered,UPI,1
+LH-300296,CU-10229,2026-06-18,delivered,Net banking,1
+LH-300297,CU-10118,2026-06-18,delivered,UPI,1
+LH-300298,CU-10691,2026-06-18,delivered,Cash on delivery,1
+LH-300299,CU-10055,2026-06-18,delivered,UPI,1
+LH-300300,CU-10339,2026-06-18,returned,Cash on delivery,1
+LH-300301,CU-10253,2026-06-18,delivered,UPI,1
+LH-300302,CU-10518,2026-06-18,delivered,Cash on delivery,1
+LH-300303,CU-10519,2026-06-18,delivered,Net banking,1
+LH-300304,CU-10330,2026-06-18,delivered,Card,1
+LH-300305,CU-10126,2026-06-19,returned,Card,1
+LH-300306,CU-10062,2026-06-19,delivered,Card,1
+LH-300307,CU-10303,2026-06-19,delivered,Net banking,1
+LH-300308,CU-10281,2026-06-19,delivered,UPI,1
+LH-300309,CU-10702,2026-06-19,delivered,Card,1
+LH-300310,CU-10694,2026-06-19,delivered,Cash on delivery,1
+LH-300311,CU-10677,2026-06-19,delivered,Cash on delivery,1
+LH-300312,CU-10120,2026-06-19,delivered,Cash on delivery,1
+LH-300313,CU-10067,2026-06-19,delivered,Card,1
+LH-300314,CU-10272,2026-06-19,delivered,Card,1
+LH-300315,CU-10360,2026-06-19,delivered,Net banking,1
+LH-300316,CU-10220,2026-06-19,delivered,Net banking,1
+LH-300317,CU-10610,2026-06-19,delivered,Net banking,1
+LH-300318,CU-10199,2026-06-19,delivered,Cash on delivery,1
+LH-300319,CU-10373,2026-06-19,delivered,Cash on delivery,1
+LH-300320,CU-10201,2026-06-19,delivered,UPI,1
+LH-300321,CU-10409,2026-06-19,delivered,Card,1
+LH-300322,CU-10729,2026-06-19,delivered,UPI,1
+LH-300323,CU-10296,2026-06-19,delivered,Net banking,1
+LH-300324,CU-10419,2026-06-19,delivered,UPI,1
+LH-300325,CU-10197,2026-06-19,delivered,Cash on delivery,1
+LH-300326,CU-10468,2026-06-20,delivered,Card,1
+LH-300327,CU-10108,2026-06-20,delivered,Net banking,1
+LH-300328,CU-10716,2026-06-20,delivered,UPI,1
+LH-300329,CU-10481,2026-06-20,delivered,Net banking,1
+LH-300330,CU-10660,2026-06-20,delivered,Cash on delivery,1
+LH-300331,CU-10540,2026-06-20,delivered,UPI,1
+LH-300332,CU-10333,2026-06-20,delivered,Cash on delivery,1
+LH-300333,CU-10078,2026-06-20,delivered,Cash on delivery,1
+LH-300334,CU-10748,2026-06-20,delivered,Cash on delivery,1
+LH-300335,CU-10064,2026-06-20,delivered,UPI,1
+LH-300336,CU-10551,2026-06-21,delivered,UPI,1
+LH-300337,CU-10582,2026-06-21,delivered,Card,1
+LH-300338,CU-10535,2026-06-21,delivered,Net banking,1
+LH-300339,CU-10219,2026-06-21,delivered,Cash on delivery,1
+LH-300340,CU-10599,2026-06-21,delivered,UPI,1
+LH-300341,CU-10547,2026-06-21,delivered,Card,1
+LH-300342,CU-10015,2026-06-21,delivered,Net banking,1
+LH-300343,CU-10617,2026-06-21,delivered,UPI,1
+LH-300344,CU-10791,2026-06-21,delivered,Net banking,1
+LH-300345,CU-10131,2026-06-21,delivered,Net banking,1
+LH-300346,CU-10510,2026-06-21,delivered,Cash on delivery,1
+LH-300347,CU-10238,2026-06-21,delivered,Net banking,1
+LH-300348,CU-10790,2026-06-21,delivered,Net banking,1
+LH-300349,CU-10116,2026-06-21,delivered,UPI,1
+LH-300350,CU-10187,2026-06-21,delivered,Net banking,1
+LH-300351,CU-10452,2026-06-21,delivered,Card,1
+LH-300352,CU-10193,2026-06-21,delivered,Card,1
+LH-300353,CU-10015,2026-06-21,delivered,UPI,1
+LH-300354,CU-10242,2026-06-22,delivered,Card,1
+LH-300355,CU-10681,2026-06-22,delivered,Card,1
+LH-300356,CU-10065,2026-06-22,delivered,Card,1
+LH-300357,CU-10113,2026-06-22,delivered,Net banking,1
+LH-300358,CU-10742,2026-06-22,delivered,Cash on delivery,1
+LH-300359,CU-10095,2026-06-22,delivered,Cash on delivery,1
+LH-300360,CU-10707,2026-06-22,delivered,Card,1
+LH-300361,CU-10137,2026-06-22,returned,Cash on delivery,1
+LH-300362,CU-10619,2026-06-22,delivered,Card,1
+LH-300363,CU-10480,2026-06-22,delivered,Cash on delivery,1
+LH-300364,CU-10171,2026-06-22,delivered,UPI,1
+LH-300365,CU-10556,2026-06-22,delivered,Net banking,1
+LH-300366,CU-10530,2026-06-22,delivered,Net banking,1
+LH-300367,CU-10010,2026-06-22,delivered,Cash on delivery,1
+LH-300368,CU-10439,2026-06-22,delivered,Card,1
+LH-300369,CU-10762,2026-06-22,delivered,UPI,1
+LH-300370,CU-10723,2026-06-22,delivered,Net banking,1
+LH-300371,CU-10547,2026-06-23,delivered,Net banking,1
+LH-300372,CU-10281,2026-06-23,delivered,Card,1
+LH-300373,CU-10192,2026-06-23,delivered,Card,1
+LH-300374,CU-10386,2026-06-23,delivered,Cash on delivery,1
+LH-300375,CU-10337,2026-06-23,delivered,Cash on delivery,1
+LH-300376,CU-10580,2026-06-23,delivered,UPI,1
+LH-300377,CU-10173,2026-06-23,delivered,Card,1
+LH-300378,CU-10592,2026-06-23,delivered,Card,1
+LH-300379,CU-10329,2026-06-23,delivered,UPI,1
+LH-300380,CU-10327,2026-06-23,delivered,Net banking,1
+LH-300381,CU-10500,2026-06-23,delivered,UPI,1
+LH-300382,CU-10508,2026-06-23,delivered,Card,1
+LH-300383,CU-10497,2026-06-23,delivered,Cash on delivery,1
+LH-300384,CU-10212,2026-06-23,delivered,Net banking,1
+LH-300385,CU-10768,2026-06-23,delivered,Card,1
+LH-300386,CU-10495,2026-06-23,delivered,Net banking,1
+LH-300387,CU-10165,2026-06-24,delivered,Net banking,1
+LH-300388,CU-10516,2026-06-24,delivered,Cash on delivery,1
+LH-300389,CU-10161,2026-06-24,delivered,Card,1
+LH-300390,CU-10375,2026-06-24,delivered,UPI,1
+LH-300391,CU-10186,2026-06-24,delivered,Net banking,1
+LH-300392,CU-10069,2026-06-24,delivered,UPI,1
+LH-300393,CU-10054,2026-06-24,delivered,UPI,1
+LH-300394,CU-10089,2026-06-24,delivered,UPI,1
+LH-300395,CU-10677,2026-06-24,delivered,Cash on delivery,1
+LH-300396,CU-10295,2026-06-24,delivered,UPI,1
+LH-300397,CU-10003,2026-06-24,delivered,UPI,1
+LH-300398,CU-10751,2026-06-24,delivered,Net banking,1
+LH-300399,CU-10081,2026-06-24,delivered,UPI,1
+LH-300400,CU-10331,2026-06-24,delivered,Net banking,1
+LH-300401,CU-10038,2026-06-24,delivered,UPI,1
+LH-300402,CU-10127,2026-06-25,delivered,Card,1
+LH-300403,CU-10542,2026-06-25,delivered,UPI,1
+LH-300404,CU-10642,2026-06-25,delivered,Card,1
+LH-300405,CU-10428,2026-06-25,delivered,UPI,1
+LH-300406,CU-10690,2026-06-25,delivered,Card,1
+LH-300407,CU-10437,2026-06-25,delivered,Card,1
+LH-300408,CU-10279,2026-06-25,delivered,Net banking,1
+LH-300409,CU-10036,2026-06-25,delivered,Net banking,1
+LH-300410,CU-10600,2026-06-25,delivered,UPI,1
+LH-300411,CU-10741,2026-06-25,delivered,UPI,1
+LH-300412,CU-10061,2026-06-25,delivered,UPI,1
+LH-300413,CU-10335,2026-06-25,delivered,Cash on delivery,1
+LH-300414,CU-10620,2026-06-26,delivered,UPI,1
+LH-300415,CU-10630,2026-06-26,delivered,Net banking,1
+LH-300416,CU-10335,2026-06-26,delivered,Card,1
+LH-300417,CU-10114,2026-06-26,delivered,Cash on delivery,1
+LH-300418,CU-10746,2026-06-26,delivered,Cash on delivery,1
+LH-300419,CU-10709,2026-06-26,delivered,UPI,1
+LH-300420,CU-10454,2026-06-26,delivered,Card,1
+LH-300421,CU-10791,2026-06-26,delivered,Cash on delivery,1
+LH-300422,CU-10172,2026-06-26,delivered,UPI,1
+LH-300423,CU-10018,2026-06-26,delivered,Net banking,1
+LH-300424,CU-10401,2026-06-26,delivered,Card,1
+LH-300425,CU-10540,2026-06-27,delivered,UPI,1
+LH-300426,CU-10605,2026-06-27,delivered,Card,1
+LH-300427,CU-10365,2026-06-27,delivered,Cash on delivery,1
+LH-300428,CU-10374,2026-06-27,delivered,Net banking,1
+LH-300429,CU-10063,2026-06-27,delivered,Card,1
+LH-300430,CU-10024,2026-06-27,delivered,Cash on delivery,1
+LH-300431,CU-10123,2026-06-27,delivered,UPI,1
+LH-300432,CU-10122,2026-06-27,delivered,UPI,1
+LH-300433,CU-10164,2026-06-27,delivered,UPI,1
+LH-300434,CU-10757,2026-06-27,delivered,Card,1
+LH-300435,CU-10103,2026-06-27,delivered,UPI,1
+LH-300436,CU-10791,2026-06-27,delivered,Cash on delivery,1
+LH-300437,CU-10499,2026-06-27,delivered,UPI,1
+LH-300438,CU-10589,2026-06-27,delivered,Net banking,1
+LH-300439,CU-10472,2026-06-27,delivered,Card,1
+LH-300440,CU-10176,2026-06-27,delivered,Card,1
+LH-300441,CU-10533,2026-06-27,delivered,Card,1
+LH-300442,CU-10793,2026-06-27,delivered,UPI,1
+LH-300443,CU-10548,2026-06-27,delivered,Card,1
+LH-300444,CU-10671,2026-06-27,delivered,Net banking,1
+LH-300445,CU-10710,2026-06-28,delivered,Cash on delivery,1
+LH-300446,CU-10247,2026-06-28,delivered,Cash on delivery,1
+LH-300447,CU-10580,2026-06-28,delivered,Net banking,1
+LH-300448,CU-10479,2026-06-28,delivered,Cash on delivery,1
+LH-300449,CU-10153,2026-06-28,delivered,Net banking,1
+LH-300450,CU-10504,2026-06-28,delivered,Net banking,1
+LH-300451,CU-10116,2026-06-28,delivered,UPI,1
+LH-300452,CU-10170,2026-06-28,delivered,Card,1
+LH-300453,CU-10376,2026-06-28,delivered,Card,1
+LH-300454,CU-10800,2026-06-28,delivered,UPI,1
+LH-300455,CU-10114,2026-06-28,delivered,Net banking,1
+LH-300456,CU-10319,2026-06-28,delivered,UPI,1
+LH-300457,CU-10582,2026-06-28,delivered,Card,1
+LH-300458,CU-10764,2026-06-28,delivered,Card,1
+LH-300459,CU-10444,2026-06-28,returned,Net banking,1
+LH-300460,CU-10591,2026-06-28,delivered,Cash on delivery,1
+LH-300461,CU-10241,2026-06-28,delivered,UPI,1
+LH-300462,CU-10579,2026-06-28,delivered,Net banking,1
+LH-300463,CU-10519,2026-06-29,delivered,UPI,1
+LH-300464,CU-10798,2026-06-29,delivered,Cash on delivery,1
+LH-300465,CU-10677,2026-06-29,delivered,Cash on delivery,1
+LH-300466,CU-10503,2026-06-29,delivered,Cash on delivery,1
+LH-300467,CU-10622,2026-06-29,delivered,Net banking,1
+LH-300468,CU-10586,2026-06-29,delivered,UPI,1
+LH-300469,CU-10241,2026-06-29,delivered,Card,1
+LH-300470,CU-10154,2026-06-29,delivered,Cash on delivery,1
+LH-300471,CU-10745,2026-06-29,delivered,Net banking,1
+LH-300472,CU-10380,2026-06-29,delivered,Net banking,1
+LH-300473,CU-10240,2026-06-29,delivered,Net banking,1
+LH-300474,CU-10664,2026-06-29,delivered,Cash on delivery,1
+LH-300475,CU-10664,2026-06-29,delivered,Net banking,1
+LH-300476,CU-10117,2026-06-29,delivered,UPI,1
+LH-300477,CU-10800,2026-06-29,delivered,UPI,1
+LH-300478,CU-10475,2026-06-29,delivered,Net banking,1
+LH-300479,CU-10415,2026-06-29,delivered,Net banking,1
+LH-300480,CU-10297,2026-06-29,delivered,Net banking,1
+LH-300481,CU-10487,2026-06-29,delivered,Net banking,1
+LH-300482,CU-10197,2026-06-29,delivered,UPI,1
+LH-300483,CU-10411,2026-06-30,delivered,UPI,1
+LH-300484,CU-10277,2026-06-30,delivered,Net banking,1
+LH-300485,CU-10071,2026-06-30,delivered,Card,1
+LH-300486,CU-10199,2026-06-30,delivered,UPI,1
+LH-300487,CU-10532,2026-06-30,delivered,Cash on delivery,1
+LH-300488,CU-10458,2026-06-30,delivered,Net banking,1
+LH-300489,CU-10727,2026-06-30,delivered,Card,1
+LH-300490,CU-10003,2026-06-30,delivered,Card,1
+LH-300491,CU-10111,2026-06-30,delivered,Cash on delivery,1
+LH-300492,CU-10310,2026-06-30,delivered,Cash on delivery,1
+LH-300493,CU-10262,2026-06-30,delivered,Card,1
+LH-300494,CU-10743,2026-06-30,returned,Net banking,1
+LH-300495,CU-10322,2026-06-30,delivered,Card,1
+LH-300496,CU-10611,2026-06-30,delivered,UPI,1
+LH-300497,CU-10087,2026-06-30,delivered,Net banking,1
+LH-300498,CU-10296,2026-06-30,delivered,UPI,1
+LH-300499,CU-10274,2026-06-30,delivered,UPI,1
+LH-300500,CU-10256,2026-06-30,delivered,Card,1
+LH-300501,CU-10403,2026-07-01,delivered,Card,1
+LH-300502,CU-10264,2026-07-01,delivered,Net banking,1
+LH-300503,CU-10331,2026-07-01,delivered,UPI,1
+LH-300504,CU-10190,2026-07-01,delivered,Card,1
+LH-300505,CU-10554,2026-07-01,delivered,UPI,1
+LH-300506,CU-10395,2026-07-01,delivered,Cash on delivery,1
+LH-300507,CU-10282,2026-07-01,delivered,Card,1
+LH-300508,CU-10636,2026-07-01,delivered,Net banking,1
+LH-300509,CU-10658,2026-07-01,delivered,Cash on delivery,1
+LH-300510,CU-10714,2026-07-01,delivered,Net banking,1
+LH-300511,CU-10589,2026-07-01,delivered,Net banking,1
+LH-300512,CU-10578,2026-07-01,delivered,Cash on delivery,1
+LH-300513,CU-10102,2026-07-01,delivered,UPI,1
+LH-300514,CU-10158,2026-07-01,delivered,Card,1
+LH-300515,CU-10700,2026-07-01,delivered,Card,1
+LH-300516,CU-10382,2026-07-01,delivered,Card,1
+LH-300517,CU-10741,2026-07-01,delivered,UPI,1
+LH-300518,CU-10462,2026-07-01,delivered,Net banking,1
+LH-300519,CU-10346,2026-07-01,delivered,Net banking,1
+LH-300520,CU-10510,2026-07-01,delivered,Net banking,1
+LH-300521,CU-10616,2026-07-01,delivered,Card,1
+LH-300522,CU-10794,2026-07-01,delivered,Card,1
+LH-300523,CU-10369,2026-07-02,delivered,Net banking,1
+LH-300524,CU-10592,2026-07-02,delivered,UPI,1
+LH-300525,CU-10014,2026-07-02,delivered,Cash on delivery,1
+LH-300526,CU-10440,2026-07-02,delivered,UPI,1
+LH-300527,CU-10714,2026-07-02,delivered,Cash on delivery,1
+LH-300528,CU-10521,2026-07-02,delivered,Net banking,1
+LH-300529,CU-10581,2026-07-02,delivered,Net banking,1
+LH-300530,CU-10086,2026-07-02,delivered,Card,1
+LH-300531,CU-10430,2026-07-02,delivered,Card,1
+LH-300532,CU-10195,2026-07-02,delivered,UPI,1
+LH-300533,CU-10046,2026-07-02,delivered,UPI,1
+LH-300534,CU-10393,2026-07-02,delivered,UPI,1
+LH-300535,CU-10355,2026-07-02,delivered,UPI,1
+LH-300536,CU-10582,2026-07-02,delivered,Net banking,1
+LH-300537,CU-10365,2026-07-02,delivered,Net banking,1
+LH-300538,CU-10626,2026-07-02,delivered,Net banking,1
+LH-300539,CU-10137,2026-07-02,delivered,Net banking,1
+LH-300540,CU-10135,2026-07-03,delivered,UPI,1
+LH-300541,CU-10182,2026-07-03,delivered,Net banking,1
+LH-300542,CU-10421,2026-07-03,delivered,Card,1
+LH-300543,CU-10396,2026-07-03,delivered,Cash on delivery,1
+LH-300544,CU-10327,2026-07-03,delivered,Cash on delivery,1
+LH-300545,CU-10038,2026-07-03,delivered,Cash on delivery,1
+LH-300546,CU-10009,2026-07-03,delivered,Net banking,1
+LH-300547,CU-10349,2026-07-03,delivered,Net banking,1
+LH-300548,CU-10181,2026-07-03,delivered,Card,1
+LH-300549,CU-10069,2026-07-03,delivered,Net banking,1
+LH-300550,CU-10707,2026-07-03,delivered,Net banking,1
+LH-300551,CU-10178,2026-07-03,delivered,Cash on delivery,1
+LH-300552,CU-10508,2026-07-03,delivered,Net banking,1
+LH-300553,CU-10159,2026-07-03,delivered,Card,1
+LH-300554,CU-10686,2026-07-03,delivered,Cash on delivery,1
+LH-300555,CU-10587,2026-07-04,delivered,Net banking,1
+LH-300556,CU-10181,2026-07-04,delivered,Card,1
+LH-300557,CU-10274,2026-07-04,delivered,Card,1
+LH-300558,CU-10629,2026-07-04,delivered,Card,1
+LH-300559,CU-10680,2026-07-04,delivered,Net banking,1
+LH-300560,CU-10401,2026-07-04,delivered,UPI,1
+LH-300561,CU-10475,2026-07-04,delivered,Card,1
+LH-300562,CU-10718,2026-07-04,delivered,Cash on delivery,1
+LH-300563,CU-10061,2026-07-04,delivered,Card,1
+LH-300564,CU-10649,2026-07-04,delivered,UPI,1
+LH-300565,CU-10531,2026-07-04,delivered,Card,1
+LH-300566,CU-10607,2026-07-04,delivered,Cash on delivery,1
+LH-300567,CU-10319,2026-07-04,delivered,Cash on delivery,1
+LH-300568,CU-10696,2026-07-04,delivered,Net banking,1
+LH-300569,CU-10689,2026-07-04,delivered,Cash on delivery,1
+LH-300570,CU-10476,2026-07-05,delivered,Net banking,1
+LH-300571,CU-10627,2026-07-05,delivered,Cash on delivery,1
+LH-300572,CU-10366,2026-07-05,delivered,Cash on delivery,1
+LH-300573,CU-10176,2026-07-05,delivered,Net banking,1
+LH-300574,CU-10303,2026-07-05,delivered,Cash on delivery,1
+LH-300575,CU-10367,2026-07-05,delivered,Cash on delivery,1
+LH-300576,CU-10163,2026-07-05,delivered,Cash on delivery,1
+LH-300577,CU-10247,2026-07-05,delivered,Card,1
+LH-300578,CU-10325,2026-07-05,delivered,Cash on delivery,1
+LH-300579,CU-10003,2026-07-05,delivered,Net banking,1
+LH-300580,CU-10233,2026-07-05,delivered,Card,1
+LH-300581,CU-10182,2026-07-05,delivered,Cash on delivery,1
+LH-300582,CU-10122,2026-07-05,delivered,UPI,1
+LH-300583,CU-10455,2026-07-05,delivered,Cash on delivery,1
+LH-300584,CU-10232,2026-07-05,delivered,UPI,1
+LH-300585,CU-10680,2026-07-05,delivered,Cash on delivery,1
+LH-300586,CU-10226,2026-07-05,delivered,UPI,1
+LH-300587,CU-10631,2026-07-05,delivered,Cash on delivery,1
+LH-300588,CU-10736,2026-07-06,delivered,Cash on delivery,1
+LH-300589,CU-10004,2026-07-06,delivered,Net banking,1
+LH-300590,CU-10605,2026-07-06,delivered,Net banking,1
+LH-300591,CU-10061,2026-07-06,delivered,UPI,1
+LH-300592,CU-10691,2026-07-06,delivered,Card,1
+LH-300593,CU-10730,2026-07-06,delivered,UPI,1
+LH-300594,CU-10677,2026-07-06,delivered,Net banking,1
+LH-300595,CU-10230,2026-07-06,delivered,UPI,1
+LH-300596,CU-10422,2026-07-06,delivered,Net banking,1
+LH-300597,CU-10031,2026-07-06,delivered,Card,1
+LH-300598,CU-10612,2026-07-06,delivered,Cash on delivery,1
+LH-300599,CU-10467,2026-07-06,delivered,Card,1
+LH-300600,CU-10196,2026-07-06,delivered,Card,1
+LH-300601,CU-10516,2026-07-06,delivered,Card,1
+LH-300602,CU-10707,2026-07-06,delivered,Net banking,1
+LH-300603,CU-10340,2026-07-06,delivered,UPI,1
+LH-300604,CU-10654,2026-07-07,delivered,Card,1
+LH-300605,CU-10367,2026-07-07,delivered,Net banking,1
+LH-300606,CU-10396,2026-07-07,delivered,UPI,1
+LH-300607,CU-10657,2026-07-07,delivered,Cash on delivery,1
+LH-300608,CU-10751,2026-07-07,delivered,UPI,1
+LH-300609,CU-10492,2026-07-07,delivered,Card,1
+LH-300610,CU-10326,2026-07-07,delivered,UPI,1
+LH-300611,CU-10068,2026-07-07,delivered,UPI,1
+LH-300612,CU-10470,2026-07-07,delivered,Card,1
+LH-300613,CU-10013,2026-07-07,delivered,Card,1
+LH-300614,CU-10732,2026-07-07,delivered,Cash on delivery,1
+LH-300615,CU-10790,2026-07-07,delivered,UPI,1
+LH-300616,CU-10576,2026-07-07,delivered,UPI,1
+LH-300617,CU-10542,2026-07-07,delivered,Cash on delivery,1
+LH-300618,CU-10109,2026-07-07,delivered,Card,1
+LH-300619,CU-10702,2026-07-07,delivered,Card,1
+LH-300620,CU-10800,2026-07-07,delivered,UPI,1
+LH-300621,CU-10756,2026-07-07,delivered,Cash on delivery,1
+LH-300622,CU-10346,2026-07-08,delivered,Cash on delivery,1
+LH-300623,CU-10599,2026-07-08,delivered,Cash on delivery,1
+LH-300624,CU-10111,2026-07-08,delivered,Card,1
+LH-300625,CU-10045,2026-07-08,delivered,UPI,1
+LH-300626,CU-10667,2026-07-08,delivered,Net banking,1
+LH-300627,CU-10235,2026-07-08,delivered,Net banking,1
+LH-300628,CU-10758,2026-07-08,delivered,UPI,1
+LH-300629,CU-10175,2026-07-08,delivered,Card,1
+LH-300630,CU-10684,2026-07-08,delivered,UPI,1
+LH-300631,CU-10409,2026-07-08,delivered,Cash on delivery,1
+LH-300632,CU-10351,2026-07-08,delivered,UPI,1
+LH-300633,CU-10058,2026-07-08,delivered,Cash on delivery,1
+LH-300634,CU-10312,2026-07-08,delivered,UPI,1
+LH-300635,CU-10547,2026-07-08,delivered,Cash on delivery,1
+LH-300636,CU-10162,2026-07-08,delivered,Net banking,1
+LH-300637,CU-10338,2026-07-09,delivered,Cash on delivery,1
+LH-300638,CU-10669,2026-07-09,delivered,UPI,1
+LH-300639,CU-10702,2026-07-09,delivered,UPI,1
+LH-300640,CU-10551,2026-07-09,delivered,Card,1
+LH-300641,CU-10400,2026-07-09,delivered,Card,1
+LH-300642,CU-10215,2026-07-09,delivered,Net banking,1
+LH-300643,CU-10059,2026-07-09,delivered,Cash on delivery,1
+LH-300644,CU-10706,2026-07-09,delivered,Net banking,1
+LH-300645,CU-10303,2026-07-09,delivered,UPI,1
+LH-300646,CU-10497,2026-07-09,delivered,UPI,1
+LH-300647,CU-10799,2026-07-09,delivered,Net banking,1
+LH-300648,CU-10578,2026-07-09,delivered,Net banking,1
+LH-300649,CU-10216,2026-07-09,delivered,Cash on delivery,1
+LH-300650,CU-10037,2026-07-10,delivered,Cash on delivery,1
+LH-300651,CU-10661,2026-07-10,delivered,Cash on delivery,1
+LH-300652,CU-10782,2026-07-10,delivered,Cash on delivery,1
+LH-300653,CU-10522,2026-07-10,delivered,Net banking,1
+LH-300654,CU-10270,2026-07-10,delivered,Card,1
+LH-300655,CU-10201,2026-07-10,delivered,Cash on delivery,1
+LH-300656,CU-10236,2026-07-10,delivered,UPI,1
+LH-300657,CU-10358,2026-07-10,delivered,Cash on delivery,1
+LH-300658,CU-10753,2026-07-10,delivered,Net banking,1
+LH-300659,CU-10004,2026-07-10,delivered,Net banking,1
+LH-300660,CU-10217,2026-07-10,delivered,Cash on delivery,1
+LH-300661,CU-10502,2026-07-10,delivered,Card,1
+LH-300662,CU-10646,2026-07-10,delivered,Net banking,1
+LH-300663,CU-10460,2026-07-10,delivered,Cash on delivery,1
+LH-300664,CU-10463,2026-07-10,delivered,Cash on delivery,1
+LH-300665,CU-10665,2026-07-10,delivered,Net banking,1
+LH-300666,CU-10738,2026-07-10,delivered,Cash on delivery,1
+LH-300667,CU-10400,2026-07-10,delivered,Cash on delivery,1
+LH-300668,CU-10115,2026-07-10,delivered,Cash on delivery,1
+LH-300669,CU-10012,2026-07-10,delivered,Cash on delivery,1
+LH-300670,CU-10224,2026-07-10,delivered,Card,1
+LH-300671,CU-10659,2026-07-10,delivered,Card,1
+LH-300672,CU-10224,2026-07-10,delivered,Card,1
+LH-300673,CU-10257,2026-07-10,delivered,Net banking,1
+LH-300674,CU-10643,2026-07-10,delivered,Card,1
+LH-300675,CU-10496,2026-07-10,delivered,Net banking,1
+LH-300676,CU-10387,2026-07-10,delivered,UPI,1
+LH-300677,CU-10626,2026-07-11,delivered,Card,1
+LH-300678,CU-10545,2026-07-11,delivered,UPI,1
+LH-300679,CU-10428,2026-07-11,delivered,Cash on delivery,1
+LH-300680,CU-10795,2026-07-11,delivered,Net banking,1
+LH-300681,CU-10456,2026-07-11,delivered,Net banking,1
+LH-300682,CU-10469,2026-07-11,delivered,UPI,1
+LH-300683,CU-10128,2026-07-11,delivered,Cash on delivery,1
+LH-300684,CU-10590,2026-07-11,delivered,UPI,1
+LH-300685,CU-10487,2026-07-11,delivered,Card,1
+LH-300686,CU-10360,2026-07-11,delivered,Cash on delivery,1
+LH-300687,CU-10425,2026-07-11,delivered,Card,1
+LH-300688,CU-10710,2026-07-11,delivered,Cash on delivery,1
+LH-300689,CU-10224,2026-07-11,delivered,Card,1
+LH-300690,CU-10212,2026-07-12,delivered,Card,1
+LH-300691,CU-10789,2026-07-12,delivered,Cash on delivery,1
+LH-300692,CU-10270,2026-07-12,delivered,Card,1
+LH-300693,CU-10576,2026-07-12,delivered,UPI,1
+LH-300694,CU-10124,2026-07-12,delivered,Card,1
+LH-300695,CU-10752,2026-07-12,delivered,UPI,1
+LH-300696,CU-10342,2026-07-12,delivered,Net banking,1
+LH-300697,CU-10716,2026-07-12,delivered,Card,1
+LH-300698,CU-10118,2026-07-12,delivered,Card,1
+LH-300699,CU-10782,2026-07-12,delivered,UPI,1
+LH-300700,CU-10532,2026-07-12,delivered,Net banking,1
+LH-300701,CU-10418,2026-07-12,delivered,Card,1
+LH-300702,CU-10186,2026-07-12,returned,Card,1
+LH-300703,CU-10133,2026-07-12,delivered,Net banking,1
+LH-300704,CU-10570,2026-07-12,delivered,Card,1
+LH-300705,CU-10782,2026-07-12,delivered,Net banking,1
+LH-300706,CU-10317,2026-07-13,delivered,Net banking,1
+LH-300707,CU-10242,2026-07-13,delivered,Cash on delivery,1
+LH-300708,CU-10529,2026-07-13,returned,UPI,1
+LH-300709,CU-10089,2026-07-13,returned,Cash on delivery,1
+LH-300710,CU-10014,2026-07-13,delivered,Card,1
+LH-300711,CU-10287,2026-07-13,delivered,Cash on delivery,1
+LH-300712,CU-10609,2026-07-13,delivered,Cash on delivery,1
+LH-300713,CU-10496,2026-07-13,delivered,UPI,1
+LH-300714,CU-10263,2026-07-13,delivered,Cash on delivery,1
+LH-300715,CU-10480,2026-07-13,delivered,Cash on delivery,1
+LH-300716,CU-10500,2026-07-13,delivered,Cash on delivery,1
+LH-300717,CU-10234,2026-07-13,delivered,Card,1
+LH-300718,CU-10419,2026-07-13,delivered,Cash on delivery,1
+LH-300719,CU-10469,2026-07-14,delivered,Card,1
+LH-300720,CU-10127,2026-07-14,delivered,Cash on delivery,1
+LH-300721,CU-10576,2026-07-14,delivered,UPI,1
+LH-300722,CU-10452,2026-07-14,delivered,UPI,1
+LH-300723,CU-10274,2026-07-14,delivered,Cash on delivery,1
+LH-300724,CU-10751,2026-07-14,delivered,UPI,1
+LH-300725,CU-10346,2026-07-14,delivered,Card,1
+LH-300726,CU-10202,2026-07-14,delivered,Card,1
+LH-300727,CU-10242,2026-07-14,delivered,Net banking,1
+LH-300728,CU-10013,2026-07-14,delivered,Card,1
+LH-300729,CU-10155,2026-07-14,delivered,Net banking,1
+LH-300730,CU-10017,2026-07-14,delivered,Card,1
+LH-300731,CU-10643,2026-07-14,delivered,UPI,1
+LH-300732,CU-10739,2026-07-14,delivered,UPI,1
+LH-300733,CU-10709,2026-07-14,delivered,Net banking,1
+LH-300734,CU-10620,2026-07-14,delivered,Net banking,1
+LH-300735,CU-10628,2026-07-15,delivered,UPI,1
+LH-300736,CU-10582,2026-07-15,delivered,Cash on delivery,1
+LH-300737,CU-10284,2026-07-15,delivered,Net banking,1
+LH-300738,CU-10272,2026-07-15,delivered,UPI,1
+LH-300739,CU-10406,2026-07-15,delivered,Cash on delivery,1
+LH-300740,CU-10426,2026-07-15,delivered,Cash on delivery,1
+LH-300741,CU-10048,2026-07-15,delivered,Cash on delivery,1
+LH-300742,CU-10003,2026-07-15,delivered,Net banking,1
+LH-300743,CU-10058,2026-07-15,delivered,Net banking,1
+LH-300744,CU-10727,2026-07-15,delivered,UPI,1
+LH-300745,CU-10601,2026-07-16,delivered,Cash on delivery,1
+LH-300746,CU-10517,2026-07-16,delivered,Net banking,1
+LH-300747,CU-10066,2026-07-16,delivered,Cash on delivery,1
+LH-300748,CU-10059,2026-07-16,delivered,Net banking,1
+LH-300749,CU-10667,2026-07-16,delivered,UPI,1
+LH-300750,CU-10713,2026-07-16,delivered,UPI,1
+LH-300751,CU-10705,2026-07-16,delivered,UPI,1
+LH-300752,CU-10339,2026-07-16,delivered,Net banking,1
+LH-300753,CU-10022,2026-07-16,delivered,Cash on delivery,1
+LH-300754,CU-10359,2026-07-16,delivered,Card,1
+LH-300755,CU-10501,2026-07-16,delivered,UPI,1
+LH-300756,CU-10557,2026-07-16,delivered,Card,1
+LH-300757,CU-10617,2026-07-16,delivered,Cash on delivery,1
+LH-300758,CU-10473,2026-07-17,delivered,UPI,1
+LH-300759,CU-10715,2026-07-17,delivered,Card,1
+LH-300760,CU-10074,2026-07-17,delivered,Card,1
+LH-300761,CU-10636,2026-07-17,delivered,Cash on delivery,1
+LH-300762,CU-10277,2026-07-17,delivered,Net banking,1
+LH-300763,CU-10571,2026-07-17,delivered,Card,1
+LH-300764,CU-10511,2026-07-17,delivered,Card,1
+LH-300765,CU-10482,2026-07-17,delivered,UPI,1
+LH-300766,CU-10651,2026-07-17,delivered,Net banking,1
+LH-300767,CU-10583,2026-07-17,delivered,Cash on delivery,1
+LH-300768,CU-10470,2026-07-17,delivered,Cash on delivery,1
+LH-300769,CU-10202,2026-07-18,delivered,Net banking,1
+LH-300770,CU-10317,2026-07-18,delivered,Cash on delivery,1
+LH-300771,CU-10433,2026-07-18,returned,Card,1
+LH-300772,CU-10159,2026-07-18,delivered,Card,1
+LH-300773,CU-10666,2026-07-18,delivered,UPI,1
+LH-300774,CU-10655,2026-07-18,delivered,Cash on delivery,1
+LH-300775,CU-10593,2026-07-18,delivered,UPI,1
+LH-300776,CU-10097,2026-07-18,delivered,UPI,1
+LH-300777,CU-10621,2026-07-18,delivered,Card,1
+LH-300778,CU-10673,2026-07-18,delivered,UPI,1
+LH-300779,CU-10683,2026-07-18,delivered,Net banking,1
+LH-300780,CU-10212,2026-07-18,delivered,UPI,1
+LH-300781,CU-10727,2026-07-18,delivered,Net banking,1
+LH-300782,CU-10199,2026-07-18,delivered,UPI,1
+LH-300783,CU-10390,2026-07-18,delivered,UPI,1
+LH-300784,CU-10796,2026-07-19,delivered,Net banking,1
+LH-300785,CU-10572,2026-07-19,delivered,Cash on delivery,1
+LH-300786,CU-10015,2026-07-19,delivered,Cash on delivery,1
+LH-300787,CU-10533,2026-07-19,delivered,Net banking,1
+LH-300788,CU-10247,2026-07-19,delivered,Net banking,1
+LH-300789,CU-10096,2026-07-19,delivered,Net banking,1
+LH-300790,CU-10377,2026-07-19,delivered,Cash on delivery,1
+LH-300791,CU-10791,2026-07-19,delivered,Cash on delivery,1
+LH-300792,CU-10116,2026-07-19,delivered,Net banking,1
+LH-300793,CU-10362,2026-07-19,delivered,UPI,1
+LH-300794,CU-10201,2026-07-19,delivered,UPI,1
+LH-300795,CU-10020,2026-07-19,delivered,Card,1
+LH-300796,CU-10322,2026-07-19,delivered,Cash on delivery,1
+LH-300797,CU-10492,2026-07-19,delivered,Cash on delivery,1
+LH-300798,CU-10366,2026-07-20,delivered,Cash on delivery,1
+LH-300799,CU-10358,2026-07-20,delivered,Cash on delivery,1
+LH-300800,CU-10280,2026-07-20,delivered,Card,1
+LH-300801,CU-10239,2026-07-20,delivered,UPI,1
+LH-300802,CU-10630,2026-07-20,delivered,UPI,1
+LH-300803,CU-10775,2026-07-20,delivered,UPI,1
+LH-300804,CU-10216,2026-07-20,delivered,Cash on delivery,1
+LH-300805,CU-10073,2026-07-20,delivered,UPI,1
+LH-300806,CU-10396,2026-07-20,delivered,Cash on delivery,1
+LH-300807,CU-10038,2026-07-20,delivered,Card,1
+LH-300808,CU-10285,2026-07-20,delivered,Net banking,1
+LH-300809,CU-10676,2026-07-20,delivered,Net banking,1
+LH-300810,CU-10632,2026-07-20,delivered,Cash on delivery,1
+LH-300811,CU-10120,2026-07-20,delivered,Net banking,1
+LH-300812,CU-10168,2026-07-20,delivered,Card,1
+LH-300813,CU-10654,2026-07-20,delivered,UPI,1
+LH-300814,CU-10764,2026-07-20,delivered,Cash on delivery,1
+LH-300815,CU-10448,2026-07-20,delivered,Cash on delivery,1
+LH-300816,CU-10339,2026-07-20,delivered,Card,1
+LH-300817,CU-10506,2026-07-20,delivered,Cash on delivery,1
+LH-300818,CU-10435,2026-07-20,delivered,UPI,1
+LH-300819,CU-10668,2026-07-20,delivered,Cash on delivery,1
+LH-300820,CU-10296,2026-07-20,delivered,Card,1
+LH-300821,CU-10524,2026-07-20,delivered,Card,1
+LH-300822,CU-10789,2026-07-20,delivered,Cash on delivery,1
+LH-300823,CU-10291,2026-07-20,delivered,Net banking,1
+LH-300824,CU-10094,2026-07-21,delivered,UPI,1
+LH-300825,CU-10752,2026-07-21,delivered,Card,1
+LH-300826,CU-10514,2026-07-21,delivered,Cash on delivery,1
+LH-300827,CU-10736,2026-07-21,delivered,Cash on delivery,1
+LH-300828,CU-10374,2026-07-21,delivered,UPI,1
+LH-300829,CU-10708,2026-07-21,delivered,Cash on delivery,1
+LH-300830,CU-10102,2026-07-21,delivered,Cash on delivery,1
+LH-300831,CU-10104,2026-07-21,delivered,Card,1
+LH-300832,CU-10124,2026-07-21,delivered,Card,1
+LH-300833,CU-10195,2026-07-21,delivered,Cash on delivery,1
+LH-300834,CU-10007,2026-07-21,delivered,Net banking,1
+LH-300835,CU-10767,2026-07-21,delivered,Card,1
+LH-300836,CU-10411,2026-07-21,delivered,Card,1
+LH-300837,CU-10137,2026-07-21,delivered,UPI,1
+LH-300838,CU-10201,2026-07-22,delivered,Card,1
+LH-300839,CU-10541,2026-07-22,delivered,Card,1
+LH-300840,CU-10654,2026-07-22,delivered,Net banking,1
+LH-300841,CU-10675,2026-07-22,delivered,Cash on delivery,1
+LH-300842,CU-10255,2026-07-22,delivered,Card,1
+LH-300843,CU-10222,2026-07-22,delivered,Card,1
+LH-300844,CU-10516,2026-07-22,delivered,Net banking,1
+LH-300845,CU-10666,2026-07-22,delivered,Card,1
+LH-300846,CU-10369,2026-07-22,delivered,UPI,1
+LH-300847,CU-10484,2026-07-22,delivered,Cash on delivery,1
+LH-300848,CU-10530,2026-07-22,delivered,UPI,1
+LH-300849,CU-10466,2026-07-22,delivered,Net banking,1
+LH-300850,CU-10545,2026-07-22,delivered,Cash on delivery,1
+LH-300851,CU-10227,2026-07-22,delivered,UPI,1
+LH-300852,CU-10444,2026-07-22,delivered,Net banking,1
+LH-300853,CU-10581,2026-07-22,delivered,Net banking,1
+LH-300854,CU-10445,2026-07-22,delivered,Cash on delivery,1
+LH-300855,CU-10720,2026-07-22,delivered,Cash on delivery,1
+LH-300856,CU-10696,2026-07-22,delivered,Card,1
+LH-300857,CU-10305,2026-07-22,delivered,Cash on delivery,1
+LH-300858,CU-10715,2026-07-22,delivered,Net banking,1
+LH-300859,CU-10627,2026-07-23,delivered,UPI,1
+LH-300860,CU-10082,2026-07-23,delivered,UPI,1
+LH-300861,CU-10526,2026-07-23,delivered,Cash on delivery,1
+LH-300862,CU-10638,2026-07-23,delivered,Card,1
+LH-300863,CU-10290,2026-07-23,delivered,Card,1
+LH-300864,CU-10176,2026-07-23,delivered,Card,1
+LH-300865,CU-10554,2026-07-23,delivered,Net banking,1
+LH-300866,CU-10428,2026-07-23,delivered,Cash on delivery,1
+LH-300867,CU-10301,2026-07-23,delivered,Net banking,1
+LH-300868,CU-10042,2026-07-23,delivered,Card,1
+LH-300869,CU-10439,2026-07-23,delivered,Card,1
+LH-300870,CU-10179,2026-07-23,delivered,Cash on delivery,1
+LH-300871,CU-10249,2026-07-23,delivered,Card,1
+LH-300872,CU-10584,2026-07-23,delivered,Card,1
+LH-300873,CU-10065,2026-07-23,delivered,Cash on delivery,1
+LH-300874,CU-10673,2026-07-23,delivered,Net banking,1
+LH-300875,CU-10318,2026-07-23,delivered,Card,1
+LH-300876,CU-10097,2026-07-23,delivered,Card,1
+LH-300877,CU-10665,2026-07-23,delivered,UPI,1
+LH-300878,CU-10126,2026-07-23,delivered,Card,1
+LH-300879,CU-10427,2026-07-23,delivered,Net banking,1
+LH-300880,CU-10146,2026-07-23,delivered,UPI,1
+LH-300881,CU-10004,2026-07-24,returned,Net banking,1
+LH-300882,CU-10704,2026-07-24,delivered,Cash on delivery,1
+LH-300883,CU-10543,2026-07-24,delivered,UPI,1
+LH-300884,CU-10400,2026-07-24,delivered,Net banking,1
+LH-300885,CU-10170,2026-07-24,delivered,Card,1
+LH-300886,CU-10274,2026-07-24,delivered,Cash on delivery,1
+LH-300887,CU-10367,2026-07-24,delivered,UPI,1
+LH-300888,CU-10408,2026-07-24,delivered,Card,1
+LH-300889,CU-10711,2026-07-24,delivered,Card,1
+LH-300890,CU-10430,2026-07-24,delivered,Net banking,1
+LH-300891,CU-10304,2026-07-24,delivered,Net banking,1
+LH-300892,CU-10249,2026-07-24,delivered,Net banking,1
+LH-300893,CU-10212,2026-07-24,delivered,Card,1
+LH-300894,CU-10704,2026-07-24,delivered,Net banking,1
+LH-300895,CU-10671,2026-07-24,delivered,Card,1
+LH-300896,CU-10415,2026-07-24,delivered,UPI,1
+LH-300897,CU-10708,2026-07-24,delivered,UPI,1
+LH-300898,CU-10586,2026-07-24,delivered,Net banking,1
+LH-300899,CU-10425,2026-07-24,delivered,Net banking,1
+LH-300900,CU-10122,2026-07-24,delivered,Cash on delivery,1
+LH-300901,CU-10607,2026-07-24,delivered,Card,1
+LH-300902,CU-10641,2026-07-24,delivered,UPI,1
+LH-300903,CU-10180,2026-07-24,delivered,Card,1
+LH-300904,CU-10140,2026-07-25,delivered,Net banking,1
+LH-300905,CU-10203,2026-07-25,delivered,Cash on delivery,1
+LH-300906,CU-10452,2026-07-25,delivered,Net banking,1
+LH-300907,CU-10664,2026-07-25,delivered,UPI,1
+LH-300908,CU-10119,2026-07-25,delivered,Net banking,1
+LH-300909,CU-10745,2026-07-25,delivered,Net banking,1
+LH-300910,CU-10753,2026-07-25,delivered,Card,1
+LH-300911,CU-10698,2026-07-25,delivered,Cash on delivery,1
+LH-300912,CU-10707,2026-07-25,delivered,UPI,1
+LH-300913,CU-10128,2026-07-25,delivered,UPI,1
+LH-300914,CU-10452,2026-07-25,delivered,Card,1
+LH-300915,CU-10297,2026-07-25,delivered,Net banking,1
+LH-300916,CU-10182,2026-07-25,delivered,UPI,1
+LH-300917,CU-10736,2026-07-25,delivered,UPI,1
+LH-300918,CU-10569,2026-07-26,delivered,Cash on delivery,1
+LH-300919,CU-10476,2026-07-26,delivered,UPI,1
+LH-300920,CU-10290,2026-07-26,delivered,Cash on delivery,1
+LH-300921,CU-10301,2026-07-26,delivered,Net banking,1
+LH-300922,CU-10767,2026-07-26,delivered,Card,1
+LH-300923,CU-10706,2026-07-26,delivered,Net banking,1
+LH-300924,CU-10198,2026-07-26,delivered,Cash on delivery,1
+LH-300925,CU-10048,2026-07-26,delivered,Cash on delivery,1
+LH-300926,CU-10680,2026-07-26,delivered,UPI,1
+LH-300927,CU-10507,2026-07-26,delivered,Net banking,1
+LH-300928,CU-10044,2026-07-26,delivered,UPI,1
+LH-300929,CU-10324,2026-07-26,delivered,UPI,1
+LH-300930,CU-10387,2026-07-26,delivered,Cash on delivery,1
+LH-300931,CU-10738,2026-07-26,delivered,Card,1
+LH-300932,CU-10607,2026-07-26,delivered,Card,1
+LH-300933,CU-10110,2026-07-26,delivered,Cash on delivery,1
+LH-300934,CU-10212,2026-07-27,delivered,UPI,1
+LH-300935,CU-10150,2026-07-27,delivered,UPI,1
+LH-300936,CU-10588,2026-07-27,delivered,Net banking,1
+LH-300937,CU-10237,2026-07-27,delivered,UPI,1
+LH-300938,CU-10079,2026-07-27,delivered,Card,1
+LH-300939,CU-10128,2026-07-27,delivered,Card,1
+LH-300940,CU-10116,2026-07-27,delivered,UPI,1
+LH-300941,CU-10744,2026-07-27,delivered,Net banking,1
+LH-300942,CU-10574,2026-07-27,delivered,Net banking,1
+LH-300943,CU-10258,2026-07-27,delivered,UPI,1
+LH-300944,CU-10337,2026-07-27,delivered,Net banking,1
+LH-300945,CU-10667,2026-07-27,delivered,Card,1
+LH-300946,CU-10098,2026-07-27,delivered,Net banking,1
+LH-300947,CU-10033,2026-07-27,delivered,UPI,1
+LH-300948,CU-10463,2026-07-28,delivered,Net banking,1
+LH-300949,CU-10103,2026-07-28,delivered,UPI,1
+LH-300950,CU-10669,2026-07-28,delivered,UPI,1
+LH-300951,CU-10544,2026-07-28,delivered,UPI,1
+LH-300952,CU-10093,2026-07-28,delivered,Cash on delivery,1
+LH-300953,CU-10018,2026-07-28,delivered,Card,1
+LH-300954,CU-10725,2026-07-28,delivered,Net banking,1
+LH-300955,CU-10468,2026-07-28,delivered,UPI,1
+LH-300956,CU-10076,2026-07-28,delivered,Net banking,1
+LH-300957,CU-10456,2026-07-28,delivered,Card,1
+LH-300958,CU-10790,2026-07-28,delivered,Cash on delivery,1
+LH-300959,CU-10172,2026-07-29,delivered,Cash on delivery,1
+LH-300960,CU-10301,2026-07-29,delivered,Net banking,1
+LH-300961,CU-10523,2026-07-29,delivered,UPI,1
+LH-300962,CU-10338,2026-07-29,delivered,UPI,1
+LH-300963,CU-10698,2026-07-29,delivered,Net banking,1
+LH-300964,CU-10024,2026-07-29,delivered,Card,1
+LH-300965,CU-10038,2026-07-29,delivered,Card,1
+LH-300966,CU-10150,2026-07-29,delivered,Net banking,1
+LH-300967,CU-10133,2026-07-29,delivered,UPI,1
+LH-300968,CU-10099,2026-07-29,delivered,Card,1
+LH-300969,CU-10089,2026-07-29,delivered,Net banking,1
+LH-300970,CU-10352,2026-07-29,delivered,Cash on delivery,1
+LH-300971,CU-10484,2026-07-29,delivered,Net banking,1
+LH-300972,CU-10059,2026-07-29,delivered,UPI,1
+LH-300973,CU-10748,2026-07-29,delivered,UPI,1
+LH-300974,CU-10075,2026-07-29,delivered,Net banking,1
+LH-300975,CU-10233,2026-07-29,delivered,Card,1
+LH-300976,CU-10603,2026-07-29,delivered,Net banking,1
+LH-300977,CU-10133,2026-07-29,delivered,Net banking,1
+LH-300978,CU-10274,2026-07-29,delivered,Card,1
+LH-300979,CU-10579,2026-07-30,delivered,Card,1
+LH-300980,CU-10344,2026-07-30,delivered,Card,1
+LH-300981,CU-10135,2026-07-30,delivered,UPI,1
+LH-300982,CU-10665,2026-07-30,delivered,UPI,1
+LH-300983,CU-10611,2026-07-30,delivered,Cash on delivery,1
+LH-300984,CU-10572,2026-07-30,delivered,Card,1
+LH-300985,CU-10329,2026-07-30,delivered,Card,1
+LH-300986,CU-10018,2026-07-30,returned,Cash on delivery,1
+LH-300987,CU-10692,2026-07-30,delivered,UPI,1
+LH-300988,CU-10599,2026-07-30,delivered,Card,1
+LH-300989,CU-10457,2026-07-30,delivered,Cash on delivery,1
+LH-300990,CU-10013,2026-07-30,delivered,Card,1
+LH-300991,CU-10109,2026-07-30,delivered,Card,1
+LH-300992,CU-10657,2026-07-30,delivered,Cash on delivery,1
+LH-300993,CU-10169,2026-07-30,delivered,Card,1
+LH-300994,CU-10474,2026-07-30,delivered,UPI,1
+LH-300995,CU-10405,2026-07-30,delivered,UPI,1
+LH-300996,CU-10388,2026-07-31,delivered,Net banking,1
+LH-300997,CU-10037,2026-07-31,delivered,Cash on delivery,1
+LH-300998,CU-10343,2026-07-31,returned,Cash on delivery,1
+LH-300999,CU-10250,2026-07-31,delivered,Card,1
+LH-301000,CU-10783,2026-07-31,delivered,UPI,1
+LH-301001,CU-10222,2026-07-31,delivered,Card,1
+LH-301002,CU-10173,2026-07-31,delivered,Net banking,1
+LH-301003,CU-10057,2026-07-31,delivered,Cash on delivery,1
+LH-301004,CU-10653,2026-07-31,delivered,UPI,1
+LH-301005,CU-10718,2026-07-31,delivered,Net banking,1
+LH-301006,CU-10356,2026-07-31,delivered,UPI,1
+LH-301007,CU-10206,2026-07-31,returned,Cash on delivery,1
+LH-301008,CU-10323,2026-07-31,delivered,Net banking,1
+LH-301009,CU-10645,2026-07-31,delivered,Card,1
+LH-301010,CU-10711,2026-07-31,delivered,UPI,1
+LH-301011,CU-10426,2026-07-31,delivered,Net banking,1
+LH-301012,CU-10239,2026-07-31,delivered,UPI,1
+LH-301013,CU-10204,2026-07-31,delivered,Net banking,1
+LH-301014,CU-10392,2026-07-31,delivered,Cash on delivery,1
+LH-301015,CU-10622,2026-07-31,delivered,Card,1
+LH-301016,CU-10467,2026-07-31,delivered,Cash on delivery,1
+LH-301017,CU-10431,2026-07-31,delivered,Net banking,1
+LH-301018,CU-10350,2026-07-31,delivered,Card,1
+LH-301019,CU-10283,2026-07-31,delivered,UPI,1
+LH-301020,CU-10437,2026-08-01,delivered,Net banking,1
+LH-301021,CU-10006,2026-08-01,delivered,UPI,1
+LH-301022,CU-10471,2026-08-01,delivered,Cash on delivery,1
+LH-301023,CU-10252,2026-08-01,delivered,Card,1
+LH-301024,CU-10221,2026-08-01,delivered,Net banking,1
+LH-301025,CU-10446,2026-08-01,delivered,Card,1
+LH-301026,CU-10470,2026-08-01,returned,Net banking,1
+LH-301027,CU-10074,2026-08-01,delivered,Card,1
+LH-301028,CU-10016,2026-08-01,delivered,Cash on delivery,1
+LH-301029,CU-10282,2026-08-01,delivered,Cash on delivery,1
+LH-301030,CU-10244,2026-08-01,delivered,Net banking,1
+LH-301031,CU-10181,2026-08-01,delivered,Cash on delivery,1
+LH-301032,CU-10024,2026-08-01,delivered,Card,1
+LH-301033,CU-10471,2026-08-01,delivered,UPI,1
+LH-301034,CU-10151,2026-08-02,delivered,Card,1
+LH-301035,CU-10432,2026-08-02,returned,UPI,1
+LH-301036,CU-10480,2026-08-02,delivered,Net banking,1
+LH-301037,CU-10511,2026-08-02,delivered,Cash on delivery,1
+LH-301038,CU-10473,2026-08-02,delivered,UPI,1
+LH-301039,CU-10128,2026-08-02,delivered,Cash on delivery,1
+LH-301040,CU-10571,2026-08-02,delivered,Cash on delivery,1
+LH-301041,CU-10121,2026-08-02,delivered,Cash on delivery,1
+LH-301042,CU-10279,2026-08-02,delivered,UPI,1
+LH-301043,CU-10526,2026-08-02,delivered,Cash on delivery,1
+LH-301044,CU-10650,2026-08-02,delivered,Net banking,1
+LH-301045,CU-10166,2026-08-02,delivered,Card,1
+LH-301046,CU-10123,2026-08-02,delivered,Net banking,1
+LH-301047,CU-10250,2026-08-02,delivered,Net banking,1
+LH-301048,CU-10054,2026-08-02,delivered,UPI,1
+LH-301049,CU-10425,2026-08-02,delivered,Cash on delivery,1
+LH-301050,CU-10074,2026-08-02,delivered,Cash on delivery,1
+LH-301051,CU-10750,2026-08-02,delivered,UPI,1
+LH-301052,CU-10236,2026-08-02,delivered,Cash on delivery,1
+LH-301053,CU-10342,2026-08-02,delivered,Card,1
+LH-301054,CU-10135,2026-08-03,delivered,Card,1
+LH-301055,CU-10462,2026-08-03,delivered,Cash on delivery,1
+LH-301056,CU-10479,2026-08-03,delivered,UPI,1
+LH-301057,CU-10331,2026-08-03,delivered,Net banking,1
+LH-301058,CU-10792,2026-08-03,delivered,Net banking,1
+LH-301059,CU-10458,2026-08-03,delivered,UPI,1
+LH-301060,CU-10280,2026-08-03,delivered,Cash on delivery,1
+LH-301061,CU-10222,2026-08-03,delivered,Net banking,1
+LH-301062,CU-10267,2026-08-03,delivered,Card,1
+LH-301063,CU-10710,2026-08-03,delivered,Cash on delivery,1
+LH-301064,CU-10225,2026-08-03,delivered,Card,1
+LH-301065,CU-10625,2026-08-03,delivered,Card,1
+LH-301066,CU-10720,2026-08-03,delivered,Net banking,1
+LH-301067,CU-10729,2026-08-03,delivered,Cash on delivery,1
+LH-301068,CU-10157,2026-08-03,delivered,Net banking,1
+LH-301069,CU-10493,2026-08-03,delivered,Card,1
+LH-301070,CU-10037,2026-08-03,delivered,UPI,1
+LH-301071,CU-10667,2026-08-03,delivered,Card,1
+LH-301072,CU-10398,2026-08-03,delivered,Net banking,1
+LH-301073,CU-10746,2026-08-04,delivered,Card,1
+LH-301074,CU-10171,2026-08-04,delivered,Cash on delivery,1
+LH-301075,CU-10421,2026-08-04,delivered,UPI,1
+LH-301076,CU-10032,2026-08-04,delivered,Card,1
+LH-301077,CU-10238,2026-08-04,delivered,Cash on delivery,1
+LH-301078,CU-10741,2026-08-04,delivered,UPI,1
+LH-301079,CU-10147,2026-08-04,delivered,Net banking,1
+LH-301080,CU-10692,2026-08-04,delivered,Cash on delivery,1
+LH-301081,CU-10634,2026-08-04,delivered,Card,1
+LH-301082,CU-10003,2026-08-04,delivered,UPI,1
+LH-301083,CU-10136,2026-08-04,delivered,Card,1
+LH-301084,CU-10492,2026-08-04,delivered,UPI,1
+LH-301085,CU-10291,2026-08-04,delivered,Cash on delivery,1
+LH-301086,CU-10021,2026-08-04,delivered,UPI,1
+LH-301087,CU-10398,2026-08-05,delivered,Cash on delivery,1
+LH-301088,CU-10345,2026-08-05,delivered,Card,1
+LH-301089,CU-10651,2026-08-05,delivered,Net banking,1
+LH-301090,CU-10019,2026-08-05,delivered,UPI,1
+LH-301091,CU-10606,2026-08-05,delivered,Cash on delivery,1
+LH-301092,CU-10433,2026-08-05,delivered,Net banking,1
+LH-301093,CU-10179,2026-08-05,delivered,UPI,1
+LH-301094,CU-10109,2026-08-05,delivered,Cash on delivery,1
+LH-301095,CU-10409,2026-08-05,delivered,Net banking,1
+LH-301096,CU-10293,2026-08-05,delivered,Cash on delivery,1
+LH-301097,CU-10703,2026-08-05,delivered,Net banking,1
+LH-301098,CU-10608,2026-08-05,delivered,UPI,1
+LH-301099,CU-10331,2026-08-06,delivered,Cash on delivery,1
+LH-301100,CU-10361,2026-08-06,delivered,Net banking,1
+LH-301101,CU-10654,2026-08-06,delivered,Cash on delivery,1
+LH-301102,CU-10028,2026-08-06,delivered,Cash on delivery,1
+LH-301103,CU-10118,2026-08-06,delivered,UPI,1
+LH-301104,CU-10393,2026-08-06,delivered,UPI,1
+LH-301105,CU-10255,2026-08-06,delivered,Cash on delivery,1
+LH-301106,CU-10466,2026-08-06,delivered,Card,1
+LH-301107,CU-10330,2026-08-06,delivered,Cash on delivery,1
+LH-301108,CU-10351,2026-08-06,delivered,Card,1
+LH-301109,CU-10705,2026-08-06,delivered,Card,1
+LH-301110,CU-10236,2026-08-06,delivered,Cash on delivery,1
+LH-301111,CU-10015,2026-08-06,delivered,Card,1
+LH-301112,CU-10578,2026-08-06,delivered,Net banking,1
+LH-301113,CU-10480,2026-08-06,delivered,Net banking,1
+LH-301114,CU-10586,2026-08-06,delivered,UPI,1
+LH-301115,CU-10587,2026-08-06,returned,Net banking,1
+LH-301116,CU-10497,2026-08-07,delivered,Cash on delivery,1
+LH-301117,CU-10286,2026-08-07,delivered,UPI,1
+LH-301118,CU-10097,2026-08-07,delivered,UPI,1
+LH-301119,CU-10013,2026-08-07,delivered,Cash on delivery,1
+LH-301120,CU-10177,2026-08-07,delivered,Card,1
+LH-301121,CU-10155,2026-08-07,delivered,UPI,1
+LH-301122,CU-10745,2026-08-07,delivered,Net banking,1
+LH-301123,CU-10293,2026-08-07,delivered,Net banking,1
+LH-301124,CU-10014,2026-08-07,delivered,Cash on delivery,1
+LH-301125,CU-10293,2026-08-07,delivered,Card,1
+LH-301126,CU-10449,2026-08-07,delivered,Net banking,1
+LH-301127,CU-10607,2026-08-07,delivered,Net banking,1
+LH-301128,CU-10173,2026-08-07,delivered,Net banking,1
+LH-301129,CU-10210,2026-08-07,delivered,Cash on delivery,1
+LH-301130,CU-10229,2026-08-07,delivered,Cash on delivery,1
+LH-301131,CU-10197,2026-08-07,delivered,Cash on delivery,1
+LH-301132,CU-10606,2026-08-07,delivered,Cash on delivery,1
+LH-301133,CU-10001,2026-08-07,delivered,Net banking,1
+LH-301134,CU-10226,2026-08-07,delivered,Net banking,1
+LH-301135,CU-10438,2026-08-07,delivered,Net banking,1
+LH-301136,CU-10777,2026-08-07,delivered,UPI,1
+LH-301137,CU-10040,2026-08-08,delivered,UPI,1
+LH-301138,CU-10790,2026-08-08,delivered,Card,1
+LH-301139,CU-10725,2026-08-08,delivered,Card,1
+LH-301140,CU-10556,2026-08-08,delivered,Net banking,1
+LH-301141,CU-10747,2026-08-08,delivered,Net banking,1
+LH-301142,CU-10006,2026-08-08,delivered,UPI,1
+LH-301143,CU-10295,2026-08-08,delivered,Card,1
+LH-301144,CU-10253,2026-08-08,delivered,UPI,1
+LH-301145,CU-10385,2026-08-08,delivered,Cash on delivery,1
+LH-301146,CU-10691,2026-08-08,delivered,UPI,1
+LH-301147,CU-10262,2026-08-08,delivered,Net banking,1
+LH-301148,CU-10212,2026-08-08,delivered,Net banking,1
+LH-301149,CU-10719,2026-08-08,delivered,UPI,1
+LH-301150,CU-10538,2026-08-08,delivered,Card,1
+LH-301151,CU-10286,2026-08-08,delivered,UPI,1
+LH-301152,CU-10654,2026-08-08,delivered,Cash on delivery,1
+LH-301153,CU-10672,2026-08-08,delivered,Card,1
+LH-301154,CU-10140,2026-08-08,delivered,Cash on delivery,1
+LH-301155,CU-10019,2026-08-08,delivered,Cash on delivery,1
+LH-301156,CU-10750,2026-08-09,delivered,UPI,1
+LH-301157,CU-10586,2026-08-09,delivered,UPI,1
+LH-301158,CU-10686,2026-08-09,delivered,UPI,1
+LH-301159,CU-10346,2026-08-09,delivered,Net banking,1
+LH-301160,CU-10710,2026-08-09,delivered,Cash on delivery,1
+LH-301161,CU-10584,2026-08-09,delivered,Net banking,1
+LH-301162,CU-10336,2026-08-09,delivered,Card,1
+LH-301163,CU-10519,2026-08-09,delivered,Net banking,1
+LH-301164,CU-10774,2026-08-09,delivered,Card,1
+LH-301165,CU-10369,2026-08-09,delivered,Card,1
+LH-301166,CU-10656,2026-08-09,delivered,UPI,1
+LH-301167,CU-10570,2026-08-09,delivered,UPI,1
+LH-301168,CU-10017,2026-08-09,delivered,Net banking,1
+LH-301169,CU-10663,2026-08-09,delivered,Net banking,1
+LH-301170,CU-10589,2026-08-09,delivered,Card,1
+LH-301171,CU-10589,2026-08-09,delivered,Net banking,1
+LH-301172,CU-10670,2026-08-09,delivered,Net banking,1
+LH-301173,CU-10669,2026-08-09,delivered,Cash on delivery,1
+LH-301174,CU-10510,2026-08-10,delivered,Card,1
+LH-301175,CU-10066,2026-08-10,delivered,UPI,1
+LH-301176,CU-10538,2026-08-10,delivered,Net banking,1
+LH-301177,CU-10436,2026-08-10,delivered,Card,1
+LH-301178,CU-10666,2026-08-10,delivered,Cash on delivery,1
+LH-301179,CU-10164,2026-08-10,delivered,UPI,1
+LH-301180,CU-10364,2026-08-10,delivered,Net banking,1
+LH-301181,CU-10428,2026-08-10,delivered,Cash on delivery,1
+LH-301182,CU-10116,2026-08-10,delivered,Card,1
+LH-301183,CU-10323,2026-08-10,delivered,Cash on delivery,1
+LH-301184,CU-10576,2026-08-10,delivered,Cash on delivery,1
+LH-301185,CU-10377,2026-08-10,delivered,Card,1
+LH-301186,CU-10446,2026-08-10,delivered,Cash on delivery,1
+LH-301187,CU-10725,2026-08-10,delivered,Card,1
+LH-301188,CU-10639,2026-08-10,delivered,Net banking,1
+LH-301189,CU-10043,2026-08-10,delivered,Card,1
+LH-301190,CU-10266,2026-08-10,delivered,UPI,1
+LH-301191,CU-10027,2026-08-10,delivered,UPI,1
+LH-301192,CU-10160,2026-08-10,delivered,Cash on delivery,1
+LH-301193,CU-10148,2026-08-10,delivered,Cash on delivery,1
+LH-301194,CU-10240,2026-08-11,delivered,Card,1
+LH-301195,CU-10053,2026-08-11,delivered,UPI,1
+LH-301196,CU-10501,2026-08-11,delivered,Net banking,1
+LH-301197,CU-10688,2026-08-11,delivered,Net banking,1
+LH-301198,CU-10409,2026-08-11,delivered,Cash on delivery,1
+LH-301199,CU-10281,2026-08-11,delivered,UPI,1
+LH-301200,CU-10587,2026-08-11,delivered,Net banking,1
+LH-301201,CU-10112,2026-08-11,delivered,UPI,1
+LH-301202,CU-10072,2026-08-11,delivered,Net banking,1
+LH-301203,CU-10182,2026-08-11,delivered,Net banking,1
+LH-301204,CU-10731,2026-08-11,delivered,Cash on delivery,1
+LH-301205,CU-10523,2026-08-11,delivered,Net banking,1
+LH-301206,CU-10434,2026-08-11,returned,Net banking,1
+LH-301207,CU-10652,2026-08-12,delivered,UPI,1
+LH-301208,CU-10324,2026-08-12,delivered,Card,1
+LH-301209,CU-10594,2026-08-12,delivered,Cash on delivery,1
+LH-301210,CU-10411,2026-08-12,delivered,UPI,1
+LH-301211,CU-10672,2026-08-12,delivered,UPI,1
+LH-301212,CU-10297,2026-08-12,delivered,Cash on delivery,1
+LH-301213,CU-10055,2026-08-12,delivered,Cash on delivery,1
+LH-301214,CU-10291,2026-08-12,delivered,Cash on delivery,1
+LH-301215,CU-10336,2026-08-12,delivered,Cash on delivery,1
+LH-301216,CU-10117,2026-08-12,delivered,UPI,1
+LH-301217,CU-10545,2026-08-12,delivered,Net banking,1
+LH-301218,CU-10639,2026-08-12,delivered,UPI,1
+LH-301219,CU-10139,2026-08-12,delivered,Net banking,1
+LH-301220,CU-10651,2026-08-12,delivered,Net banking,1
+LH-301221,CU-10643,2026-08-12,delivered,Cash on delivery,1
+LH-301222,CU-10637,2026-08-13,delivered,Card,1
+LH-301223,CU-10236,2026-08-13,delivered,UPI,1
+LH-301224,CU-10378,2026-08-13,delivered,Net banking,1
+LH-301225,CU-10051,2026-08-13,delivered,Card,1
+LH-301226,CU-10331,2026-08-13,delivered,Cash on delivery,1
+LH-301227,CU-10447,2026-08-13,delivered,Card,1
+LH-301228,CU-10782,2026-08-13,delivered,Card,1
+LH-301229,CU-10156,2026-08-13,delivered,Net banking,1
+LH-301230,CU-10202,2026-08-13,delivered,Card,1
+LH-301231,CU-10414,2026-08-13,delivered,UPI,1
+LH-301232,CU-10679,2026-08-13,delivered,UPI,1
+LH-301233,CU-10698,2026-08-13,delivered,Net banking,1
+LH-301234,CU-10017,2026-08-13,delivered,Card,1
+LH-301235,CU-10238,2026-08-13,delivered,Card,1
+LH-301236,CU-10627,2026-08-14,delivered,Card,1
+LH-301237,CU-10235,2026-08-14,delivered,Cash on delivery,1
+LH-301238,CU-10681,2026-08-14,delivered,Card,1
+LH-301239,CU-10785,2026-08-14,delivered,Net banking,1
+LH-301240,CU-10085,2026-08-14,delivered,Cash on delivery,1
+LH-301241,CU-10523,2026-08-14,delivered,UPI,1
+LH-301242,CU-10027,2026-08-14,delivered,Card,1
+LH-301243,CU-10453,2026-08-14,delivered,Cash on delivery,1
+LH-301244,CU-10331,2026-08-14,delivered,Cash on delivery,1
+LH-301245,CU-10416,2026-08-14,delivered,UPI,1
+LH-301246,CU-10566,2026-08-15,delivered,Cash on delivery,1
+LH-301247,CU-10646,2026-08-15,delivered,Card,1
+LH-301248,CU-10615,2026-08-15,delivered,Cash on delivery,1
+LH-301249,CU-10424,2026-08-15,delivered,Cash on delivery,1
+LH-301250,CU-10012,2026-08-15,delivered,Card,1
+LH-301251,CU-10470,2026-08-15,delivered,Card,1
+LH-301252,CU-10037,2026-08-15,delivered,Card,1
+LH-301253,CU-10322,2026-08-15,delivered,Card,1
+LH-301254,CU-10342,2026-08-15,delivered,UPI,1
+LH-301255,CU-10787,2026-08-15,delivered,Net banking,1
+LH-301256,CU-10756,2026-08-15,delivered,Cash on delivery,1
+LH-301257,CU-10140,2026-08-15,delivered,Cash on delivery,1
+LH-301258,CU-10540,2026-08-15,delivered,Cash on delivery,1
+LH-301259,CU-10102,2026-08-15,delivered,Net banking,1
+LH-301260,CU-10700,2026-08-15,delivered,Net banking,1
+LH-301261,CU-10556,2026-08-15,delivered,UPI,1
+LH-301262,CU-10708,2026-08-15,delivered,UPI,1
+LH-301263,CU-10049,2026-08-15,delivered,Card,1
+LH-301264,CU-10089,2026-08-15,delivered,Cash on delivery,1
+LH-301265,CU-10143,2026-08-15,delivered,UPI,1
+LH-301266,CU-10456,2026-08-15,delivered,Cash on delivery,1
+LH-301267,CU-10015,2026-08-15,delivered,Cash on delivery,1
+LH-301268,CU-10125,2026-08-16,delivered,Net banking,1
+LH-301269,CU-10061,2026-08-16,delivered,Card,1
+LH-301270,CU-10548,2026-08-16,delivered,Net banking,1
+LH-301271,CU-10329,2026-08-16,delivered,Cash on delivery,1
+LH-301272,CU-10078,2026-08-16,delivered,UPI,1
+LH-301273,CU-10669,2026-08-16,delivered,Cash on delivery,1
+LH-301274,CU-10004,2026-08-16,delivered,Cash on delivery,1
+LH-301275,CU-10223,2026-08-16,delivered,Card,1
+LH-301276,CU-10039,2026-08-16,delivered,Net banking,1
+LH-301277,CU-10199,2026-08-16,delivered,Cash on delivery,1
+LH-301278,CU-10393,2026-08-16,delivered,Net banking,1
+LH-301279,CU-10348,2026-08-16,delivered,Cash on delivery,1
+LH-301280,CU-10498,2026-08-16,delivered,Card,1
+LH-301281,CU-10344,2026-08-16,delivered,Card,1
+LH-301282,CU-10167,2026-08-16,delivered,Net banking,1
+LH-301283,CU-10586,2026-08-17,delivered,Card,1
+LH-301284,CU-10795,2026-08-17,delivered,Cash on delivery,1
+LH-301285,CU-10117,2026-08-17,delivered,Card,1
+LH-301286,CU-10385,2026-08-17,delivered,Card,1
+LH-301287,CU-10132,2026-08-17,delivered,Cash on delivery,1
+LH-301288,CU-10418,2026-08-17,delivered,UPI,1
+LH-301289,CU-10706,2026-08-17,delivered,Card,1
+LH-301290,CU-10510,2026-08-17,delivered,Card,1
+LH-301291,CU-10543,2026-08-17,delivered,UPI,1
+LH-301292,CU-10056,2026-08-17,delivered,Net banking,1
+LH-301293,CU-10288,2026-08-17,delivered,Card,1
+LH-301294,CU-10108,2026-08-17,delivered,Card,1
+LH-301295,CU-10432,2026-08-17,delivered,Net banking,1
+LH-301296,CU-10360,2026-08-17,delivered,Cash on delivery,1
+LH-301297,CU-10237,2026-08-17,delivered,Cash on delivery,1
+LH-301298,CU-10713,2026-08-18,delivered,Cash on delivery,1
+LH-301299,CU-10619,2026-08-18,delivered,UPI,1
+LH-301300,CU-10073,2026-08-18,delivered,Card,1
+LH-301301,CU-10455,2026-08-18,delivered,Card,1
+LH-301302,CU-10686,2026-08-18,delivered,Card,1
+LH-301303,CU-10253,2026-08-18,delivered,UPI,1
+LH-301304,CU-10269,2026-08-18,delivered,Cash on delivery,1
+LH-301305,CU-10061,2026-08-18,delivered,Cash on delivery,1
+LH-301306,CU-10701,2026-08-18,delivered,Card,1
+LH-301307,CU-10094,2026-08-18,delivered,Net banking,1
+LH-301308,CU-10192,2026-08-18,delivered,UPI,1
+LH-301309,CU-10390,2026-08-18,delivered,Card,1
+LH-301310,CU-10329,2026-08-18,delivered,UPI,1
+LH-301311,CU-10754,2026-08-18,delivered,Net banking,1
+LH-301312,CU-10089,2026-08-18,delivered,Net banking,1
+LH-301313,CU-10607,2026-08-18,delivered,Card,1
+LH-301314,CU-10723,2026-08-18,delivered,Net banking,1
+LH-301315,CU-10766,2026-08-19,delivered,UPI,1
+LH-301316,CU-10084,2026-08-19,delivered,Net banking,1
+LH-301317,CU-10684,2026-08-19,delivered,Net banking,1
+LH-301318,CU-10557,2026-08-19,delivered,Card,1
+LH-301319,CU-10585,2026-08-19,delivered,UPI,1
+LH-301320,CU-10582,2026-08-19,delivered,Card,1
+LH-301321,CU-10277,2026-08-19,delivered,Net banking,1
+LH-301322,CU-10109,2026-08-19,delivered,Card,1
+LH-301323,CU-10716,2026-08-20,delivered,Card,1
+LH-301324,CU-10261,2026-08-20,delivered,Card,1
+LH-301325,CU-10120,2026-08-20,delivered,UPI,1
+LH-301326,CU-10616,2026-08-20,delivered,Cash on delivery,1
+LH-301327,CU-10717,2026-08-20,delivered,Cash on delivery,1
+LH-301328,CU-10625,2026-08-20,delivered,Card,1
+LH-301329,CU-10064,2026-08-20,delivered,Net banking,1
+LH-301330,CU-10518,2026-08-20,delivered,Cash on delivery,1
+LH-301331,CU-10441,2026-08-20,delivered,Net banking,1
+LH-301332,CU-10240,2026-08-20,delivered,Cash on delivery,1
+LH-301333,CU-10404,2026-08-20,delivered,UPI,1
+LH-301334,CU-10687,2026-08-20,delivered,Cash on delivery,1
+LH-301335,CU-10485,2026-08-20,delivered,Cash on delivery,1
+LH-301336,CU-10235,2026-08-21,delivered,Cash on delivery,1
+LH-301337,CU-10310,2026-08-21,delivered,Net banking,1
+LH-301338,CU-10483,2026-08-21,delivered,UPI,1
+LH-301339,CU-10179,2026-08-21,delivered,UPI,1
+LH-301340,CU-10772,2026-08-21,returned,Cash on delivery,1
+LH-301341,CU-10318,2026-08-21,delivered,Net banking,1
+LH-301342,CU-10123,2026-08-21,delivered,Cash on delivery,1
+LH-301343,CU-10009,2026-08-21,delivered,UPI,1
+LH-301344,CU-10362,2026-08-21,delivered,UPI,1
+LH-301345,CU-10216,2026-08-21,delivered,Card,1
+LH-301346,CU-10071,2026-08-21,delivered,Card,1
+LH-301347,CU-10300,2026-08-21,delivered,Card,1
+LH-301348,CU-10283,2026-08-21,delivered,Net banking,1
+LH-301349,CU-10150,2026-08-21,delivered,Cash on delivery,1
+LH-301350,CU-10357,2026-08-21,delivered,Cash on delivery,1
+LH-301351,CU-10279,2026-08-21,delivered,UPI,1
+LH-301352,CU-10085,2026-08-21,delivered,Cash on delivery,1
+LH-301353,CU-10398,2026-08-21,delivered,Net banking,1
+LH-301354,CU-10278,2026-08-22,delivered,Card,1
+LH-301355,CU-10153,2026-08-22,returned,Card,1
+LH-301356,CU-10043,2026-08-22,delivered,Net banking,1
+LH-301357,CU-10773,2026-08-22,delivered,UPI,1
+LH-301358,CU-10454,2026-08-22,delivered,Card,1
+LH-301359,CU-10782,2026-08-22,delivered,Cash on delivery,1
+LH-301360,CU-10048,2026-08-22,delivered,Card,1
+LH-301361,CU-10178,2026-08-22,delivered,Cash on delivery,1
+LH-301362,CU-10159,2026-08-22,delivered,UPI,1
+LH-301363,CU-10563,2026-08-22,delivered,Card,1
+LH-301364,CU-10741,2026-08-22,delivered,Net banking,1
+LH-301365,CU-10645,2026-08-22,delivered,Card,1
+LH-301366,CU-10008,2026-08-22,delivered,Cash on delivery,1
+LH-301367,CU-10472,2026-08-22,delivered,Net banking,1
+LH-301368,CU-10324,2026-08-22,delivered,Net banking,1
+LH-301369,CU-10728,2026-08-22,delivered,Net banking,1
+LH-301370,CU-10075,2026-08-22,delivered,UPI,1
+LH-301371,CU-10095,2026-08-22,delivered,Net banking,1
+LH-301372,CU-10491,2026-08-22,delivered,Card,1
+LH-301373,CU-10727,2026-08-22,delivered,Net banking,1
+LH-301374,CU-10627,2026-08-23,delivered,Card,1
+LH-301375,CU-10415,2026-08-23,delivered,Card,1
+LH-301376,CU-10552,2026-08-23,delivered,UPI,1
+LH-301377,CU-10131,2026-08-23,returned,Card,1
+LH-301378,CU-10283,2026-08-23,delivered,Cash on delivery,1
+LH-301379,CU-10061,2026-08-23,delivered,Card,1
+LH-301380,CU-10006,2026-08-23,delivered,UPI,1
+LH-301381,CU-10568,2026-08-23,delivered,Net banking,1
+LH-301382,CU-10574,2026-08-23,delivered,UPI,1
+LH-301383,CU-10056,2026-08-23,delivered,Cash on delivery,1
+LH-301384,CU-10483,2026-08-23,delivered,UPI,1
+LH-301385,CU-10333,2026-08-23,delivered,Card,1
+LH-301386,CU-10255,2026-08-23,delivered,Net banking,1
+LH-301387,CU-10758,2026-08-23,delivered,Net banking,1
+LH-301388,CU-10795,2026-08-23,delivered,Cash on delivery,1
+LH-301389,CU-10686,2026-08-23,delivered,Card,1
+LH-301390,CU-10276,2026-08-23,delivered,Card,1
+LH-301391,CU-10566,2026-08-23,delivered,Net banking,1
+LH-301392,CU-10407,2026-08-23,delivered,UPI,1
+LH-301393,CU-10521,2026-08-23,delivered,Card,1
+LH-301394,CU-10106,2026-08-24,delivered,Net banking,1
+LH-301395,CU-10517,2026-08-24,delivered,UPI,1
+LH-301396,CU-10581,2026-08-24,delivered,UPI,1
+LH-301397,CU-10261,2026-08-24,delivered,UPI,1
+LH-301398,CU-10732,2026-08-24,delivered,Card,1
+LH-301399,CU-10183,2026-08-24,delivered,Cash on delivery,1
+LH-301400,CU-10786,2026-08-24,delivered,Card,1
+LH-301401,CU-10196,2026-08-24,delivered,Cash on delivery,1
+LH-301402,CU-10746,2026-08-24,delivered,Net banking,1
+LH-301403,CU-10212,2026-08-24,delivered,UPI,1
+LH-301404,CU-10198,2026-08-24,delivered,UPI,1
+LH-301405,CU-10483,2026-08-25,delivered,UPI,1
+LH-301406,CU-10559,2026-08-25,delivered,UPI,1
+LH-301407,CU-10220,2026-08-25,delivered,Net banking,1
+LH-301408,CU-10581,2026-08-25,delivered,UPI,1
+LH-301409,CU-10345,2026-08-25,delivered,Net banking,1
+LH-301410,CU-10010,2026-08-25,returned,UPI,1
+LH-301411,CU-10035,2026-08-25,delivered,UPI,1
+LH-301412,CU-10742,2026-08-25,delivered,Cash on delivery,1
+LH-301413,CU-10534,2026-08-25,delivered,Cash on delivery,1
+LH-301414,CU-10748,2026-08-25,delivered,UPI,1
+LH-301415,CU-10750,2026-08-25,delivered,Card,1
+LH-301416,CU-10020,2026-08-25,delivered,Cash on delivery,1
+LH-301417,CU-10717,2026-08-25,delivered,Net banking,1
+LH-301418,CU-10418,2026-08-25,delivered,Card,1
+LH-301419,CU-10148,2026-08-25,delivered,Net banking,1
+LH-301420,CU-10173,2026-08-26,delivered,Card,1
+LH-301421,CU-10531,2026-08-26,delivered,Card,1
+LH-301422,CU-10072,2026-08-26,delivered,Cash on delivery,1
+LH-301423,CU-10334,2026-08-26,delivered,Cash on delivery,1
+LH-301424,CU-10148,2026-08-26,delivered,Card,1
+LH-301425,CU-10590,2026-08-26,delivered,Net banking,1
+LH-301426,CU-10518,2026-08-26,delivered,UPI,1
+LH-301427,CU-10377,2026-08-26,delivered,Net banking,1
+LH-301428,CU-10304,2026-08-26,delivered,Net banking,1
+LH-301429,CU-10630,2026-08-26,delivered,Net banking,1
+LH-301430,CU-10760,2026-08-26,delivered,Net banking,1
+LH-301431,CU-10242,2026-08-27,delivered,Cash on delivery,1
+LH-301432,CU-10464,2026-08-27,delivered,UPI,1
+LH-301433,CU-10349,2026-08-27,delivered,UPI,1
+LH-301434,CU-10113,2026-08-27,delivered,Cash on delivery,1
+LH-301435,CU-10182,2026-08-27,delivered,Cash on delivery,1
+LH-301436,CU-10398,2026-08-27,delivered,Card,1
+LH-301437,CU-10739,2026-08-27,delivered,Net banking,1
+LH-301438,CU-10249,2026-08-27,delivered,Cash on delivery,1
+LH-301439,CU-10470,2026-08-27,delivered,Card,1
+LH-301440,CU-10124,2026-08-27,delivered,Cash on delivery,1
+LH-301441,CU-10078,2026-08-27,delivered,Net banking,1
+LH-301442,CU-10552,2026-08-27,delivered,Cash on delivery,1
+LH-301443,CU-10748,2026-08-27,delivered,UPI,1
+LH-301444,CU-10614,2026-08-27,delivered,Card,1
+LH-301445,CU-10258,2026-08-27,delivered,Cash on delivery,1
+LH-301446,CU-10717,2026-08-27,delivered,Card,1
+LH-301447,CU-10155,2026-08-27,delivered,Card,1
+LH-301448,CU-10047,2026-08-27,delivered,Net banking,1
+LH-301449,CU-10407,2026-08-27,delivered,Cash on delivery,1
+LH-301450,CU-10578,2026-08-28,delivered,Cash on delivery,1
+LH-301451,CU-10721,2026-08-28,delivered,UPI,1
+LH-301452,CU-10223,2026-08-28,delivered,Card,1
+LH-301453,CU-10145,2026-08-28,delivered,Card,1
+LH-301454,CU-10346,2026-08-28,delivered,UPI,1
+LH-301455,CU-10349,2026-08-28,delivered,Card,1
+LH-301456,CU-10283,2026-08-28,delivered,Card,1
+LH-301457,CU-10322,2026-08-28,delivered,Card,1
+LH-301458,CU-10499,2026-08-28,delivered,UPI,1
+LH-301459,CU-10688,2026-08-28,delivered,Net banking,1
+LH-301460,CU-10218,2026-08-28,delivered,Cash on delivery,1
+LH-301461,CU-10788,2026-08-28,delivered,Net banking,1
+LH-301462,CU-10382,2026-08-28,delivered,UPI,1
+LH-301463,CU-10731,2026-08-28,delivered,UPI,1
+LH-301464,CU-10277,2026-08-28,delivered,Cash on delivery,1
+LH-301465,CU-10683,2026-08-28,delivered,Cash on delivery,1
+LH-301466,CU-10782,2026-08-28,delivered,UPI,1
+LH-301467,CU-10635,2026-08-28,delivered,UPI,1
+LH-301468,CU-10292,2026-08-28,delivered,Cash on delivery,1
+LH-301469,CU-10261,2026-08-28,delivered,UPI,1
+LH-301470,CU-10291,2026-08-29,delivered,Net banking,1
+LH-301471,CU-10639,2026-08-29,delivered,Net banking,1
+LH-301472,CU-10402,2026-08-29,delivered,Cash on delivery,1
+LH-301473,CU-10150,2026-08-29,delivered,Cash on delivery,1
+LH-301474,CU-10734,2026-08-29,delivered,Net banking,1
+LH-301475,CU-10323,2026-08-29,delivered,Card,1
+LH-301476,CU-10616,2026-08-29,delivered,Card,1
+LH-301477,CU-10505,2026-08-29,delivered,Card,1
+LH-301478,CU-10424,2026-08-29,delivered,UPI,1
+LH-301479,CU-10415,2026-08-29,delivered,Cash on delivery,1
+LH-301480,CU-10045,2026-08-29,delivered,Cash on delivery,1
+LH-301481,CU-10800,2026-08-29,delivered,UPI,1
+LH-301482,CU-10009,2026-08-29,delivered,Card,1
+LH-301483,CU-10510,2026-08-29,delivered,Net banking,1
+LH-301484,CU-10172,2026-08-29,delivered,Net banking,1
+LH-301485,CU-10232,2026-08-29,delivered,UPI,1
+LH-301486,CU-10427,2026-08-29,delivered,Net banking,1
+LH-301487,CU-10361,2026-08-30,returned,Cash on delivery,1
+LH-301488,CU-10675,2026-08-30,delivered,UPI,1
+LH-301489,CU-10489,2026-08-30,delivered,Cash on delivery,1
+LH-301490,CU-10589,2026-08-30,delivered,Cash on delivery,1
+LH-301491,CU-10687,2026-08-30,delivered,Cash on delivery,1
+LH-301492,CU-10580,2026-08-30,delivered,Card,1
+LH-301493,CU-10134,2026-08-30,delivered,UPI,1
+LH-301494,CU-10237,2026-08-30,delivered,Cash on delivery,1
+LH-301495,CU-10396,2026-08-30,delivered,Cash on delivery,1
+LH-301496,CU-10655,2026-08-30,delivered,UPI,1
+LH-301497,CU-10568,2026-08-30,delivered,Net banking,1
+LH-301498,CU-10143,2026-08-30,delivered,Cash on delivery,1
+LH-301499,CU-10018,2026-08-30,delivered,Net banking,1
+LH-301500,CU-10612,2026-08-30,returned,Net banking,1
+LH-301501,CU-10481,2026-08-30,delivered,UPI,1
+LH-301502,CU-10300,2026-08-30,delivered,Cash on delivery,1
+LH-301503,CU-10272,2026-08-30,delivered,Cash on delivery,1
+LH-301504,CU-10353,2026-08-30,delivered,Cash on delivery,1
+LH-301505,CU-10200,2026-08-30,delivered,UPI,1
+LH-301506,CU-10362,2026-08-30,delivered,Cash on delivery,1
+LH-301507,CU-10289,2026-08-31,delivered,Cash on delivery,1
+LH-301508,CU-10301,2026-08-31,delivered,Cash on delivery,1
+LH-301509,CU-10624,2026-08-31,delivered,Net banking,1
+LH-301510,CU-10506,2026-08-31,delivered,Net banking,1
+LH-301511,CU-10504,2026-08-31,delivered,UPI,1
+LH-301512,CU-10683,2026-08-31,delivered,Card,1
+LH-301513,CU-10030,2026-08-31,delivered,UPI,1
+LH-301514,CU-10217,2026-08-31,delivered,UPI,1
+LH-301515,CU-10309,2026-08-31,delivered,UPI,1
+LH-301516,CU-10209,2026-08-31,delivered,Net banking,1
+LH-301517,CU-10023,2026-08-31,delivered,Net banking,1
+LH-301518,CU-10446,2026-08-31,delivered,Card,1
+LH-301519,CU-10421,2026-08-31,delivered,Cash on delivery,1
+LH-301520,CU-10197,2026-08-31,delivered,UPI,1
+LH-301521,CU-10343,2026-08-31,delivered,Card,1
+LH-301522,CU-10296,2026-08-31,delivered,Card,1
+LH-301523,CU-10101,2026-08-31,delivered,Cash on delivery,1
+LH-301524,CU-10298,2026-08-31,delivered,Net banking,1
+LH-301525,CU-10698,2026-08-31,delivered,UPI,1
+LH-301526,CU-10154,2026-08-31,delivered,UPI,1
+LH-301527,CU-10388,2026-09-01,delivered,UPI,1
+LH-301528,CU-10324,2026-09-01,delivered,Cash on delivery,1
+LH-301529,CU-10605,2026-09-01,delivered,Card,1
+LH-301530,CU-10674,2026-09-01,delivered,Cash on delivery,1
+LH-301531,CU-10463,2026-09-01,delivered,Net banking,1
+LH-301532,CU-10302,2026-09-01,delivered,Net banking,1
+LH-301533,CU-10775,2026-09-01,delivered,Card,1
+LH-301534,CU-10629,2026-09-01,delivered,UPI,1
+LH-301535,CU-10562,2026-09-01,delivered,Cash on delivery,1
+LH-301536,CU-10682,2026-09-01,delivered,Card,1
+LH-301537,CU-10498,2026-09-01,delivered,Card,1
+LH-301538,CU-10412,2026-09-01,delivered,UPI,1
+LH-301539,CU-10241,2026-09-01,delivered,UPI,1
+LH-301540,CU-10297,2026-09-01,delivered,Card,1
+LH-301541,CU-10321,2026-09-01,delivered,Cash on delivery,1
+LH-301542,CU-10183,2026-09-01,delivered,Cash on delivery,1
+LH-301543,CU-10468,2026-09-01,delivered,Card,1
+LH-301544,CU-10562,2026-09-02,delivered,Net banking,1
+LH-301545,CU-10015,2026-09-02,delivered,Net banking,1
+LH-301546,CU-10345,2026-09-02,delivered,UPI,1
+LH-301547,CU-10206,2026-09-02,delivered,UPI,1
+LH-301548,CU-10734,2026-09-02,delivered,UPI,1
+LH-301549,CU-10631,2026-09-02,delivered,Net banking,1
+LH-301550,CU-10572,2026-09-02,returned,Card,1
+LH-301551,CU-10005,2026-09-02,delivered,UPI,1
+LH-301552,CU-10089,2026-09-02,delivered,Net banking,1
+LH-301553,CU-10772,2026-09-02,delivered,Cash on delivery,1
+LH-301554,CU-10717,2026-09-02,delivered,UPI,1
+LH-301555,CU-10651,2026-09-02,delivered,Cash on delivery,1
+LH-301556,CU-10360,2026-09-02,delivered,Card,1
+LH-301557,CU-10617,2026-09-02,delivered,Card,1
+LH-301558,CU-10188,2026-09-03,delivered,UPI,1
+LH-301559,CU-10073,2026-09-03,delivered,UPI,1
+LH-301560,CU-10763,2026-09-03,delivered,Cash on delivery,1
+LH-301561,CU-10465,2026-09-03,delivered,UPI,1
+LH-301562,CU-10413,2026-09-03,delivered,Net banking,1
+LH-301563,CU-10544,2026-09-03,delivered,Cash on delivery,1
+LH-301564,CU-10287,2026-09-03,delivered,UPI,1
+LH-301565,CU-10672,2026-09-03,delivered,Card,1
+LH-301566,CU-10432,2026-09-03,delivered,Cash on delivery,1
+LH-301567,CU-10333,2026-09-03,delivered,Card,1
+LH-301568,CU-10332,2026-09-03,delivered,UPI,1
+LH-301569,CU-10508,2026-09-03,delivered,Net banking,1
+LH-301570,CU-10246,2026-09-03,delivered,Cash on delivery,1
+LH-301571,CU-10102,2026-09-03,delivered,Card,1
+LH-301572,CU-10792,2026-09-03,delivered,Net banking,1
+LH-301573,CU-10531,2026-09-04,delivered,Cash on delivery,1
+LH-301574,CU-10423,2026-09-04,delivered,Card,1
+LH-301575,CU-10133,2026-09-04,delivered,UPI,1
+LH-301576,CU-10636,2026-09-04,delivered,UPI,1
+LH-301577,CU-10135,2026-09-04,delivered,UPI,1
+LH-301578,CU-10366,2026-09-04,delivered,UPI,1
+LH-301579,CU-10401,2026-09-04,delivered,Net banking,1
+LH-301580,CU-10098,2026-09-04,delivered,Card,1
+LH-301581,CU-10550,2026-09-04,delivered,UPI,1
+LH-301582,CU-10412,2026-09-04,delivered,Card,1
+LH-301583,CU-10411,2026-09-04,delivered,Card,1
+LH-301584,CU-10424,2026-09-04,delivered,Card,1
+LH-301585,CU-10059,2026-09-04,delivered,Cash on delivery,1
+LH-301586,CU-10031,2026-09-04,delivered,UPI,1
+LH-301587,CU-10738,2026-09-04,delivered,Card,1
+LH-301588,CU-10382,2026-09-04,delivered,Card,1
+LH-301589,CU-10321,2026-09-04,delivered,Net banking,1
+LH-301590,CU-10303,2026-09-04,delivered,Net banking,1
+LH-301591,CU-10461,2026-09-04,delivered,Cash on delivery,1
+LH-301592,CU-10780,2026-09-04,delivered,Card,1
+LH-301593,CU-10088,2026-09-04,delivered,Net banking,1
+LH-301594,CU-10050,2026-09-04,delivered,Cash on delivery,1
+LH-301595,CU-10685,2026-09-04,delivered,Net banking,1
+LH-301596,CU-10354,2026-09-04,delivered,Cash on delivery,1
+LH-301597,CU-10224,2026-09-04,delivered,Net banking,1
+LH-301598,CU-10144,2026-09-05,delivered,Card,1
+LH-301599,CU-10731,2026-09-05,delivered,Card,1
+LH-301600,CU-10489,2026-09-05,delivered,UPI,1
+LH-301601,CU-10353,2026-09-05,delivered,Cash on delivery,1
+LH-301602,CU-10179,2026-09-05,delivered,UPI,1
+LH-301603,CU-10664,2026-09-05,delivered,Net banking,1
+LH-301604,CU-10149,2026-09-05,delivered,Net banking,1
+LH-301605,CU-10373,2026-09-05,delivered,Card,1
+LH-301606,CU-10611,2026-09-05,delivered,Net banking,1
+LH-301607,CU-10636,2026-09-05,delivered,Card,1
+LH-301608,CU-10217,2026-09-05,delivered,Net banking,1
+LH-301609,CU-10585,2026-09-05,delivered,Net banking,1
+LH-301610,CU-10384,2026-09-05,delivered,Card,1
+LH-301611,CU-10628,2026-09-05,delivered,Cash on delivery,1
+LH-301612,CU-10097,2026-09-05,delivered,Card,1
+LH-301613,CU-10757,2026-09-05,delivered,Card,1
+LH-301614,CU-10509,2026-09-05,delivered,Card,1
+LH-301615,CU-10779,2026-09-05,delivered,Card,1
+LH-301616,CU-10231,2026-09-05,delivered,Cash on delivery,1
+LH-301617,CU-10784,2026-09-05,delivered,Net banking,1
+LH-301618,CU-10302,2026-09-05,delivered,Net banking,1
+LH-301619,CU-10062,2026-09-05,delivered,UPI,1
+LH-301620,CU-10494,2026-09-06,delivered,Cash on delivery,1
+LH-301621,CU-10670,2026-09-06,delivered,Cash on delivery,1
+LH-301622,CU-10447,2026-09-06,delivered,Card,1
+LH-301623,CU-10009,2026-09-06,returned,Net banking,1
+LH-301624,CU-10232,2026-09-06,delivered,Cash on delivery,1
+LH-301625,CU-10465,2026-09-06,delivered,UPI,1
+LH-301626,CU-10340,2026-09-06,delivered,Cash on delivery,1
+LH-301627,CU-10059,2026-09-06,delivered,Card,1
+LH-301628,CU-10310,2026-09-06,delivered,UPI,1
+LH-301629,CU-10697,2026-09-06,delivered,UPI,1
+LH-301630,CU-10165,2026-09-06,delivered,UPI,1
+LH-301631,CU-10527,2026-09-06,delivered,Card,1
+LH-301632,CU-10315,2026-09-06,delivered,Net banking,1
+LH-301633,CU-10386,2026-09-06,delivered,UPI,1
+LH-301634,CU-10195,2026-09-06,delivered,Card,1
+LH-301635,CU-10556,2026-09-06,delivered,UPI,1
+LH-301636,CU-10677,2026-09-06,delivered,UPI,1
+LH-301637,CU-10259,2026-09-06,delivered,Cash on delivery,1
+LH-301638,CU-10533,2026-09-06,delivered,Cash on delivery,1
+LH-301639,CU-10317,2026-09-06,delivered,Net banking,1
+LH-301640,CU-10503,2026-09-07,delivered,UPI,1
+LH-301641,CU-10379,2026-09-07,delivered,Net banking,1
+LH-301642,CU-10427,2026-09-07,delivered,Cash on delivery,1
+LH-301643,CU-10353,2026-09-07,delivered,UPI,1
+LH-301644,CU-10354,2026-09-07,delivered,Cash on delivery,1
+LH-301645,CU-10206,2026-09-07,delivered,Net banking,1
+LH-301646,CU-10640,2026-09-07,delivered,Card,1
+LH-301647,CU-10273,2026-09-07,delivered,Net banking,1
+LH-301648,CU-10125,2026-09-07,delivered,Card,1
+LH-301649,CU-10454,2026-09-07,delivered,UPI,1
+LH-301650,CU-10411,2026-09-07,delivered,UPI,1
+LH-301651,CU-10656,2026-09-07,delivered,Card,1
+LH-301652,CU-10398,2026-09-07,delivered,Card,1
+LH-301653,CU-10687,2026-09-07,delivered,Cash on delivery,1
+LH-301654,CU-10092,2026-09-07,delivered,Net banking,1
+LH-301655,CU-10600,2026-09-08,delivered,Net banking,1
+LH-301656,CU-10515,2026-09-08,delivered,Net banking,1
+LH-301657,CU-10066,2026-09-08,delivered,Card,1
+LH-301658,CU-10564,2026-09-08,delivered,Cash on delivery,1
+LH-301659,CU-10005,2026-09-08,delivered,Net banking,1
+LH-301660,CU-10151,2026-09-08,delivered,Cash on delivery,1
+LH-301661,CU-10730,2026-09-08,delivered,Cash on delivery,1
+LH-301662,CU-10204,2026-09-08,delivered,Cash on delivery,1
+LH-301663,CU-10385,2026-09-08,delivered,UPI,1
+LH-301664,CU-10215,2026-09-08,delivered,Net banking,1
+LH-301665,CU-10230,2026-09-08,delivered,Cash on delivery,1
+LH-301666,CU-10090,2026-09-08,delivered,UPI,1
+LH-301667,CU-10577,2026-09-08,delivered,Cash on delivery,1
+LH-301668,CU-10011,2026-09-08,delivered,UPI,1
+LH-301669,CU-10219,2026-09-08,delivered,Card,1
+LH-301670,CU-10645,2026-09-08,delivered,Net banking,1
+LH-301671,CU-10226,2026-09-08,delivered,Cash on delivery,1
+LH-301672,CU-10664,2026-09-09,delivered,Net banking,1
+LH-301673,CU-10348,2026-09-09,delivered,Card,1
+LH-301674,CU-10386,2026-09-09,delivered,Card,1
+LH-301675,CU-10508,2026-09-09,delivered,UPI,1
+LH-301676,CU-10721,2026-09-09,delivered,UPI,1
+LH-301677,CU-10428,2026-09-09,delivered,UPI,1
+LH-301678,CU-10588,2026-09-09,delivered,Net banking,1
+LH-301679,CU-10174,2026-09-09,delivered,Card,1
+LH-301680,CU-10082,2026-09-09,delivered,Cash on delivery,1
+LH-301681,CU-10253,2026-09-09,delivered,UPI,1
+LH-301682,CU-10720,2026-09-09,delivered,UPI,1
+LH-301683,CU-10561,2026-09-09,delivered,Cash on delivery,1
+LH-301684,CU-10634,2026-09-09,delivered,Cash on delivery,1
+LH-301685,CU-10424,2026-09-09,delivered,Net banking,1
+LH-301686,CU-10318,2026-09-09,delivered,UPI,1
+LH-301687,CU-10228,2026-09-09,delivered,Net banking,1
+LH-301688,CU-10700,2026-09-10,delivered,Card,1
+LH-301689,CU-10556,2026-09-10,delivered,Net banking,1
+LH-301690,CU-10788,2026-09-10,delivered,UPI,1
+LH-301691,CU-10638,2026-09-10,delivered,UPI,1
+LH-301692,CU-10426,2026-09-10,delivered,Net banking,1
+LH-301693,CU-10586,2026-09-10,delivered,Cash on delivery,1
+LH-301694,CU-10414,2026-09-10,delivered,UPI,1
+LH-301695,CU-10081,2026-09-10,delivered,Card,1
+LH-301696,CU-10774,2026-09-10,delivered,Net banking,1
+LH-301697,CU-10424,2026-09-10,delivered,Net banking,1
+LH-301698,CU-10564,2026-09-10,delivered,Net banking,1
+LH-301699,CU-10022,2026-09-10,delivered,UPI,1
+LH-301700,CU-10311,2026-09-10,delivered,Cash on delivery,1
+LH-301701,CU-10406,2026-09-10,delivered,Net banking,1
+LH-301702,CU-10102,2026-09-10,delivered,Card,1
+LH-301703,CU-10377,2026-09-10,delivered,Cash on delivery,1
+LH-301704,CU-10181,2026-09-11,delivered,Cash on delivery,1
+LH-301705,CU-10743,2026-09-11,delivered,Cash on delivery,1
+LH-301706,CU-10202,2026-09-11,delivered,Card,1
+LH-301707,CU-10490,2026-09-11,delivered,Cash on delivery,1
+LH-301708,CU-10179,2026-09-11,delivered,Net banking,1
+LH-301709,CU-10612,2026-09-11,delivered,Card,1
+LH-301710,CU-10445,2026-09-11,delivered,Card,1
+LH-301711,CU-10602,2026-09-11,delivered,UPI,1
+LH-301712,CU-10454,2026-09-11,delivered,Card,1
+LH-301713,CU-10395,2026-09-11,delivered,UPI,1
+LH-301714,CU-10251,2026-09-11,delivered,Card,1
+LH-301715,CU-10549,2026-09-11,delivered,Net banking,1
+LH-301716,CU-10254,2026-09-11,delivered,Cash on delivery,1
+LH-301717,CU-10781,2026-09-11,delivered,Net banking,1
+LH-301718,CU-10371,2026-09-11,delivered,Cash on delivery,1
+LH-301719,CU-10051,2026-09-11,delivered,UPI,1
+LH-301720,CU-10719,2026-09-11,delivered,Cash on delivery,1
+LH-301721,CU-10134,2026-09-11,delivered,Cash on delivery,1
+LH-301722,CU-10492,2026-09-11,delivered,Net banking,1
+LH-301723,CU-10086,2026-09-12,delivered,Card,1
+LH-301724,CU-10428,2026-09-12,delivered,Card,1
+LH-301725,CU-10495,2026-09-12,delivered,UPI,1
+LH-301726,CU-10315,2026-09-12,delivered,Card,1
+LH-301727,CU-10480,2026-09-12,delivered,Net banking,1
+LH-301728,CU-10357,2026-09-12,delivered,Cash on delivery,1
+LH-301729,CU-10548,2026-09-12,delivered,Net banking,1
+LH-301730,CU-10664,2026-09-12,delivered,UPI,1
+LH-301731,CU-10686,2026-09-12,delivered,Cash on delivery,1
+LH-301732,CU-10143,2026-09-12,delivered,Card,1
+LH-301733,CU-10436,2026-09-12,delivered,Net banking,1
+LH-301734,CU-10551,2026-09-12,delivered,Cash on delivery,1
+LH-301735,CU-10460,2026-09-12,delivered,Card,1
+LH-301736,CU-10011,2026-09-12,delivered,Cash on delivery,1
+LH-301737,CU-10057,2026-09-13,delivered,Card,1
+LH-301738,CU-10013,2026-09-13,delivered,UPI,1
+LH-301739,CU-10157,2026-09-13,delivered,Net banking,1
+LH-301740,CU-10367,2026-09-13,delivered,Cash on delivery,1
+LH-301741,CU-10454,2026-09-13,delivered,Cash on delivery,1
+LH-301742,CU-10288,2026-09-13,delivered,UPI,1
+LH-301743,CU-10335,2026-09-13,delivered,Net banking,1
+LH-301744,CU-10707,2026-09-13,delivered,Card,1
+LH-301745,CU-10147,2026-09-13,delivered,Net banking,1
+LH-301746,CU-10280,2026-09-13,returned,Card,1
+LH-301747,CU-10587,2026-09-13,delivered,Card,1
+LH-301748,CU-10787,2026-09-13,delivered,Cash on delivery,1
+LH-301749,CU-10354,2026-09-13,delivered,Card,1
+LH-301750,CU-10131,2026-09-13,delivered,Card,1
+LH-301751,CU-10244,2026-09-13,delivered,Cash on delivery,1
+LH-301752,CU-10582,2026-09-13,delivered,Card,1
+LH-301753,CU-10166,2026-09-13,delivered,Card,1
+LH-301754,CU-10442,2026-09-13,delivered,Net banking,1
+LH-301755,CU-10759,2026-09-14,delivered,Card,1
+LH-301756,CU-10607,2026-09-14,delivered,Cash on delivery,1
+LH-301757,CU-10556,2026-09-14,delivered,UPI,1
+LH-301758,CU-10598,2026-09-14,delivered,UPI,1
+LH-301759,CU-10700,2026-09-14,delivered,UPI,1
+LH-301760,CU-10195,2026-09-14,delivered,Cash on delivery,1
+LH-301761,CU-10136,2026-09-14,delivered,Cash on delivery,1
+LH-301762,CU-10245,2026-09-14,delivered,Card,1
+LH-301763,CU-10574,2026-09-14,delivered,Cash on delivery,1
+LH-301764,CU-10352,2026-09-14,delivered,Cash on delivery,1
+LH-301765,CU-10533,2026-09-14,delivered,Net banking,1
+LH-301766,CU-10577,2026-09-14,delivered,Card,1
+LH-301767,CU-10361,2026-09-14,delivered,UPI,1
+LH-301768,CU-10762,2026-09-14,delivered,Net banking,1
+LH-301769,CU-10344,2026-09-14,delivered,Card,1
+LH-301770,CU-10448,2026-09-14,delivered,Net banking,1
+LH-301771,CU-10493,2026-09-14,delivered,UPI,1
+LH-301772,CU-10380,2026-09-15,delivered,Card,1
+LH-301773,CU-10762,2026-09-15,delivered,Card,1
+LH-301774,CU-10745,2026-09-15,delivered,Card,1
+LH-301775,CU-10513,2026-09-15,delivered,Cash on delivery,1
+LH-301776,CU-10035,2026-09-15,delivered,UPI,1
+LH-301777,CU-10273,2026-09-15,delivered,Card,1
+LH-301778,CU-10114,2026-09-15,delivered,UPI,1
+LH-301779,CU-10786,2026-09-15,delivered,UPI,1
+LH-301780,CU-10317,2026-09-15,delivered,Net banking,1
+LH-301781,CU-10783,2026-09-15,delivered,Card,1
+LH-301782,CU-10327,2026-09-15,delivered,UPI,1
+LH-301783,CU-10018,2026-09-15,delivered,Cash on delivery,1
+LH-301784,CU-10647,2026-09-15,delivered,Cash on delivery,1
+LH-301785,CU-10375,2026-09-15,delivered,Card,1
+LH-301786,CU-10406,2026-09-15,delivered,UPI,1
+LH-301787,CU-10237,2026-09-15,delivered,Net banking,1
+LH-301788,CU-10338,2026-09-15,delivered,Net banking,1
+LH-301789,CU-10746,2026-09-15,delivered,Card,1
+LH-301790,CU-10263,2026-09-16,delivered,Card,1
+LH-301791,CU-10367,2026-09-16,delivered,Card,1
+LH-301792,CU-10563,2026-09-16,delivered,Cash on delivery,1
+LH-301793,CU-10651,2026-09-16,delivered,Cash on delivery,1
+LH-301794,CU-10131,2026-09-16,delivered,UPI,1
+LH-301795,CU-10597,2026-09-16,delivered,UPI,1
+LH-301796,CU-10208,2026-09-16,delivered,Cash on delivery,1
+LH-301797,CU-10251,2026-09-16,delivered,Net banking,1
+LH-301798,CU-10632,2026-09-16,delivered,Card,1
+LH-301799,CU-10312,2026-09-16,delivered,Card,1
+LH-301800,CU-10036,2026-09-16,delivered,Net banking,1
+LH-301801,CU-10220,2026-09-16,delivered,Net banking,1
+LH-301802,CU-10561,2026-09-16,delivered,Cash on delivery,1
+LH-301803,CU-10446,2026-09-16,delivered,Card,1
+LH-301804,CU-10784,2026-09-16,delivered,Card,1
+LH-301805,CU-10674,2026-09-16,delivered,Cash on delivery,1
+LH-301806,CU-10267,2026-09-16,delivered,Card,1
+LH-301807,CU-10259,2026-09-17,delivered,Net banking,1
+LH-301808,CU-10058,2026-09-17,delivered,Net banking,1
+LH-301809,CU-10459,2026-09-17,delivered,Cash on delivery,1
+LH-301810,CU-10044,2026-09-17,delivered,Card,1
+LH-301811,CU-10785,2026-09-17,delivered,Net banking,1
+LH-301812,CU-10253,2026-09-17,delivered,Net banking,1
+LH-301813,CU-10402,2026-09-17,delivered,Cash on delivery,1
+LH-301814,CU-10387,2026-09-17,delivered,Cash on delivery,1
+LH-301815,CU-10165,2026-09-17,delivered,Cash on delivery,1
+LH-301816,CU-10569,2026-09-17,delivered,Net banking,1
+LH-301817,CU-10674,2026-09-17,delivered,Net banking,1
+LH-301818,CU-10601,2026-09-17,delivered,Cash on delivery,1
+LH-301819,CU-10446,2026-09-17,delivered,Cash on delivery,1
+LH-301820,CU-10705,2026-09-17,delivered,Net banking,1
+LH-301821,CU-10395,2026-09-17,delivered,Card,1
+LH-301822,CU-10281,2026-09-17,delivered,UPI,1
+LH-301823,CU-10022,2026-09-17,delivered,Cash on delivery,1
+LH-301824,CU-10591,2026-09-17,delivered,Cash on delivery,1
+LH-301825,CU-10800,2026-09-18,delivered,Card,1
+LH-301826,CU-10178,2026-09-18,delivered,Card,1
+LH-301827,CU-10388,2026-09-18,returned,Card,1
+LH-301828,CU-10381,2026-09-18,delivered,UPI,1
+LH-301829,CU-10017,2026-09-18,delivered,Net banking,1
+LH-301830,CU-10022,2026-09-18,delivered,Net banking,1
+LH-301831,CU-10712,2026-09-18,delivered,Card,1
+LH-301832,CU-10116,2026-09-18,delivered,Cash on delivery,1
+LH-301833,CU-10406,2026-09-18,delivered,Cash on delivery,1
+LH-301834,CU-10588,2026-09-18,delivered,Cash on delivery,1
+LH-301835,CU-10059,2026-09-18,delivered,Net banking,1
+LH-301836,CU-10237,2026-09-18,delivered,Cash on delivery,1
+LH-301837,CU-10054,2026-09-19,delivered,UPI,1
+LH-301838,CU-10498,2026-09-19,delivered,Net banking,1
+LH-301839,CU-10335,2026-09-19,delivered,Card,1
+LH-301840,CU-10502,2026-09-19,delivered,Card,1
+LH-301841,CU-10266,2026-09-19,returned,Cash on delivery,1
+LH-301842,CU-10363,2026-09-19,delivered,Net banking,1
+LH-301843,CU-10088,2026-09-19,delivered,Net banking,1
+LH-301844,CU-10796,2026-09-19,delivered,Net banking,1
+LH-301845,CU-10702,2026-09-19,delivered,Card,1
+LH-301846,CU-10580,2026-09-19,delivered,UPI,1
+LH-301847,CU-10407,2026-09-19,delivered,Cash on delivery,1
+LH-301848,CU-10448,2026-09-19,delivered,UPI,1
+LH-301849,CU-10609,2026-09-19,delivered,UPI,1
+LH-301850,CU-10480,2026-09-19,delivered,Card,1
+LH-301851,CU-10537,2026-09-19,delivered,UPI,1
+LH-301852,CU-10745,2026-09-19,delivered,Cash on delivery,1
+LH-301853,CU-10677,2026-09-19,delivered,Cash on delivery,1
+LH-301854,CU-10102,2026-09-20,returned,Net banking,1
+LH-301855,CU-10008,2026-09-20,delivered,Net banking,1
+LH-301856,CU-10181,2026-09-20,delivered,Cash on delivery,1
+LH-301857,CU-10784,2026-09-20,delivered,Card,1
+LH-301858,CU-10052,2026-09-20,returned,UPI,1
+LH-301859,CU-10462,2026-09-20,delivered,UPI,1
+LH-301860,CU-10290,2026-09-20,delivered,Net banking,1
+LH-301861,CU-10075,2026-09-20,delivered,UPI,1
+LH-301862,CU-10754,2026-09-20,delivered,Net banking,1
+LH-301863,CU-10792,2026-09-20,delivered,UPI,1
+LH-301864,CU-10576,2026-09-21,delivered,Net banking,1
+LH-301865,CU-10420,2026-09-21,delivered,UPI,1
+LH-301866,CU-10266,2026-09-21,delivered,Card,1
+LH-301867,CU-10046,2026-09-21,delivered,Card,1
+LH-301868,CU-10232,2026-09-21,delivered,Cash on delivery,1
+LH-301869,CU-10043,2026-09-21,delivered,UPI,1
+LH-301870,CU-10326,2026-09-21,delivered,Cash on delivery,1
+LH-301871,CU-10561,2026-09-21,delivered,Net banking,1
+LH-301872,CU-10390,2026-09-21,delivered,Net banking,1
+LH-301873,CU-10484,2026-09-21,delivered,Cash on delivery,1
+LH-301874,CU-10561,2026-09-21,delivered,UPI,1
+LH-301875,CU-10468,2026-09-21,delivered,Card,1
+LH-301876,CU-10201,2026-09-21,delivered,UPI,1
+LH-301877,CU-10567,2026-09-22,delivered,Net banking,1
+LH-301878,CU-10055,2026-09-22,delivered,UPI,1
+LH-301879,CU-10137,2026-09-22,delivered,Cash on delivery,1
+LH-301880,CU-10695,2026-09-22,delivered,Card,1
+LH-301881,CU-10428,2026-09-22,delivered,Net banking,1
+LH-301882,CU-10652,2026-09-22,delivered,Net banking,1
+LH-301883,CU-10172,2026-09-22,delivered,UPI,1
+LH-301884,CU-10072,2026-09-22,delivered,UPI,1
+LH-301885,CU-10559,2026-09-22,delivered,UPI,1
+LH-301886,CU-10499,2026-09-22,delivered,Cash on delivery,1
+LH-301887,CU-10595,2026-09-22,delivered,Net banking,1
+LH-301888,CU-10634,2026-09-22,delivered,Cash on delivery,1
+LH-301889,CU-10141,2026-09-22,delivered,UPI,1
+LH-301890,CU-10179,2026-09-22,delivered,Net banking,1
+LH-301891,CU-10492,2026-09-22,delivered,UPI,1
+LH-301892,CU-10580,2026-09-22,delivered,UPI,1
+LH-301893,CU-10687,2026-09-22,delivered,Net banking,1
+LH-301894,CU-10532,2026-09-22,delivered,Card,1
+LH-301895,CU-10722,2026-09-22,delivered,UPI,1
+LH-301896,CU-10118,2026-09-23,delivered,UPI,1
+LH-301897,CU-10373,2026-09-23,delivered,Cash on delivery,1
+LH-301898,CU-10001,2026-09-23,delivered,Card,1
+LH-301899,CU-10400,2026-09-23,delivered,Net banking,1
+LH-301900,CU-10483,2026-09-23,delivered,Net banking,1
+LH-301901,CU-10246,2026-09-23,delivered,Net banking,1
+LH-301902,CU-10178,2026-09-23,delivered,Card,1
+LH-301903,CU-10493,2026-09-23,delivered,Cash on delivery,1
+LH-301904,CU-10488,2026-09-23,delivered,UPI,1
+LH-301905,CU-10510,2026-09-23,delivered,Card,1
+LH-301906,CU-10310,2026-09-23,delivered,Cash on delivery,1
+LH-301907,CU-10607,2026-09-23,delivered,Cash on delivery,1
+LH-301908,CU-10515,2026-09-23,delivered,Cash on delivery,1
+LH-301909,CU-10060,2026-09-23,delivered,Net banking,1
+LH-301910,CU-10220,2026-09-23,delivered,Card,1
+LH-301911,CU-10165,2026-09-23,delivered,UPI,1
+LH-301912,CU-10192,2026-09-23,delivered,Net banking,1
+LH-301913,CU-10149,2026-09-23,delivered,Net banking,1
+LH-301914,CU-10531,2026-09-23,delivered,Card,1
+LH-301915,CU-10744,2026-09-23,delivered,Card,1
+LH-301916,CU-10122,2026-09-23,delivered,Card,1
+LH-301917,CU-10133,2026-09-23,delivered,Cash on delivery,1
+LH-301918,CU-10344,2026-09-23,delivered,Cash on delivery,1
+LH-301919,CU-10010,2026-09-23,delivered,Cash on delivery,1
+LH-301920,CU-10685,2026-09-23,delivered,Net banking,1
+LH-301921,CU-10597,2026-09-23,delivered,Card,1
+LH-301922,CU-10541,2026-09-24,delivered,Cash on delivery,1
+LH-301923,CU-10164,2026-09-24,delivered,Card,1
+LH-301924,CU-10410,2026-09-24,delivered,UPI,1
+LH-301925,CU-10209,2026-09-24,delivered,Card,1
+LH-301926,CU-10229,2026-09-24,delivered,UPI,1
+LH-301927,CU-10163,2026-09-24,delivered,UPI,1
+LH-301928,CU-10009,2026-09-24,delivered,Card,1
+LH-301929,CU-10342,2026-09-24,delivered,Net banking,1
+LH-301930,CU-10421,2026-09-24,returned,UPI,1
+LH-301931,CU-10705,2026-09-24,delivered,Net banking,1
+LH-301932,CU-10098,2026-09-24,delivered,Card,1
+LH-301933,CU-10392,2026-09-24,delivered,UPI,1
+LH-301934,CU-10042,2026-09-24,delivered,UPI,1
+LH-301935,CU-10235,2026-09-24,delivered,Net banking,1
+LH-301936,CU-10029,2026-09-24,delivered,UPI,1
+LH-301937,CU-10303,2026-09-24,delivered,UPI,1
+LH-301938,CU-10014,2026-09-24,delivered,UPI,1
+LH-301939,CU-10564,2026-09-24,delivered,UPI,1
+LH-301940,CU-10411,2026-09-25,delivered,UPI,1
+LH-301941,CU-10201,2026-09-25,delivered,Cash on delivery,1
+LH-301942,CU-10216,2026-09-25,delivered,Net banking,1
+LH-301943,CU-10302,2026-09-25,delivered,Card,1
+LH-301944,CU-10619,2026-09-25,delivered,Net banking,1
+LH-301945,CU-10560,2026-09-25,delivered,Cash on delivery,1
+LH-301946,CU-10596,2026-09-25,delivered,Cash on delivery,1
+LH-301947,CU-10326,2026-09-25,delivered,Card,1
+LH-301948,CU-10382,2026-09-25,delivered,Net banking,1
+LH-301949,CU-10024,2026-09-25,delivered,UPI,1
+LH-301950,CU-10070,2026-09-25,delivered,Cash on delivery,1
+LH-301951,CU-10613,2026-09-25,delivered,UPI,1
+LH-301952,CU-10178,2026-09-25,delivered,Card,1
+LH-301953,CU-10715,2026-09-25,delivered,Net banking,1
+LH-301954,CU-10515,2026-09-25,delivered,Net banking,1
+LH-301955,CU-10739,2026-09-25,delivered,Cash on delivery,1
+LH-301956,CU-10565,2026-09-25,delivered,Card,1
+LH-301957,CU-10484,2026-09-26,delivered,Net banking,1
+LH-301958,CU-10567,2026-09-26,delivered,Card,1
+LH-301959,CU-10375,2026-09-26,delivered,Card,1
+LH-301960,CU-10069,2026-09-26,delivered,Cash on delivery,1
+LH-301961,CU-10485,2026-09-26,delivered,Card,1
+LH-301962,CU-10075,2026-09-26,delivered,Card,1
+LH-301963,CU-10287,2026-09-26,delivered,Net banking,1
+LH-301964,CU-10486,2026-09-26,delivered,UPI,1
+LH-301965,CU-10198,2026-09-26,delivered,Card,1
+LH-301966,CU-10535,2026-09-26,delivered,Card,1
+LH-301967,CU-10701,2026-09-26,delivered,UPI,1
+LH-301968,CU-10652,2026-09-26,delivered,UPI,1
+LH-301969,CU-10794,2026-09-26,delivered,UPI,1
+LH-301970,CU-10214,2026-09-26,delivered,Card,1
+LH-301971,CU-10489,2026-09-26,delivered,Cash on delivery,1
+LH-301972,CU-10656,2026-09-26,delivered,Card,1
+LH-301973,CU-10309,2026-09-26,delivered,Net banking,1
+LH-301974,CU-10401,2026-09-26,delivered,Card,1
+LH-301975,CU-10737,2026-09-26,delivered,UPI,1
+LH-301976,CU-10199,2026-09-26,delivered,Cash on delivery,1
+LH-301977,CU-10429,2026-09-26,delivered,Card,1
+LH-301978,CU-10766,2026-09-27,delivered,UPI,1
+LH-301979,CU-10797,2026-09-27,delivered,Card,1
+LH-301980,CU-10154,2026-09-27,delivered,Card,1
+LH-301981,CU-10373,2026-09-27,delivered,Cash on delivery,1
+LH-301982,CU-10366,2026-09-27,delivered,Cash on delivery,1
+LH-301983,CU-10592,2026-09-27,delivered,UPI,1
+LH-301984,CU-10472,2026-09-27,returned,Cash on delivery,1
+LH-301985,CU-10323,2026-09-27,delivered,Net banking,1
+LH-301986,CU-10538,2026-09-27,delivered,Card,1
+LH-301987,CU-10500,2026-09-27,delivered,Cash on delivery,1
+LH-301988,CU-10050,2026-09-27,delivered,UPI,1
+LH-301989,CU-10620,2026-09-27,delivered,Cash on delivery,1
+LH-301990,CU-10683,2026-09-27,delivered,Card,1
+LH-301991,CU-10162,2026-09-27,delivered,Card,1
+LH-301992,CU-10073,2026-09-27,delivered,Card,1
+LH-301993,CU-10643,2026-09-27,delivered,Card,1
+LH-301994,CU-10608,2026-09-27,delivered,UPI,1
+LH-301995,CU-10507,2026-09-27,delivered,Net banking,1
+LH-301996,CU-10001,2026-09-27,delivered,Card,1
+LH-301997,CU-10793,2026-09-27,delivered,Card,1
+LH-301998,CU-10332,2026-09-27,delivered,UPI,1
+LH-301999,CU-10742,2026-09-27,delivered,UPI,1
+LH-302000,CU-10574,2026-09-27,delivered,UPI,1
+LH-302001,CU-10511,2026-09-28,delivered,Card,1
+LH-302002,CU-10045,2026-09-28,delivered,Net banking,1
+LH-302003,CU-10777,2026-09-28,delivered,Net banking,1
+LH-302004,CU-10199,2026-09-28,delivered,Net banking,1
+LH-302005,CU-10243,2026-09-28,delivered,Cash on delivery,1
+LH-302006,CU-10529,2026-09-28,delivered,UPI,1
+LH-302007,CU-10293,2026-09-28,delivered,Cash on delivery,1
+LH-302008,CU-10740,2026-09-28,delivered,Cash on delivery,1
+LH-302009,CU-10307,2026-09-28,delivered,UPI,1
+LH-302010,CU-10050,2026-09-28,delivered,Card,1
+LH-302011,CU-10480,2026-09-28,delivered,Cash on delivery,1
+LH-302012,CU-10460,2026-09-28,delivered,UPI,1
+LH-302013,CU-10344,2026-09-28,delivered,Cash on delivery,1
+LH-302014,CU-10050,2026-09-28,delivered,Card,1
+LH-302015,CU-10145,2026-09-28,delivered,Card,1
+LH-302016,CU-10037,2026-09-28,delivered,Card,1
+LH-302017,CU-10549,2026-09-29,delivered,Net banking,1
+LH-302018,CU-10445,2026-09-29,delivered,Card,1
+LH-302019,CU-10489,2026-09-29,delivered,Cash on delivery,1
+LH-302020,CU-10595,2026-09-29,delivered,Net banking,1
+LH-302021,CU-10264,2026-09-29,delivered,UPI,1
+LH-302022,CU-10414,2026-09-29,delivered,Cash on delivery,1
+LH-302023,CU-10635,2026-09-29,delivered,Cash on delivery,1
+LH-302024,CU-10194,2026-09-29,delivered,UPI,1
+LH-302025,CU-10602,2026-09-29,delivered,Card,1
+LH-302026,CU-10520,2026-09-29,delivered,UPI,1
+LH-302027,CU-10503,2026-09-29,delivered,Cash on delivery,1
+LH-302028,CU-10251,2026-09-29,delivered,UPI,1
+LH-302029,CU-10332,2026-09-29,delivered,UPI,1
+LH-302030,CU-10483,2026-09-30,delivered,UPI,1
+LH-302031,CU-10401,2026-09-30,delivered,UPI,1
+LH-302032,CU-10009,2026-09-30,delivered,Cash on delivery,1
+LH-302033,CU-10167,2026-09-30,delivered,Cash on delivery,1
+LH-302034,CU-10783,2026-09-30,delivered,Net banking,1
+LH-302035,CU-10658,2026-09-30,delivered,Net banking,1
+LH-302036,CU-10294,2026-09-30,delivered,UPI,1
+LH-302037,CU-10504,2026-09-30,delivered,Card,1
+LH-302038,CU-10022,2026-09-30,delivered,Net banking,1
+LH-302039,CU-10253,2026-09-30,delivered,Net banking,1
+LH-302040,CU-10514,2026-09-30,delivered,Net banking,1
+LH-302041,CU-10324,2026-09-30,delivered,Net banking,1
+LH-302042,CU-10450,2026-09-30,delivered,Card,1
+LH-302043,CU-10569,2026-09-30,delivered,Net banking,1
+LH-302044,CU-10563,2026-09-30,delivered,UPI,1
+LH-302045,CU-10576,2026-09-30,delivered,Cash on delivery,1
+LH-302046,CU-10038,2026-09-30,delivered,Card,1
+LH-302047,CU-10383,2026-09-30,delivered,Net banking,1
+LH-302048,CU-10435,2026-09-30,delivered,Card,1
+LH-302049,CU-10341,2026-09-30,returned,Cash on delivery,1
+LH-302050,CU-10248,2026-09-30,delivered,Card,1
+LH-302051,CU-10312,2026-09-30,delivered,Card,1
+LH-302052,CU-10632,2026-10-01,delivered,UPI,1
+LH-302053,CU-10174,2026-10-01,delivered,Cash on delivery,1
+LH-302054,CU-10554,2026-10-01,delivered,Net banking,1
+LH-302055,CU-10161,2026-10-01,delivered,Cash on delivery,1
+LH-302056,CU-10494,2026-10-01,delivered,Cash on delivery,1
+LH-302057,CU-10358,2026-10-01,delivered,Net banking,1
+LH-302058,CU-10079,2026-10-01,returned,UPI,1
+LH-302059,CU-10148,2026-10-01,delivered,Cash on delivery,1
+LH-302060,CU-10172,2026-10-01,delivered,Net banking,1
+LH-302061,CU-10380,2026-10-01,delivered,Card,1
+LH-302062,CU-10582,2026-10-01,delivered,Cash on delivery,1
+LH-302063,CU-10587,2026-10-01,delivered,Card,1
+LH-302064,CU-10570,2026-10-01,delivered,UPI,1
+LH-302065,CU-10539,2026-10-01,returned,Card,1
+LH-302066,CU-10619,2026-10-01,delivered,UPI,1
+LH-302067,CU-10471,2026-10-01,delivered,UPI,1
+LH-302068,CU-10597,2026-10-01,delivered,Net banking,1
+LH-302069,CU-10575,2026-10-01,delivered,Net banking,1
+LH-302070,CU-10685,2026-10-01,delivered,Card,1
+LH-302071,CU-10229,2026-10-01,delivered,Cash on delivery,1
+LH-302072,CU-10768,2026-10-01,delivered,Cash on delivery,1
+LH-302073,CU-10276,2026-10-01,delivered,UPI,1
+LH-302074,CU-10567,2026-10-01,delivered,Net banking,1
+LH-302075,CU-10159,2026-10-01,delivered,Net banking,1
+LH-302076,CU-10665,2026-10-01,delivered,Net banking,1
+LH-302077,CU-10167,2026-10-01,delivered,UPI,1
+LH-302078,CU-10505,2026-10-01,delivered,Net banking,1
+LH-302079,CU-10392,2026-10-02,delivered,Cash on delivery,1
+LH-302080,CU-10289,2026-10-02,delivered,Card,1
+LH-302081,CU-10284,2026-10-02,delivered,Card,1
+LH-302082,CU-10229,2026-10-02,delivered,UPI,1
+LH-302083,CU-10179,2026-10-02,delivered,Card,1
+LH-302084,CU-10233,2026-10-02,delivered,Card,1
+LH-302085,CU-10534,2026-10-02,delivered,UPI,1
+LH-302086,CU-10771,2026-10-02,delivered,Card,1
+LH-302087,CU-10076,2026-10-02,delivered,Cash on delivery,1
+LH-302088,CU-10081,2026-10-02,delivered,Card,1
+LH-302089,CU-10316,2026-10-02,delivered,Cash on delivery,1
+LH-302090,CU-10007,2026-10-02,delivered,Net banking,1
+LH-302091,CU-10701,2026-10-02,delivered,Cash on delivery,1
+LH-302092,CU-10741,2026-10-02,delivered,Card,1
+LH-302093,CU-10386,2026-10-02,delivered,Net banking,1
+LH-302094,CU-10482,2026-10-02,delivered,Cash on delivery,1
+LH-302095,CU-10040,2026-10-02,delivered,UPI,1
+LH-302096,CU-10682,2026-10-03,delivered,Net banking,1
+LH-302097,CU-10020,2026-10-03,delivered,UPI,1
+LH-302098,CU-10363,2026-10-03,delivered,Card,1
+LH-302099,CU-10143,2026-10-03,delivered,Cash on delivery,1
+LH-302100,CU-10319,2026-10-03,delivered,Card,1
+LH-302101,CU-10487,2026-10-03,delivered,Cash on delivery,1
+LH-302102,CU-10474,2026-10-03,returned,Net banking,1
+LH-302103,CU-10679,2026-10-03,delivered,UPI,1
+LH-302104,CU-10661,2026-10-03,delivered,Net banking,1
+LH-302105,CU-10209,2026-10-03,delivered,Card,1
+LH-302106,CU-10411,2026-10-03,delivered,Net banking,1
+LH-302107,CU-10548,2026-10-03,delivered,Card,1
+LH-302108,CU-10474,2026-10-03,delivered,UPI,1
+LH-302109,CU-10007,2026-10-03,delivered,Net banking,1
+LH-302110,CU-10599,2026-10-03,returned,UPI,1
+LH-302111,CU-10259,2026-10-03,delivered,Cash on delivery,1
+LH-302112,CU-10328,2026-10-03,delivered,Cash on delivery,1
+LH-302113,CU-10314,2026-10-03,delivered,Net banking,1
+LH-302114,CU-10217,2026-10-04,delivered,Card,1
+LH-302115,CU-10175,2026-10-04,delivered,UPI,1
+LH-302116,CU-10695,2026-10-04,delivered,Net banking,1
+LH-302117,CU-10425,2026-10-04,delivered,UPI,1
+LH-302118,CU-10410,2026-10-04,delivered,Net banking,1
+LH-302119,CU-10539,2026-10-04,delivered,UPI,1
+LH-302120,CU-10587,2026-10-04,delivered,Net banking,1
+LH-302121,CU-10483,2026-10-04,delivered,Card,1
+LH-302122,CU-10235,2026-10-04,delivered,Cash on delivery,1
+LH-302123,CU-10752,2026-10-04,delivered,Cash on delivery,1
+LH-302124,CU-10148,2026-10-04,delivered,Net banking,1
+LH-302125,CU-10382,2026-10-04,delivered,Card,1
+LH-302126,CU-10397,2026-10-04,delivered,Net banking,1
+LH-302127,CU-10001,2026-10-04,delivered,Cash on delivery,1
+LH-302128,CU-10232,2026-10-04,delivered,UPI,1
+LH-302129,CU-10086,2026-10-04,delivered,UPI,1
+LH-302130,CU-10091,2026-10-04,delivered,Cash on delivery,1
+LH-302131,CU-10015,2026-10-04,delivered,Card,1
+LH-302132,CU-10718,2026-10-04,delivered,UPI,1
+LH-302133,CU-10741,2026-10-04,delivered,Cash on delivery,1
+LH-302134,CU-10120,2026-10-04,delivered,UPI,1
+LH-302135,CU-10237,2026-10-05,returned,Net banking,1
+LH-302136,CU-10047,2026-10-05,delivered,Cash on delivery,1
+LH-302137,CU-10411,2026-10-05,delivered,Card,1
+LH-302138,CU-10252,2026-10-05,delivered,UPI,1
+LH-302139,CU-10749,2026-10-05,delivered,Cash on delivery,1
+LH-302140,CU-10546,2026-10-05,delivered,UPI,1
+LH-302141,CU-10147,2026-10-05,delivered,UPI,1
+LH-302142,CU-10627,2026-10-05,delivered,Cash on delivery,1
+LH-302143,CU-10316,2026-10-05,delivered,Card,1
+LH-302144,CU-10610,2026-10-05,delivered,UPI,1
+LH-302145,CU-10196,2026-10-05,delivered,UPI,1
+LH-302146,CU-10067,2026-10-05,delivered,UPI,1
+LH-302147,CU-10635,2026-10-05,delivered,Net banking,1
+LH-302148,CU-10449,2026-10-05,delivered,Cash on delivery,1
+LH-302149,CU-10680,2026-10-05,delivered,UPI,1
+LH-302150,CU-10652,2026-10-05,delivered,Cash on delivery,1
+LH-302151,CU-10572,2026-10-05,delivered,Net banking,1
+LH-302152,CU-10228,2026-10-05,delivered,Cash on delivery,1
+LH-302153,CU-10331,2026-10-05,delivered,Net banking,1
+LH-302154,CU-10137,2026-10-06,delivered,Net banking,1
+LH-302155,CU-10721,2026-10-06,delivered,Net banking,1
+LH-302156,CU-10094,2026-10-06,delivered,UPI,1
+LH-302157,CU-10513,2026-10-06,delivered,Net banking,1
+LH-302158,CU-10266,2026-10-06,delivered,Net banking,1
+LH-302159,CU-10164,2026-10-06,delivered,UPI,1
+LH-302160,CU-10574,2026-10-06,delivered,Card,1
+LH-302161,CU-10556,2026-10-06,delivered,Net banking,1
+LH-302162,CU-10283,2026-10-06,delivered,UPI,1
+LH-302163,CU-10635,2026-10-06,delivered,Cash on delivery,1
+LH-302164,CU-10019,2026-10-06,delivered,Card,1
+LH-302165,CU-10087,2026-10-06,delivered,Net banking,1
+LH-302166,CU-10560,2026-10-06,delivered,Net banking,1
+LH-302167,CU-10528,2026-10-06,delivered,Card,1
+LH-302168,CU-10285,2026-10-06,delivered,UPI,1
+LH-302169,CU-10148,2026-10-06,delivered,Net banking,1
+LH-302170,CU-10440,2026-10-06,delivered,Net banking,1
+LH-302171,CU-10059,2026-10-06,delivered,Card,1
+LH-302172,CU-10735,2026-10-06,delivered,Card,1
+LH-302173,CU-10548,2026-10-06,delivered,UPI,1
+LH-302174,CU-10119,2026-10-06,delivered,Card,1
+LH-302175,CU-10142,2026-10-06,delivered,Net banking,1
+LH-302176,CU-10314,2026-10-06,delivered,Card,1
+LH-302177,CU-10721,2026-10-06,delivered,UPI,1
+LH-302178,CU-10766,2026-10-07,delivered,UPI,1
+LH-302179,CU-10643,2026-10-07,delivered,Cash on delivery,1
+LH-302180,CU-10491,2026-10-07,delivered,UPI,1
+LH-302181,CU-10190,2026-10-07,delivered,UPI,1
+LH-302182,CU-10681,2026-10-07,delivered,Cash on delivery,1
+LH-302183,CU-10339,2026-10-07,delivered,UPI,1
+LH-302184,CU-10167,2026-10-07,delivered,Net banking,1
+LH-302185,CU-10010,2026-10-07,delivered,Cash on delivery,1
+LH-302186,CU-10516,2026-10-07,delivered,UPI,1
+LH-302187,CU-10088,2026-10-07,delivered,Cash on delivery,1
+LH-302188,CU-10003,2026-10-07,delivered,Card,1
+LH-302189,CU-10539,2026-10-07,delivered,Net banking,1
+LH-302190,CU-10532,2026-10-07,delivered,Cash on delivery,1
+LH-302191,CU-10055,2026-10-07,delivered,UPI,1
+LH-302192,CU-10500,2026-10-07,delivered,Card,1
+LH-302193,CU-10246,2026-10-07,delivered,Cash on delivery,1
+LH-302194,CU-10708,2026-10-07,delivered,Cash on delivery,1
+LH-302195,CU-10172,2026-10-08,delivered,Net banking,1
+LH-302196,CU-10133,2026-10-08,delivered,Net banking,1
+LH-302197,CU-10439,2026-10-08,delivered,UPI,1
+LH-302198,CU-10256,2026-10-08,delivered,Card,1
+LH-302199,CU-10199,2026-10-08,delivered,Cash on delivery,1
+LH-302200,CU-10102,2026-10-08,delivered,UPI,1
+LH-302201,CU-10272,2026-10-08,delivered,Net banking,1
+LH-302202,CU-10498,2026-10-08,delivered,Card,1
+LH-302203,CU-10551,2026-10-08,delivered,UPI,1
+LH-302204,CU-10017,2026-10-08,delivered,Net banking,1
+LH-302205,CU-10123,2026-10-08,delivered,Cash on delivery,1
+LH-302206,CU-10531,2026-10-08,delivered,Card,1
+LH-302207,CU-10097,2026-10-08,delivered,Card,1
+LH-302208,CU-10061,2026-10-08,delivered,Card,1
+LH-302209,CU-10661,2026-10-08,delivered,Net banking,1
+LH-302210,CU-10485,2026-10-08,delivered,Net banking,1
+LH-302211,CU-10629,2026-10-08,delivered,Cash on delivery,1
+LH-302212,CU-10319,2026-10-09,delivered,Net banking,1
+LH-302213,CU-10690,2026-10-09,delivered,Net banking,1
+LH-302214,CU-10427,2026-10-09,delivered,Cash on delivery,1
+LH-302215,CU-10045,2026-10-09,delivered,Card,1
+LH-302216,CU-10325,2026-10-09,delivered,Net banking,1
+LH-302217,CU-10491,2026-10-09,delivered,Net banking,1
+LH-302218,CU-10147,2026-10-09,delivered,Card,1
+LH-302219,CU-10523,2026-10-09,delivered,Card,1
+LH-302220,CU-10095,2026-10-09,delivered,Card,1
+LH-302221,CU-10049,2026-10-09,delivered,Net banking,1
+LH-302222,CU-10436,2026-10-09,delivered,Net banking,1
+LH-302223,CU-10173,2026-10-09,delivered,Net banking,1
+LH-302224,CU-10429,2026-10-09,delivered,Cash on delivery,1
+LH-302225,CU-10627,2026-10-09,delivered,Card,1
+LH-302226,CU-10523,2026-10-09,delivered,UPI,1
+LH-302227,CU-10227,2026-10-09,delivered,Card,1
+LH-302228,CU-10394,2026-10-10,delivered,Card,1
+LH-302229,CU-10582,2026-10-10,delivered,UPI,1
+LH-302230,CU-10062,2026-10-10,delivered,UPI,1
+LH-302231,CU-10662,2026-10-10,delivered,UPI,1
+LH-302232,CU-10193,2026-10-10,delivered,Card,1
+LH-302233,CU-10498,2026-10-10,delivered,Card,1
+LH-302234,CU-10047,2026-10-10,delivered,Cash on delivery,1
+LH-302235,CU-10272,2026-10-10,delivered,Card,1
+LH-302236,CU-10493,2026-10-10,delivered,Net banking,1
+LH-302237,CU-10298,2026-10-10,delivered,UPI,1
+LH-302238,CU-10248,2026-10-10,delivered,UPI,1
+LH-302239,CU-10142,2026-10-10,returned,Cash on delivery,1
+LH-302240,CU-10746,2026-10-10,delivered,Cash on delivery,1
+LH-302241,CU-10481,2026-10-11,delivered,Card,1
+LH-302242,CU-10774,2026-10-11,delivered,UPI,1
+LH-302243,CU-10331,2026-10-11,delivered,UPI,1
+LH-302244,CU-10573,2026-10-11,delivered,Net banking,1
+LH-302245,CU-10098,2026-10-11,delivered,Net banking,1
+LH-302246,CU-10499,2026-10-11,delivered,Net banking,1
+LH-302247,CU-10193,2026-10-11,delivered,Card,1
+LH-302248,CU-10317,2026-10-11,delivered,Net banking,1
+LH-302249,CU-10447,2026-10-11,delivered,UPI,1
+LH-302250,CU-10187,2026-10-11,delivered,Card,1
+LH-302251,CU-10299,2026-10-11,delivered,Net banking,1
+LH-302252,CU-10224,2026-10-11,delivered,Card,1
+LH-302253,CU-10133,2026-10-11,delivered,Net banking,1
+LH-302254,CU-10185,2026-10-11,delivered,Cash on delivery,1
+LH-302255,CU-10503,2026-10-11,delivered,Cash on delivery,1
+LH-302256,CU-10642,2026-10-11,delivered,Net banking,1
+LH-302257,CU-10553,2026-10-11,delivered,Net banking,1
+LH-302258,CU-10429,2026-10-12,delivered,Cash on delivery,1
+LH-302259,CU-10132,2026-10-12,delivered,Net banking,1
+LH-302260,CU-10593,2026-10-12,delivered,Cash on delivery,1
+LH-302261,CU-10789,2026-10-12,delivered,UPI,1
+LH-302262,CU-10640,2026-10-12,delivered,Cash on delivery,1
+LH-302263,CU-10483,2026-10-12,delivered,Cash on delivery,1
+LH-302264,CU-10355,2026-10-12,delivered,Cash on delivery,1
+LH-302265,CU-10551,2026-10-12,delivered,Net banking,1
+LH-302266,CU-10738,2026-10-12,delivered,UPI,1
+LH-302267,CU-10603,2026-10-12,delivered,Card,1
+LH-302268,CU-10542,2026-10-12,delivered,Cash on delivery,1
+LH-302269,CU-10620,2026-10-12,delivered,Cash on delivery,1
+LH-302270,CU-10780,2026-10-12,delivered,Card,1
+LH-302271,CU-10002,2026-10-12,delivered,Cash on delivery,1
+LH-302272,CU-10614,2026-10-12,delivered,Net banking,1
+LH-302273,CU-10218,2026-10-12,delivered,Cash on delivery,1
+LH-302274,CU-10612,2026-10-12,delivered,Net banking,1
+LH-302275,CU-10573,2026-10-12,delivered,Cash on delivery,1
+LH-302276,CU-10258,2026-10-12,delivered,UPI,1
+LH-302277,CU-10423,2026-10-13,delivered,Net banking,1
+LH-302278,CU-10144,2026-10-13,delivered,UPI,1
+LH-302279,CU-10688,2026-10-13,delivered,Net banking,1
+LH-302280,CU-10467,2026-10-13,delivered,Cash on delivery,1
+LH-302281,CU-10534,2026-10-13,delivered,Cash on delivery,1
+LH-302282,CU-10713,2026-10-13,delivered,Cash on delivery,1
+LH-302283,CU-10396,2026-10-13,delivered,Cash on delivery,1
+LH-302284,CU-10709,2026-10-13,delivered,Net banking,1
+LH-302285,CU-10375,2026-10-13,delivered,Cash on delivery,1
+LH-302286,CU-10032,2026-10-13,delivered,Card,1
+LH-302287,CU-10176,2026-10-13,delivered,UPI,1
+LH-302288,CU-10484,2026-10-13,delivered,Net banking,1
+LH-302289,CU-10722,2026-10-13,delivered,Cash on delivery,1
+LH-302290,CU-10192,2026-10-13,delivered,UPI,1
+LH-302291,CU-10438,2026-10-13,delivered,Cash on delivery,1
+LH-302292,CU-10786,2026-10-13,delivered,Net banking,1
+LH-302293,CU-10332,2026-10-13,delivered,Net banking,1
+LH-302294,CU-10336,2026-10-13,delivered,Card,1
+LH-302295,CU-10765,2026-10-14,delivered,Cash on delivery,1
+LH-302296,CU-10212,2026-10-14,delivered,UPI,1
+LH-302297,CU-10456,2026-10-14,delivered,Cash on delivery,1
+LH-302298,CU-10525,2026-10-14,delivered,Cash on delivery,1
+LH-302299,CU-10556,2026-10-14,delivered,Cash on delivery,1
+LH-302300,CU-10029,2026-10-14,delivered,Net banking,1
+LH-302301,CU-10264,2026-10-14,delivered,Cash on delivery,1
+LH-302302,CU-10470,2026-10-14,delivered,Cash on delivery,1
+LH-302303,CU-10738,2026-10-14,delivered,Net banking,1
+LH-302304,CU-10136,2026-10-14,delivered,Net banking,1
+LH-302305,CU-10770,2026-10-14,delivered,Card,1
+LH-302306,CU-10251,2026-10-15,delivered,Cash on delivery,1
+LH-302307,CU-10519,2026-10-15,delivered,Cash on delivery,1
+LH-302308,CU-10431,2026-10-15,delivered,Cash on delivery,1
+LH-302309,CU-10561,2026-10-15,delivered,UPI,1
+LH-302310,CU-10719,2026-10-15,delivered,Cash on delivery,1
+LH-302311,CU-10186,2026-10-15,delivered,Cash on delivery,1
+LH-302312,CU-10212,2026-10-15,delivered,Net banking,1
+LH-302313,CU-10452,2026-10-15,delivered,Card,1
+LH-302314,CU-10145,2026-10-15,delivered,Card,1
+LH-302315,CU-10521,2026-10-15,delivered,UPI,1
+LH-302316,CU-10725,2026-10-15,delivered,Card,1
+LH-302317,CU-10310,2026-10-15,delivered,UPI,1
+LH-302318,CU-10454,2026-10-15,delivered,Cash on delivery,1
+LH-302319,CU-10026,2026-10-15,delivered,Card,1
+LH-302320,CU-10497,2026-10-15,delivered,Card,1
+LH-302321,CU-10016,2026-10-15,delivered,Net banking,1
+LH-302322,CU-10336,2026-10-15,delivered,UPI,1
+LH-302323,CU-10017,2026-10-16,delivered,UPI,1
+LH-302324,CU-10566,2026-10-16,delivered,UPI,1
+LH-302325,CU-10711,2026-10-16,delivered,Cash on delivery,1
+LH-302326,CU-10783,2026-10-16,delivered,Net banking,1
+LH-302327,CU-10156,2026-10-16,delivered,Card,1
+LH-302328,CU-10534,2026-10-16,delivered,Net banking,1
+LH-302329,CU-10172,2026-10-16,delivered,Card,1
+LH-302330,CU-10350,2026-10-16,delivered,Net banking,1
+LH-302331,CU-10135,2026-10-16,delivered,Cash on delivery,1
+LH-302332,CU-10345,2026-10-16,delivered,Net banking,1
+LH-302333,CU-10320,2026-10-16,delivered,UPI,1
+LH-302334,CU-10159,2026-10-16,delivered,Net banking,1
+LH-302335,CU-10691,2026-10-16,delivered,UPI,1
+LH-302336,CU-10159,2026-10-16,delivered,UPI,1
+LH-302337,CU-10581,2026-10-16,delivered,UPI,1
+LH-302338,CU-10648,2026-10-16,delivered,Card,1
+LH-302339,CU-10464,2026-10-16,delivered,UPI,1
+LH-302340,CU-10526,2026-10-16,delivered,Net banking,1
+LH-302341,CU-10505,2026-10-16,delivered,Net banking,1
+LH-302342,CU-10664,2026-10-17,delivered,Cash on delivery,1
+LH-302343,CU-10120,2026-10-17,delivered,Card,1
+LH-302344,CU-10343,2026-10-17,delivered,Cash on delivery,1
+LH-302345,CU-10598,2026-10-17,delivered,Net banking,1
+LH-302346,CU-10795,2026-10-17,delivered,Cash on delivery,1
+LH-302347,CU-10283,2026-10-17,delivered,Net banking,1
+LH-302348,CU-10169,2026-10-17,delivered,Card,1
+LH-302349,CU-10794,2026-10-17,delivered,Net banking,1
+LH-302350,CU-10457,2026-10-17,delivered,Cash on delivery,1
+LH-302351,CU-10070,2026-10-17,delivered,UPI,1
+LH-302352,CU-10366,2026-10-17,delivered,Net banking,1
+LH-302353,CU-10234,2026-10-17,delivered,Net banking,1
+LH-302354,CU-10243,2026-10-17,delivered,UPI,1
+LH-302355,CU-10009,2026-10-17,delivered,Net banking,1
+LH-302356,CU-10140,2026-10-17,delivered,Card,1
+LH-302357,CU-10181,2026-10-17,delivered,Card,1
+LH-302358,CU-10052,2026-10-17,delivered,Net banking,1
+LH-302359,CU-10135,2026-10-17,delivered,Net banking,1
+LH-302360,CU-10724,2026-10-17,delivered,UPI,1
+LH-302361,CU-10165,2026-10-17,delivered,Card,1
+LH-302362,CU-10511,2026-10-17,delivered,Cash on delivery,1
+LH-302363,CU-10097,2026-10-17,delivered,Card,1
+LH-302364,CU-10129,2026-10-17,delivered,Cash on delivery,1
+LH-302365,CU-10799,2026-10-18,delivered,Net banking,1
+LH-302366,CU-10507,2026-10-18,delivered,Net banking,1
+LH-302367,CU-10034,2026-10-18,delivered,Cash on delivery,1
+LH-302368,CU-10011,2026-10-18,delivered,Card,1
+LH-302369,CU-10151,2026-10-18,delivered,UPI,1
+LH-302370,CU-10171,2026-10-18,delivered,UPI,1
+LH-302371,CU-10310,2026-10-18,delivered,UPI,1
+LH-302372,CU-10762,2026-10-18,delivered,Net banking,1
+LH-302373,CU-10265,2026-10-18,delivered,Card,1
+LH-302374,CU-10334,2026-10-18,delivered,Cash on delivery,1
+LH-302375,CU-10434,2026-10-18,delivered,UPI,1
+LH-302376,CU-10561,2026-10-18,delivered,Card,1
+LH-302377,CU-10084,2026-10-18,delivered,Card,1
+LH-302378,CU-10644,2026-10-18,delivered,Cash on delivery,1
+LH-302379,CU-10654,2026-10-18,delivered,Cash on delivery,1
+LH-302380,CU-10609,2026-10-18,delivered,Net banking,1
+LH-302381,CU-10776,2026-10-19,delivered,Card,1
+LH-302382,CU-10205,2026-10-19,delivered,UPI,1
+LH-302383,CU-10350,2026-10-19,delivered,Net banking,1
+LH-302384,CU-10785,2026-10-19,delivered,UPI,1
+LH-302385,CU-10180,2026-10-19,delivered,UPI,1
+LH-302386,CU-10122,2026-10-19,delivered,Card,1
+LH-302387,CU-10594,2026-10-19,delivered,Net banking,1
+LH-302388,CU-10518,2026-10-19,delivered,Cash on delivery,1
+LH-302389,CU-10204,2026-10-19,delivered,Net banking,1
+LH-302390,CU-10125,2026-10-19,delivered,Net banking,1
+LH-302391,CU-10478,2026-10-19,delivered,Cash on delivery,1
+LH-302392,CU-10512,2026-10-19,delivered,Card,1
+LH-302393,CU-10352,2026-10-19,delivered,Cash on delivery,1
+LH-302394,CU-10138,2026-10-19,delivered,Cash on delivery,1
+LH-302395,CU-10308,2026-10-19,delivered,Card,1
+LH-302396,CU-10153,2026-10-19,delivered,UPI,1
+LH-302397,CU-10208,2026-10-20,delivered,UPI,1
+LH-302398,CU-10072,2026-10-20,delivered,Net banking,1
+LH-302399,CU-10525,2026-10-20,delivered,Card,1
+LH-302400,CU-10325,2026-10-20,delivered,Net banking,1
+LH-302401,CU-10344,2026-10-20,delivered,UPI,1
+LH-302402,CU-10722,2026-10-20,delivered,Cash on delivery,1
+LH-302403,CU-10455,2026-10-20,delivered,Net banking,1
+LH-302404,CU-10784,2026-10-20,delivered,Cash on delivery,1
+LH-302405,CU-10226,2026-10-20,delivered,Cash on delivery,1
+LH-302406,CU-10601,2026-10-20,delivered,Card,1
+LH-302407,CU-10661,2026-10-20,delivered,UPI,1
+LH-302408,CU-10380,2026-10-20,delivered,Net banking,1
+LH-302409,CU-10271,2026-10-20,delivered,UPI,1
+LH-302410,CU-10671,2026-10-21,shipped,Card,1
+LH-302411,CU-10779,2026-10-21,delivered,Card,1
+LH-302412,CU-10539,2026-10-21,delivered,Cash on delivery,1
+LH-302413,CU-10597,2026-10-21,shipped,UPI,1
+LH-302414,CU-10560,2026-10-21,shipped,Cash on delivery,1
+LH-302415,CU-10337,2026-10-21,delivered,Cash on delivery,1
+LH-302416,CU-10698,2026-10-21,shipped,Card,1
+LH-302417,CU-10021,2026-10-21,delivered,Card,1
+LH-302418,CU-10405,2026-10-21,delivered,Cash on delivery,1
+LH-302419,CU-10145,2026-10-21,delivered,UPI,1
+LH-302420,CU-10302,2026-10-21,delivered,Net banking,1
+LH-302421,CU-10039,2026-10-22,shipped,UPI,1
+LH-302422,CU-10012,2026-10-22,shipped,UPI,1
+LH-302423,CU-10448,2026-10-22,shipped,Net banking,1
+LH-302424,CU-10568,2026-10-22,shipped,UPI,1
+LH-302425,CU-10727,2026-10-22,shipped,UPI,1
+LH-302426,CU-10198,2026-10-22,shipped,Net banking,1
+LH-302427,CU-10051,2026-10-22,shipped,UPI,1
+LH-302428,CU-10254,2026-10-22,shipped,UPI,1
+LH-302429,CU-10464,2026-10-22,shipped,Card,1
+LH-302430,CU-10343,2026-10-22,shipped,Net banking,1
+LH-302431,CU-10527,2026-10-22,shipped,UPI,1
+LH-302432,CU-10671,2026-10-22,shipped,Net banking,1
+LH-302433,CU-10291,2026-10-22,shipped,Cash on delivery,1
+LH-302434,CU-10315,2026-10-22,shipped,UPI,1
+LH-302435,CU-10070,2026-10-22,shipped,Net banking,1
+LH-302436,CU-10372,2026-10-22,shipped,Card,1
+LH-302437,CU-10593,2026-10-23,shipped,Cash on delivery,1
+LH-302438,CU-10693,2026-10-23,shipped,Net banking,1
+LH-302439,CU-10290,2026-10-23,shipped,Net banking,1
+LH-302440,CU-10060,2026-10-23,shipped,UPI,1
+LH-302441,CU-10444,2026-10-23,shipped,UPI,1
+LH-302442,CU-10130,2026-10-23,shipped,UPI,1
+LH-302443,CU-10613,2026-10-23,shipped,Card,1
+LH-302444,CU-10566,2026-10-23,shipped,Net banking,1
+LH-302445,CU-10525,2026-10-23,shipped,Card,1
+LH-302446,CU-10546,2026-10-23,shipped,Cash on delivery,1
+LH-302447,CU-10242,2026-10-24,shipped,Card,1
+LH-302448,CU-10430,2026-10-24,shipped,Card,1
+LH-302449,CU-10673,2026-10-24,shipped,Cash on delivery,1
+LH-302450,CU-10537,2026-10-24,shipped,Cash on delivery,1
+LH-302451,CU-10691,2026-10-24,shipped,Net banking,1
+LH-302452,CU-10483,2026-10-24,shipped,Cash on delivery,1
+LH-302453,CU-10682,2026-10-24,shipped,Card,1
+LH-302454,CU-10441,2026-10-24,shipped,UPI,1
+LH-302455,CU-10691,2026-10-24,shipped,UPI,1
+LH-302456,CU-10455,2026-10-24,shipped,UPI,1
+LH-302457,CU-10265,2026-10-24,shipped,Net banking,1
+LH-302458,CU-10113,2026-10-24,shipped,Card,1
+LH-302459,CU-10759,2026-10-24,shipped,UPI,1
+LH-302460,CU-10783,2026-10-24,shipped,UPI,1
+LH-302461,CU-10401,2026-10-24,shipped,UPI,1
+LH-302462,CU-10470,2026-10-24,shipped,UPI,1
+LH-302463,CU-10135,2026-10-24,shipped,Cash on delivery,1
+LH-302464,CU-10038,2026-10-24,shipped,UPI,1
+LH-302465,CU-10770,2026-10-24,shipped,Card,1
+LH-302466,CU-10537,2026-10-25,confirmed,Cash on delivery,1
+LH-302467,CU-10614,2026-10-25,confirmed,Cash on delivery,1
+LH-302468,CU-10069,2026-10-25,confirmed,Cash on delivery,1
+LH-302469,CU-10259,2026-10-25,confirmed,UPI,1
+LH-302470,CU-10752,2026-10-25,confirmed,Net banking,1
+LH-302471,CU-10051,2026-10-25,confirmed,Card,1
+LH-302472,CU-10755,2026-10-25,confirmed,UPI,1
+LH-302473,CU-10401,2026-10-25,confirmed,Net banking,1
+LH-302474,CU-10324,2026-10-25,confirmed,Card,1
+LH-302475,CU-10620,2026-10-25,confirmed,Cash on delivery,1
+LH-302476,CU-10664,2026-10-25,confirmed,UPI,1
+LH-302477,CU-10515,2026-10-25,confirmed,UPI,1
+LH-302478,CU-10467,2026-10-25,confirmed,Card,1
+LH-302479,CU-10132,2026-10-25,confirmed,Cash on delivery,1
+LH-302480,CU-10640,2026-10-25,confirmed,Net banking,1
+LH-302481,CU-10235,2026-10-25,confirmed,UPI,1
+LH-302482,CU-10325,2026-10-25,confirmed,Net banking,1
+LH-302483,CU-10336,2026-10-25,confirmed,Cash on delivery,1
+LH-302484,CU-10087,2026-10-26,confirmed,Cash on delivery,1
+LH-302485,CU-10449,2026-10-26,confirmed,Net banking,1
+LH-302486,CU-10774,2026-10-26,confirmed,UPI,1
+LH-302487,CU-10228,2026-10-26,confirmed,UPI,1
+LH-302488,CU-10666,2026-10-26,confirmed,UPI,1
+LH-302489,CU-10646,2026-10-26,confirmed,Net banking,1
+LH-302490,CU-10245,2026-10-26,confirmed,Net banking,1
+LH-302491,CU-10407,2026-10-26,confirmed,Cash on delivery,1
+LH-302492,CU-10055,2026-10-26,confirmed,Cash on delivery,1
+LH-302493,CU-10694,2026-10-26,confirmed,UPI,1
+LH-302494,CU-10132,2026-10-26,confirmed,UPI,1
+LH-302495,CU-10491,2026-10-26,confirmed,Cash on delivery,1
+LH-302496,CU-10700,2026-10-26,confirmed,Card,1
+LH-302497,CU-10159,2026-10-26,confirmed,Cash on delivery,1
+LH-302498,CU-10571,2026-10-26,confirmed,UPI,1

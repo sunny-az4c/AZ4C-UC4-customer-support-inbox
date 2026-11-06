@@ -1,0 +1,13 @@
+{
+  "case_id": "UC4-T06",
+  "decision": "reply",
+  "reason_code": [
+    "RESOLVED"
+  ],
+  "amount": null,
+  "must_cite": [
+    "HA-08"
+  ],
+  "needs_human": false,
+  "note": "care question answered from HA-08"
+}
